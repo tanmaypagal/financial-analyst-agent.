@@ -135,5 +135,8 @@ def test_deal_size_cap_fails_on_high_score_missing_phrase_or_oversize_top_pick()
     bad = _pe_run([_cand("Big Co", 9), _cand("Small Co", 8)], "Big Co", {"Big Co": 139e9, "Small Co": 2.4e9})
     d = C.check_deal_size_cap(bad).detail
     assert not C.check_deal_size_cap(bad).passed and "max 4" in d and "blocker" in d and "top_pick" in d
-    boundary = _pe_run([_cand("Edge Co", 8)], "Edge Co", {"Edge Co": 25e9})            # exactly the cap is NOT above it
+    from agent.config import load_personas
+    cap = load_personas()["pe_analyst"]["thresholds"]["largest_practical_deal_ev_usd"]
+    boundary = _pe_run([_cand("Edge Co", 8)], "Edge Co", {"Edge Co": cap})             # exactly the cap is NOT above it
+    assert not C.check_deal_size_cap(_pe_run([_cand("Edge Co", 8)], "Edge Co", {"Edge Co": cap + 1})).passed   # one dollar above IS
     assert C.check_deal_size_cap(boundary).passed

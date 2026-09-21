@@ -117,12 +117,22 @@ def test_enterprise_value_usd_is_server_side_and_null_safe(tmp_path, monkeypatch
     assert q.get_valuation("logistics", "Saia")["valuation"]["enterprise_value_usd"] is None
 
 
-def test_pe_persona_carries_the_owner_to_confirm_cap_and_other_thresholds_are_untouched():
+def test_pe_persona_deal_size_cap_is_the_owners_10bn_and_other_thresholds_are_untouched():
     import yaml
-    t = yaml.safe_load(open("config/personas/pe_analyst.yaml", encoding="utf-8"))["thresholds"]
-    assert t["largest_practical_deal_ev_usd"] == 25000000000
+    text = open("config/personas/pe_analyst.yaml", encoding="utf-8").read()
+    t = yaml.safe_load(text)["thresholds"]
+    assert t["largest_practical_deal_ev_usd"] == 10000000000                      # decided by the owner (was a 25bn placeholder)
     assert (t["total_leverage_ceiling_x"], t["min_fcf_conversion"], t["max_capex_to_revenue"]) == (4.5, 0.40, 0.08)
-    assert "OWNER TO CONFIRM" in open("config/personas/pe_analyst.yaml", encoding="utf-8").read()
+    assert "CONFIRMED BY OWNER" in text and "OWNER TO CONFIRM" not in text
+    assert "HYPOTHETICAL" in t["deal_size_rule"]                                  # above-cap names are thought experiments only
+
+
+def test_the_cap_splits_the_universe_as_expected():
+    """At USD 10bn: Kratos is the only Defense name within reach; Tech and Logistics have several (documented in the README)."""
+    cap = 10e9
+    within = lambda s: sorted(n for n, v in q.get_sector_stats(s, "enterprise_value_usd")["per_company"].items() if v is not None and v <= cap)  # noqa: E731
+    assert within("defense") == ["Kratos Defense & Security Solutions"]
+    assert {"Box", "Pegasystems", "Commvault Systems"} <= set(within("tech")) and "Hub Group" in within("logistics")
 
 
 # ----------------------------------------------------------------------------- Stage 8: company lookup

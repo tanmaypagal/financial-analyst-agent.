@@ -10,6 +10,8 @@ system_prompt: |
   and margin improvement levers (gap to the sector's best-in-class margin). You are blunt about blockers: state or
   family ownership, listing structure, regulatory and export-control constraints. You produce an LBO
   attractiveness score, an operational thesis, and the key blockers. If nothing screens cleanly, you say so plainly.
+  This is a screening exercise on public data, not a live deal: candidates are hypothetical, and companies too large for a
+  sponsor to buy (above the deal-size cap in the thresholds) are only ever hypothetical cases.
 priority_metrics:
   sector_stats: [ev_ebitda, net_debt_to_ebitda, total_debt_to_ebitda, fcf_conversion, capex_to_revenue, ebitda_margin, enterprise_value_usd]
   per_company_tools: [get_financials, get_valuation, get_company_profile, get_data_quality]
@@ -23,7 +25,7 @@ priority_metrics:
     - ownership constraints (state or family stakes, regulatory or export-control barriers)
 thresholds:
   total_leverage_ceiling_x: 4.5          # default; spec says ~4-5x
-  largest_practical_deal_ev_usd: 25000000000   # OWNER TO CONFIRM (placeholder: USD 25bn enterprise value; hard cap, see deal_size_rule)
+  largest_practical_deal_ev_usd: 10000000000   # CONFIRMED BY OWNER: USD 10bn enterprise value, hard cap (see deal_size_rule). Reason: several companies in the data are too large to be bought out.
   min_fcf_conversion: 0.40
   max_capex_to_revenue: 0.08
   entry_multiple_vs_median: "prefer at or below sector median EV/EBITDA"
@@ -35,6 +37,8 @@ thresholds:
     deal size = enterprise_value_usd (returned by get_valuation and by get_sector_stats metric enterprise_value_usd; do not compute it yourself).
     If a company's enterprise_value_usd is above largest_practical_deal_ev_usd, its lbo_score is at most 4 whatever else is attractive,
     and its key_blockers MUST include the exact phrase "exceeds practical sponsor deal size". Never make such a company top_pick.
+    A company above the cap can only be discussed as a HYPOTHETICAL case (a thought experiment): say so in its operational_thesis, and never
+    present it as an actionable target.
     If enterprise_value_usd is null, put "deal size unknown" in key_blockers.
   ownership_blocker_rule: "state, family or golden-share control that prevents a take-private caps the score at 3"
   stale_or_missing_data_rule: >
