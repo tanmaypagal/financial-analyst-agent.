@@ -1,0 +1,187 @@
+{
+ "ticker": "HAG.DE",
+ "sector": "defense",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/HAG.DE",
+ "info": {
+  "longName": "Hensoldt AG",
+  "currency": "EUR",
+  "financialCurrency": "EUR",
+  "exchange": "GER",
+  "fullExchangeName": "XETRA",
+  "country": "Germany",
+  "longBusinessSummary": "Hensoldt AG, together with its subsidiaries, provides sensor solutions for defense and security applications worldwide. It operates through Sensors and Optronics segments. It offers mobile and stationary radar, and identification friend or foe systems used for surveillance, reconnaissance, civil air traffic control, and air defense; systems for secure data connections for air, sea and land platforms; electronic systems for the acquisition and evaluation of radar and radio signals and jammers; defensive cyber solutions; and situational awareness systems, mission computers, and flight data recorders. The company also provides electronic self-protection systems that integrate missile, laser and radar warning sensors; customer support and service activities; simulation solutions, training courses and special services, and components and solutions for space-based sensors; and solutions and services for secure digitalization and networking in military and civil dimensions. In addition, it offers telescopic sights, visors, laser rangefinders, night vision devices and thermal imaging cameras; devices for surveillance and target acquisition for armored vehicles; submarine periscopes, optronic mast systems, and other electro-optical systems for use at sea; and mobile and stationary surveillance solutions; and special equipment for industrial and space applications. Further, the company provides friend-or-foe detection systems, radar for ship and land applications, cryptographic devices, and tactical point-to-point communication systems; delivery, installation and maintenance of air traffic control radar, weather radar, navigation, voice communications, and runway lighting systems for military and civil airports; and software solutions for military and non-military use. Hensoldt AG was incorporated in 2020 and is headquartered in Taufkirchen, Germany.",
+  "fullTimeEmployees": 9679,
+  "marketCap": 8985900032,
+  "enterpriseValue": 10927250432,
+  "trailingPE": 74.8077,
+  "enterpriseToEbitda": 31.582,
+  "enterpriseToRevenue": 4.08,
+  "dividendYield": 0.7,
+  "trailingAnnualDividendYield": 0.0070404503,
+  "dividendRate": 0.55,
+  "currentPrice": 77.8,
+  "regularMarketPrice": 77.8,
+  "lastFiscalYearEnd": 1767139200,
+  "mostRecentQuarter": 1782777600,
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "heldPercentInsiders": 0.47919998,
+  "heldPercentInstitutions": 0.407
+ },
+ "income_stmt": {
+  "2025-12-31": {
+   "Total Revenue": 2454000000.0,
+   "EBITDA": 414000000.0,
+   "EBIT": 233000000.0,
+   "Net Income": 89000000.0,
+   "Gross Profit": 524000000.0,
+   "Diluted EPS": 0.77
+  },
+  "2024-12-31": {
+   "Total Revenue": 2241000000.0,
+   "EBITDA": 379000000.0,
+   "EBIT": 217000000.0,
+   "Net Income": 108000000.0,
+   "Gross Profit": 509000000.0,
+   "Diluted EPS": 0.93
+  },
+  "2023-12-31": {
+   "Total Revenue": 1846000000.0,
+   "EBITDA": 293000000.0,
+   "EBIT": 176000000.0,
+   "Net Income": 56000000.0,
+   "Gross Profit": 419000000.0,
+   "Diluted EPS": 0.53
+  },
+  "2022-12-31": {
+   "Total Revenue": 1708000000.0,
+   "EBITDA": 277000000.0,
+   "EBIT": 174000000.0,
+   "Net Income": 78000000.0,
+   "Gross Profit": 394000000.0,
+   "Diluted EPS": 0.75
+  }
+ },
+ "balance_sheet": {
+  "2025-12-31": {
+   "Total Debt": 1634000000.0,
+   "Net Debt": 250000000.0,
+   "Cash And Cash Equivalents": 933000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 934000000.0
+  },
+  "2024-12-31": {
+   "Total Debt": 1375000000.0,
+   "Net Debt": 361000000.0,
+   "Cash And Cash Equivalents": 733000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 734000000.0
+  },
+  "2023-12-31": {
+   "Total Debt": 854000000.0,
+   "Net Debt": null,
+   "Cash And Cash Equivalents": 802000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 803000000.0
+  },
+  "2022-12-31": {
+   "Total Debt": 788000000.0,
+   "Net Debt": 170000000.0,
+   "Cash And Cash Equivalents": 460000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 462000000.0
+  },
+  "2021-12-31": {
+   "Total Debt": null,
+   "Net Debt": 259000000.0,
+   "Cash And Cash Equivalents": null,
+   "Cash Cash Equivalents And Short Term Investments": null
+  }
+ },
+ "cashflow": {
+  "2025-12-31": {
+   "Capital Expenditure": -206000000.0,
+   "Free Cash Flow": 244000000.0,
+   "Operating Cash Flow": 450000000.0
+  },
+  "2024-12-31": {
+   "Capital Expenditure": -199000000.0,
+   "Free Cash Flow": 112000000.0,
+   "Operating Cash Flow": 311000000.0
+  },
+  "2023-12-31": {
+   "Capital Expenditure": -115000000.0,
+   "Free Cash Flow": 152000000.0,
+   "Operating Cash Flow": 267000000.0
+  },
+  "2022-12-31": {
+   "Capital Expenditure": -95000000.0,
+   "Free Cash Flow": 149000000.0,
+   "Operating Cash Flow": 244000000.0
+  },
+  "2021-12-31": {
+   "Capital Expenditure": null,
+   "Free Cash Flow": null,
+   "Operating Cash Flow": null
+  }
+ },
+ "news": [
+  {
+   "title": "Hensoldt AG (HAGHY) (H1 2026) Earnings Call Highlights: Record Orders and Strategic Expansion ...",
+   "publisher": "GuruFocus.com",
+   "published": "2026-07-31T21:00:36Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/hensoldt-ag-haghy-h1-2026-210036781.html"
+  },
+  {
+   "title": "European Stocks That May Be Trading Below Their Estimated Value In June 2026",
+   "publisher": "Simply Wall St.",
+   "published": "2026-06-12T10:38:01Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/european-stocks-may-trading-below-103801478.html"
+  },
+  {
+   "title": "We Like The Quality Of Hensoldt's (ETR:HAG) Earnings",
+   "publisher": "Simply Wall St.",
+   "published": "2026-05-13T05:31:34Z",
+   "url": "https://finance.yahoo.com/news/quality-hensoldts-etr-hag-earnings-053134245.html"
+  },
+  {
+   "title": "Hensoldt AG (ETR:HAG) First-Quarter Results: Here's What Analysts Are Forecasting For This Year",
+   "publisher": "Simply Wall St.",
+   "published": "2026-05-09T08:33:01Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/hensoldt-ag-etr-hag-first-083301427.html"
+  },
+  {
+   "title": "European Value Stocks Priced Below Estimated Worth In May 2026",
+   "publisher": "Simply Wall St.",
+   "published": "2026-05-04T05:38:07Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/european-value-stocks-priced-below-053807661.html"
+  },
+  {
+   "title": "Investors Can Find Comfort In Hensoldt's (ETR:HAG) Earnings Quality",
+   "publisher": "Simply Wall St.",
+   "published": "2026-04-02T05:59:59Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/investors-comfort-hensoldts-etr-hag-055959371.html"
+  },
+  {
+   "title": "Hensoldt AG FY25 net profit drops 18% as tax bill triples despite record orders",
+   "publisher": "Investing.com",
+   "published": "2026-03-26T08:59:21Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/hensoldt-ag-fy25-net-profit-085921571.html"
+  },
+  {
+   "title": "Hensoldt (XTRA:HAG) Valuation Check After Recent Share Price Swings",
+   "publisher": "Simply Wall St.",
+   "published": "2026-03-15T05:11:15Z",
+   "url": "https://finance.yahoo.com/news/hensoldt-xtra-hag-valuation-check-051115717.html"
+  },
+  {
+   "title": "114-year-old defense stock offers a $3 billion dividend payout in 2026",
+   "publisher": "TheStreet",
+   "published": "2026-03-12T18:47:00Z",
+   "url": "https://www.thestreet.com/investing/stocks/114-year-old-defense-lockheed-martin-stock-offers-a-3-billion-dividend-payout-in-2026"
+  },
+  {
+   "title": "1 Defense Stock Cathie Wood Is Buying Now as the U.S.-Israel War on Iran Heats Up",
+   "publisher": "Barchart",
+   "published": "2026-03-06T19:09:43Z",
+   "url": "https://www.barchart.com/story/news/613201/1-defense-stock-cathie-wood-is-buying-now-as-the-u-s-israel-war-on-iran-heats-up"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "ticker": "HUBG",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/HUBG/holders",
+ "major_holders": {
+  "insidersPercentHeld": 0.02892,
+  "institutionsPercentHeld": 1.06305,
+  "institutionsFloatPercentHeld": 1.09471,
+  "institutionsCount": 397.0
+ },
+ "top_institutional": [
+  {
+   "holder": "Blackrock Inc.",
+   "pct": 0.1577,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Wellington Management Group, LLP",
+   "pct": 0.1229,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Dimensional Fund Advisors LP",
+   "pct": 0.068,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Capital International Investors",
+   "pct": 0.0661,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Vanguard Portfolio Management LLC",
+   "pct": 0.0583,
+   "reported": "2026-06-30"
+  }
+ ]
+}

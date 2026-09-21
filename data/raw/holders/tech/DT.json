@@ -1,0 +1,38 @@
+{
+ "ticker": "DT",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/DT/holders",
+ "major_holders": {
+  "insidersPercentHeld": 0.00598,
+  "institutionsPercentHeld": 1.08167,
+  "institutionsFloatPercentHeld": 1.0881801,
+  "institutionsCount": 823.0
+ },
+ "top_institutional": [
+  {
+   "holder": "Blackrock Inc.",
+   "pct": 0.120900005,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Vanguard Portfolio Management LLC",
+   "pct": 0.0547,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Vanguard Capital Management LLC",
+   "pct": 0.045700002,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Pictet Asset Management Holding SA",
+   "pct": 0.0442,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Wellington Management Group, LLP",
+   "pct": 0.0399,
+   "reported": "2026-06-30"
+  }
+ ]
+}

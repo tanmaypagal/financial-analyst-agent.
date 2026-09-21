@@ -1,0 +1,23 @@
+{
+ "ticker": "HO.PA",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/HO.PA/holders",
+ "major_holders": {
+  "insidersPercentHeld": 0.56198,
+  "institutionsPercentHeld": 0.23376,
+  "institutionsFloatPercentHeld": 0.53367,
+  "institutionsCount": 457.0
+ },
+ "top_institutional": [
+  {
+   "holder": "Generali Investments Cee, Investicni Spolecnost, A.s.",
+   "pct": 0.0002,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Pacer Advisors, Inc.",
+   "pct": 0.0,
+   "reported": "2026-06-30"
+  }
+ ]
+}

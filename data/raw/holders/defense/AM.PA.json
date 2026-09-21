@@ -1,0 +1,18 @@
+{
+ "ticker": "AM.PA",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/AM.PA/holders",
+ "major_holders": {
+  "insidersPercentHeld": 0.78335,
+  "institutionsPercentHeld": 0.11028,
+  "institutionsFloatPercentHeld": 0.50904,
+  "institutionsCount": 302.0
+ },
+ "top_institutional": [
+  {
+   "holder": "Pacer Advisors, Inc.",
+   "pct": 0.0,
+   "reported": "2024-03-31"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "ticker": "KTOS",
+ "retrieved_at": "2026-09-21",
+ "window": [
+  "2026-03-25",
+  "2026-09-21"
+ ],
+ "search_terms": [
+  "KRATOS"
+ ],
+ "source": "USAspending.gov spending_by_award (date_signed)",
+ "awards": [
+  {
+   "internal_id": 361484796,
+   "Award ID": "W900KK26FA104",
+   "Recipient Name": "KRATOS UNMANNED AERIAL SYSTEMS, INC",
+   "Award Amount": 6279408.0,
+   "Description": "DELIVERY ORDER FOR BQM-167 AND MQM-178 TARGET PLATFORMS. TO PROVIDE ACCREDITED, THREAT REPRESENTATIVE UNMANNED AERIAL TARGET SYSTEMS FOR USE IN SENSOR PRESENTATIONS OR LIVE FIRE TRACKING AND ENGAGEMENT FOR WEAPONS SYSTEMS TESTING.",
+   "Start Date": "2026-05-20",
+   "Awarding Agency": "Department of Defense",
+   "generated_internal_id": "CONT_AWD_W900KK26FA104_9700_W900KK23D0015_9700",
+   "awarding_agency_id": 1173,
+   "agency_slug": "department-of-defense"
+  },
+  {
+   "internal_id": 361776096,
+   "Award ID": "FA882326FB013",
+   "Recipient Name": "KRATOS TECHNOLOGY & TRAINING SOLUTIONS, INC.",
+   "Award Amount": 4092831.0,
+   "Description": "COMMAND AND CONTROL SYSTEM CONSOLIDATED SUSTAINMENT AND RESILIENCY OF CONTRACT MINIMUM VIABLE PRODUCT TASK ORDER 7",
+   "Start Date": "2026-06-01",
+   "Awarding Agency": "Department of Defense",
+   "generated_internal_id": "CONT_AWD_FA882326FB013_9700_FA882324D0001_9700",
+   "awarding_agency_id": 1173,
+   "agency_slug": "department-of-defense"
+  },
+  {
+   "internal_id": 361776061,
+   "Award ID": "FA867826FB007",
+   "Recipient Name": "KRATOS UNMANNED AERIAL SYSTEMS, INC",
+   "Award Amount": 3803585.0,
+   "Description": "ENGINEERING, TEST AND EVALUATION, MANUFACTURING, SUPPORT FUNCTIONS, AND MANAGEMENT TASKS TO UPDATE THE AUTOPILOT SENSOR REPLACEMENT.",
+   "Start Date": "2026-05-27",
+   "Awarding Agency": "Department of Defense",
+   "generated_internal_id": "CONT_AWD_FA867826FB007_9700_FA867821D0001_9700",
+   "awarding_agency_id": 1173,
+   "agency_slug": "department-of-defense"
+  },
+  {
+   "internal_id": 361205039,
+   "Award ID": "FA867826FB006",
+   "Recipient Name": "KRATOS UNMANNED AERIAL SYSTEMS, INC",
+   "Award Amount": 3474072.83,
+   "Description": "INITIAL TWO PHASES OF A COMPREHENSIVE PHASED APPROACH TO DESIGN, DEVELOP, INTEGRATE, AND QUALIFY A SATCOM SUBSYSTEM.",
+   "Start Date": "2026-05-11",
+   "Awarding Agency": "Department of Defense",
+   "generated_internal_id": "CONT_AWD_FA867826FB006_9700_FA867821D0001_9700",
+   "awarding_agency_id": 1173,
+   "agency_slug": "department-of-defense"
+  },
+  {
+   "internal_id": 362146215,
+   "Award ID": "N0001926F1000",
+   "Recipient Name": "KRATOS UNMANNED AERIAL SYSTEMS, INC",
+   "Award Amount": 2996035.0,
+   "Description": "PROCUREMENT OF MISSION KITS AND PARTS",
+   "Start Date": "2026-06-11",
+   "Awarding Agency": "Department of Defense",
+   "generated_internal_id": "CONT_AWD_N0001926F1000_9700_N0001922G0004_9700",
+   "awarding_agency_id": 1173,
+   "agency_slug": "department-of-defense"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "ticker": "MSFT",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/MSFT/holders",
+ "major_holders": {
+  "insidersPercentHeld": 0.00091,
+  "institutionsPercentHeld": 0.75795996,
+  "institutionsFloatPercentHeld": 0.75865,
+  "institutionsCount": 8174.0
+ },
+ "top_institutional": [
+  {
+   "holder": "Blackrock Inc.",
+   "pct": 0.08180001,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Vanguard Capital Management LLC",
+   "pct": 0.0653,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "State Street Corporation",
+   "pct": 0.0425,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Geode Capital Management, LLC",
+   "pct": 0.0255,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "FMR, LLC",
+   "pct": 0.025,
+   "reported": "2026-06-30"
+  }
+ ]
+}

@@ -1,0 +1,187 @@
+{
+ "ticker": "CHRW",
+ "sector": "logistics",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/CHRW",
+ "info": {
+  "longName": "C.H. Robinson Worldwide, Inc.",
+  "currency": "USD",
+  "financialCurrency": "USD",
+  "exchange": "NMS",
+  "fullExchangeName": "NasdaqGS",
+  "country": "United States",
+  "longBusinessSummary": "C.H. Robinson Worldwide, Inc., together with its subsidiaries, provides freight transportation and related logistics and supply chain services in the United States and internationally. It operates in two segments, North American Surface Transportation and Global Forwarding. The company offers transportation and logistics services, such as truckload; less than truckload transportation brokerage services, which include the shipment of single or multiple pallets of freight; intermodal transportation that comprises the shipment service of freight in containers or trailers by a combination of truck and rail; and non-vessel operating common carrier and freight forwarding services, as well as organizes indirect air carrier and freight forwarder providing door-to-door services. It also provides customs brokerage services; and other logistics services, such as fee-based managed, warehousing, supply chain consulting and optimization services, and other services. In addition, the company is involved in the buying, selling, and/or marketing of fresh fruits, vegetables, and other value-added perishable items under the Robinson Fresh trade name. Further, the company offers transportation management and other surface transportation services. It provides fresh produce to grocery retailers, restaurants, produce wholesalers. C.H. Robinson Worldwide, Inc. was founded in 1905 and is headquartered in Eden Prairie, Minnesota.",
+  "fullTimeEmployees": 11599,
+  "marketCap": 17877073920,
+  "enterpriseValue": 19695054848,
+  "trailingPE": 29.140953,
+  "enterpriseToEbitda": 21.118,
+  "enterpriseToRevenue": 1.159,
+  "dividendYield": 1.65,
+  "trailingAnnualDividendYield": 0.016317774,
+  "dividendRate": 2.52,
+  "currentPrice": 152.99,
+  "regularMarketPrice": 152.99,
+  "lastFiscalYearEnd": 1767139200,
+  "mostRecentQuarter": 1782777600,
+  "sector": "Industrials",
+  "industry": "Integrated Freight & Logistics",
+  "heldPercentInsiders": 0.00347,
+  "heldPercentInstitutions": 1.05178
+ },
+ "income_stmt": {
+  "2025-12-31": {
+   "Total Revenue": 16232763000.0,
+   "EBITDA": 897779000.0,
+   "EBIT": 794961000.0,
+   "Net Income": 587081000.0,
+   "Gross Profit": 1359252000.0,
+   "Diluted EPS": 4.83
+  },
+  "2024-12-31": {
+   "Total Revenue": 17724956000.0,
+   "EBITDA": 766301000.0,
+   "EBIT": 669141000.0,
+   "Net Income": 465690000.0,
+   "Gross Profit": 1308765000.0,
+   "Diluted EPS": 3.86
+  },
+  "2023-12-31": {
+   "Total Revenue": 17596443000.0,
+   "EBITDA": 613592000.0,
+   "EBIT": 514607000.0,
+   "Net Income": 325129000.0,
+   "Gross Profit": 1138873000.0,
+   "Diluted EPS": 2.72
+  },
+  "2022-12-31": {
+   "Total Revenue": 24696625000.0,
+   "EBITDA": 1359558000.0,
+   "EBIT": 1266782000.0,
+   "Net Income": 940524000.0,
+   "Gross Profit": 1870197000.0,
+   "Diluted EPS": 7.4
+  }
+ },
+ "balance_sheet": {
+  "2025-12-31": {
+   "Total Debt": 1395386000.0,
+   "Net Debt": 928567000.0,
+   "Cash And Cash Equivalents": 160871000.0,
+   "Cash Cash Equivalents And Short Term Investments": 160871000.0
+  },
+  "2024-12-31": {
+   "Total Debt": 1741132000.0,
+   "Net Debt": 1231887000.0,
+   "Cash And Cash Equivalents": 145762000.0,
+   "Cash Cash Equivalents And Short Term Investments": 145762000.0
+  },
+  "2023-12-31": {
+   "Total Debt": 1952501000.0,
+   "Net Debt": 1434963000.0,
+   "Cash And Cash Equivalents": 145524000.0,
+   "Cash Cash Equivalents And Short Term Investments": 145524000.0
+  },
+  "2022-12-31": {
+   "Total Debt": 2361168000.0,
+   "Net Debt": 1756222000.0,
+   "Cash And Cash Equivalents": 217482000.0,
+   "Cash Cash Equivalents And Short Term Investments": 217482000.0
+  },
+  "2021-12-31": {
+   "Total Debt": null,
+   "Net Debt": null,
+   "Cash And Cash Equivalents": null,
+   "Cash Cash Equivalents And Short Term Investments": null
+  }
+ },
+ "cashflow": {
+  "2025-12-31": {
+   "Capital Expenditure": -70543000.0,
+   "Free Cash Flow": 843976000.0,
+   "Operating Cash Flow": 914519000.0
+  },
+  "2024-12-31": {
+   "Capital Expenditure": -74288000.0,
+   "Free Cash Flow": 434796000.0,
+   "Operating Cash Flow": 509084000.0
+  },
+  "2023-12-31": {
+   "Capital Expenditure": -84111000.0,
+   "Free Cash Flow": 647835000.0,
+   "Operating Cash Flow": 731946000.0
+  },
+  "2022-12-31": {
+   "Capital Expenditure": -128497000.0,
+   "Free Cash Flow": 1521674000.0,
+   "Operating Cash Flow": 1650171000.0
+  },
+  "2021-12-31": {
+   "Capital Expenditure": null,
+   "Free Cash Flow": null,
+   "Operating Cash Flow": null
+  }
+ },
+ "news": [
+  {
+   "title": "UBS Delivers Bullish Call on 10 Stocks With Up to 62% Upside",
+   "publisher": "GuruFocus.com",
+   "published": "2026-09-16T20:19:37Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/ubs-delivers-bullish-call-10-201937289.html"
+  },
+  {
+   "title": "Is Uber Stock Cheap, Or Is The Cash Already Spent?",
+   "publisher": "Trefis",
+   "published": "2026-09-11T21:32:11Z",
+   "url": "https://www.trefis.com/articles/615041/is-uber-stock-cheap-or-is-the-cash-already-spent/2026-09-11"
+  },
+  {
+   "title": "3 Profitable Stocks We Steer Clear Of",
+   "publisher": "StockStory",
+   "published": "2026-09-10T17:37:04Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/3-profitable-stocks-steer-clear-173704146.html"
+  },
+  {
+   "title": "Should You Buy Uber Stock Because Its Operating Margin Keeps Climbing?",
+   "publisher": "Trefis",
+   "published": "2026-09-09T21:50:28Z",
+   "url": "https://www.trefis.com/articles/614770/should-you-buy-uber-stock-because-its-operating-margin-keeps-climbing/2026-09-09"
+  },
+  {
+   "title": "At tech/AI confab, C.H. Robinson tackles insurance and liability",
+   "publisher": "FreightWaves",
+   "published": "2026-09-08T22:07:03Z",
+   "url": "https://finance.yahoo.com/technology/ai/articles/tech-ai-confab-c-h-220703916.html"
+  },
+  {
+   "title": "$604M CH Robinson Verdict Still Isn\u2019t Final Yet",
+   "publisher": "FreightWaves",
+   "published": "2026-09-08T19:29:55Z",
+   "url": "https://finance.yahoo.com/small-business/articles/604m-ch-robinson-verdict-still-192955477.html"
+  },
+  {
+   "title": "Citi turns more bullish on trucking stocks",
+   "publisher": "Investing.com",
+   "published": "2026-09-08T11:45:14Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/citi-turns-more-bullish-trucking-114514255.html"
+  },
+  {
+   "title": "C.H. Robinson Shares Rise 1.5% Premarket Without New Company Announcement",
+   "publisher": "InvestorsHub",
+   "published": "2026-09-08T10:15:32Z",
+   "url": "https://investorshub.advfn.com/market-news/article/35793/c-h-robinson-shares-rise-1-5-premarket-without-new-company-announcement"
+  },
+  {
+   "title": "TFII or CHRW: Which Is the Better Value Stock Right Now?",
+   "publisher": "Zacks",
+   "published": "2026-09-07T15:40:03Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/tfii-chrw-better-value-stock-154003748.html"
+  },
+  {
+   "title": "2 S&P 500 Stocks for Long-Term Investors and 1 We Turn Down",
+   "publisher": "StockStory",
+   "published": "2026-09-02T18:12:23Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/2-p-500-stocks-long-181223487.html"
+  }
+ ]
+}

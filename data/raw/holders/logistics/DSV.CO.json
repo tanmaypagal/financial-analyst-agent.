@@ -1,0 +1,12 @@
+{
+ "ticker": "DSV.CO",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/DSV.CO/holders",
+ "major_holders": {
+  "insidersPercentHeld": 0.177,
+  "institutionsPercentHeld": 0.48248002,
+  "institutionsFloatPercentHeld": 0.58624,
+  "institutionsCount": 498.0
+ },
+ "top_institutional": []
+}

@@ -1,0 +1,18 @@
+{
+ "ticker": "SAAB-B.ST",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/SAAB-B.ST/holders",
+ "major_holders": {
+  "insidersPercentHeld": 0.00875,
+  "institutionsPercentHeld": 0.70639,
+  "institutionsFloatPercentHeld": 0.71262,
+  "institutionsCount": 359.0
+ },
+ "top_institutional": [
+  {
+   "holder": "Pacer Advisors, Inc.",
+   "pct": 0.0,
+   "reported": "2025-12-31"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "ticker": "WERN",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/WERN/holders",
+ "major_holders": {
+  "insidersPercentHeld": 0.01117,
+  "institutionsPercentHeld": 1.16372,
+  "institutionsFloatPercentHeld": 1.17687,
+  "institutionsCount": 384.0
+ },
+ "top_institutional": [
+  {
+   "holder": "Blackrock Inc.",
+   "pct": 0.1735,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Dimensional Fund Advisors LP",
+   "pct": 0.064,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "FMR, LLC",
+   "pct": 0.062800005,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Vanguard Portfolio Management LLC",
+   "pct": 0.0621,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "American Century Companies Inc",
+   "pct": 0.0508,
+   "reported": "2026-06-30"
+  }
+ ]
+}

@@ -1,0 +1,195 @@
+{
+ "ticker": "ARCB",
+ "sector": "logistics",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/ARCB",
+ "info": {
+  "longName": "ArcBest Corporation",
+  "currency": "USD",
+  "financialCurrency": "USD",
+  "exchange": "NMS",
+  "fullExchangeName": "NasdaqGS",
+  "country": "United States",
+  "longBusinessSummary": "ArcBest Corporation, an integrated logistics company, provides ground, air, and ocean transportation solutions worldwide. It operates in two segments, Asset-Based and Asset-Light. The Asset-Based segment provides less-than-truckload (LTL) services that transports general commodities, such as food, textiles, apparel, furniture, appliances, chemicals, non-bulk petroleum products, rubber, plastics, metal and metal products, wood, glass, automotive parts, machinery, and miscellaneous manufactured products. This segment also offers motor carrier freight transportation services to customers in Mexico through arrangements with trucking companies. The Asset-Light segment provides ground expedite services; third-party transportation brokerage services by sourcing various capacity solutions, including dry van over-the-road, temperature-controlled and refrigerated, flatbed, intermodal or container shipping, and specialized equipment; less-than-container and full container load ocean transportation services; warehousing and distribution services; managed transportation services; and moving services to \u0091do-it-yourself' consumer, as well as final mile, time critical, product launch, retail logistics, supply chain optimization, brokered LTL, and trade show shipping services. This segment also offers premium logistics services, such as deployment of specialized equipment to meet linehaul requirements; and international freight transportation with air, ocean, and ground services. The company was formerly known as Arkansas Best Corporation and changed its name to ArcBest Corporation in May 2014. The company was founded in 1923 and is headquartered in Fort Smith, Arkansas.",
+  "fullTimeEmployees": 14000,
+  "marketCap": 2877289728,
+  "enterpriseValue": 3168617728,
+  "trailingPE": 186.56522,
+  "enterpriseToEbitda": 10.959,
+  "enterpriseToRevenue": 0.754,
+  "dividendYield": 0.37,
+  "trailingAnnualDividendYield": 0.003722373,
+  "dividendRate": 0.48,
+  "currentPrice": 128.73,
+  "regularMarketPrice": 128.73,
+  "lastFiscalYearEnd": 1767139200,
+  "mostRecentQuarter": 1782777600,
+  "sector": "Industrials",
+  "industry": "Trucking",
+  "heldPercentInsiders": 0.01426,
+  "heldPercentInstitutions": 1.06409
+ },
+ "income_stmt": {
+  "2025-12-31": {
+   "Total Revenue": 4010158000.0,
+   "EBITDA": 265793000.0,
+   "EBIT": 95458000.0,
+   "Net Income": 60098000.0,
+   "Gross Profit": 275256000.0,
+   "Diluted EPS": 2.63
+  },
+  "2024-12-31": {
+   "Total Revenue": 4179019000.0,
+   "EBITDA": 376781000.0,
+   "EBIT": 227694000.0,
+   "Net Income": 173961000.0,
+   "Gross Profit": 350000000.0,
+   "Diluted EPS": 7.3
+  },
+  "2023-12-31": {
+   "Total Revenue": 4427443000.0,
+   "EBITDA": 341738000.0,
+   "EBIT": 196009000.0,
+   "Net Income": 195433000.0,
+   "Gross Profit": 378433000.0,
+   "Diluted EPS": 7.93
+  },
+  "2022-12-31": {
+   "Total Revenue": 5029008000.0,
+   "EBITDA": 536068000.0,
+   "EBIT": 396029000.0,
+   "Net Income": 298209000.0,
+   "Gross Profit": 573524000.0,
+   "Diluted EPS": 11.69
+  },
+  "2021-12-31": {
+   "Total Revenue": null,
+   "EBITDA": null,
+   "EBIT": null,
+   "Net Income": null,
+   "Gross Profit": null,
+   "Diluted EPS": null
+  }
+ },
+ "balance_sheet": {
+  "2025-12-31": {
+   "Total Debt": 464583000.0,
+   "Net Debt": 121826000.0,
+   "Cash And Cash Equivalents": 102030000.0,
+   "Cash Cash Equivalents And Short Term Investments": 124234000.0
+  },
+  "2024-12-31": {
+   "Total Debt": 413476000.0,
+   "Net Debt": 61690000.0,
+   "Cash And Cash Equivalents": 127444000.0,
+   "Cash Cash Equivalents And Short Term Investments": 157203000.0
+  },
+  "2023-12-31": {
+   "Total Debt": 437731000.0,
+   "Net Debt": null,
+   "Cash And Cash Equivalents": 262226000.0,
+   "Cash Cash Equivalents And Short Term Investments": 330068000.0
+  },
+  "2022-12-31": {
+   "Total Debt": 438676000.0,
+   "Net Debt": 106359000.0,
+   "Cash And Cash Equivalents": 158264000.0,
+   "Cash Cash Equivalents And Short Term Investments": 325926000.0
+  },
+  "2021-12-31": {
+   "Total Debt": null,
+   "Net Debt": 148912000.0,
+   "Cash And Cash Equivalents": null,
+   "Cash Cash Equivalents And Short Term Investments": null
+  }
+ },
+ "cashflow": {
+  "2025-12-31": {
+   "Capital Expenditure": -128166000.0,
+   "Free Cash Flow": 100787000.0,
+   "Operating Cash Flow": 228953000.0
+  },
+  "2024-12-31": {
+   "Capital Expenditure": -240000000.0,
+   "Free Cash Flow": 45846000.0,
+   "Operating Cash Flow": 285846000.0
+  },
+  "2023-12-31": {
+   "Capital Expenditure": -231998000.0,
+   "Free Cash Flow": 90169000.0,
+   "Operating Cash Flow": 322167000.0
+  },
+  "2022-12-31": {
+   "Capital Expenditure": -165505000.0,
+   "Free Cash Flow": 305314000.0,
+   "Operating Cash Flow": 470819000.0
+  },
+  "2021-12-31": {
+   "Capital Expenditure": null,
+   "Free Cash Flow": null,
+   "Operating Cash Flow": null
+  }
+ },
+ "news": [
+  {
+   "title": "J.B. Hunt's Stock Plunges After Market Misprices Profit Warning",
+   "publisher": "MarketBeat",
+   "published": "2026-09-18T16:40:00Z",
+   "url": "https://www.marketbeat.com/articles/jb-hunts-stock-plunges-after-market-misprices-profit-warning/?utm_source=yahoofinance&utm_medium=yahoofinance"
+  },
+  {
+   "title": "Diesel Prices Are Rising and XPO Stock Could Benefit More Than Peers",
+   "publisher": "Simply Wall St.",
+   "published": "2026-09-18T11:15:14Z",
+   "url": "https://finance.yahoo.com/energy/articles/diesel-prices-rising-xpo-stock-111514231.html"
+  },
+  {
+   "title": "J.B. Hunt Stock Down 13% in Yesterday's Trading: Here's Why",
+   "publisher": "Zacks",
+   "published": "2026-09-17T15:38:00Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/j-b-hunt-stock-down-153800198.html"
+  },
+  {
+   "title": "2 Industrials Stocks with Exciting Potential and 1 We Ignore",
+   "publisher": "StockStory",
+   "published": "2026-09-17T10:26:17Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/2-industrials-stocks-exciting-potential-102617428.html"
+  },
+  {
+   "title": "ArcBest sees tonnage growth accelerate in August; raises Q3 asset-light guide",
+   "publisher": "FreightWaves",
+   "published": "2026-09-09T13:11:29Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/arcbest-sees-august-tonnage-growth-131129684.html"
+  },
+  {
+   "title": "ArcBest (ARCB), What Is Behind The Latest Attention?",
+   "publisher": "Simply Wall St.",
+   "published": "2026-08-29T18:10:58Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/arcbest-arcb-behind-latest-attention-181058062.html"
+  },
+  {
+   "title": "Why Is ArcBest (ARCB) Down 2.1% Since Last Earnings Report?",
+   "publisher": "Zacks",
+   "published": "2026-08-28T15:30:23Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/why-arcbest-arcb-down-2-153023060.html"
+  },
+  {
+   "title": "RXO, ArcBest, and Lucid Shares Plummet, What You Need To Know",
+   "publisher": "StockStory",
+   "published": "2026-08-24T20:33:36Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/rxo-arcbest-lucid-shares-plummet-203336097.html"
+  },
+  {
+   "title": "1 of Wall Street\u2019s Favorite Stocks to Target This Week and 2 We Question",
+   "publisher": "StockStory",
+   "published": "2026-08-20T12:19:15Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/1-wall-street-favorite-stocks-121915772.html"
+  },
+  {
+   "title": "Belden, Timken, ArcBest, Acuity Brands, and VSE Corporation Shares Plummet, What You Need To Know",
+   "publisher": "StockStory",
+   "published": "2026-08-18T22:29:33Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/belden-timken-arcbest-acuity-brands-222933970.html"
+  }
+ ]
+}

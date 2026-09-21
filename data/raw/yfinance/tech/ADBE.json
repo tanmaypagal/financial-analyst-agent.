@@ -1,0 +1,187 @@
+{
+ "ticker": "ADBE",
+ "sector": "tech",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/ADBE",
+ "info": {
+  "longName": "Adobe Inc.",
+  "currency": "USD",
+  "financialCurrency": "USD",
+  "exchange": "NMS",
+  "fullExchangeName": "NasdaqGS",
+  "country": "United States",
+  "longBusinessSummary": "Adobe Inc. operates as a technology company worldwide. The Digital Media segment offers products and services that enable individuals, teams, and enterprises to create, publish, and promote content. This segment serves photographers, video editors, graphic and experience designers, game developers, content creators, students, marketers, business owners, knowledge workers, and consumers. The Digital Experience segment provides an integrated platform; and products, services, and solutions that enable brands and businesses to create, manage, execute, measure, monetize, and optimize customer experiences from analytics to commerce. This segment serves marketers, advertisers, agencies, publishers, merchandisers, merchants, web analysts, data scientists, developers, and executives across the C-suite. The Publishing and Advertising segment offers e-learning, technical document publishing, web conferencing, document and forms platform, web application development, printing, and Adobe Advertising solutions. It also provides consulting, training, customer management, technical support, and learning services. The company offers its solutions to enterprise customers, and businesses and consumers; and licenses its products to end-user customers through app stores and website at adobe.com. It markets and distributes its products through distributors, retailers, software developers, mobile app stores, systems integrators, independent software vendors, value-added resellers, and original equipment and hardware manufacturers. The company also provides an online visibility management and content marketing software-as-a-service platform. The company has a strategic alliance with HUMAIN for the development of generative AI models and AI-powered applications. The company was formerly known as Adobe Systems Incorporated and changed its name to Adobe Inc. in October 2018. Adobe Inc. was founded in 1982 and is headquartered in San Jose, California.",
+  "fullTimeEmployees": 31360,
+  "marketCap": 98945695744,
+  "enterpriseValue": 99446398976,
+  "trailingPE": 13.890625,
+  "enterpriseToEbitda": 10.194,
+  "enterpriseToRevenue": 3.829,
+  "dividendYield": null,
+  "trailingAnnualDividendYield": 0.0,
+  "dividendRate": null,
+  "currentPrice": 248.92,
+  "regularMarketPrice": 248.92,
+  "lastFiscalYearEnd": 1764288000,
+  "mostRecentQuarter": 1787875200,
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "heldPercentInsiders": 0.00223,
+  "heldPercentInstitutions": 0.87154996
+ },
+ "income_stmt": {
+  "2025-11-30": {
+   "Total Revenue": 23769000000.0,
+   "EBITDA": 9815000000.0,
+   "EBIT": 8997000000.0,
+   "Net Income": 7130000000.0,
+   "Gross Profit": 21218000000.0,
+   "Diluted EPS": 16.7
+  },
+  "2024-11-30": {
+   "Total Revenue": 21505000000.0,
+   "EBITDA": 7957000000.0,
+   "EBIT": 7100000000.0,
+   "Net Income": 5560000000.0,
+   "Gross Profit": 19147000000.0,
+   "Diluted EPS": 12.36
+  },
+  "2023-11-30": {
+   "Total Revenue": 19409000000.0,
+   "EBITDA": 7784000000.0,
+   "EBIT": 6912000000.0,
+   "Net Income": 5428000000.0,
+   "Gross Profit": 17055000000.0,
+   "Diluted EPS": 11.82
+  },
+  "2022-11-30": {
+   "Total Revenue": 17606000000.0,
+   "EBITDA": 6976000000.0,
+   "EBIT": 6120000000.0,
+   "Net Income": 4756000000.0,
+   "Gross Profit": 15441000000.0,
+   "Diluted EPS": 10.1
+  }
+ },
+ "balance_sheet": {
+  "2025-11-30": {
+   "Total Debt": 6648000000.0,
+   "Net Debt": 779000000.0,
+   "Cash And Cash Equivalents": 5431000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 6595000000.0
+  },
+  "2024-11-30": {
+   "Total Debt": 6056000000.0,
+   "Net Debt": null,
+   "Cash And Cash Equivalents": 7613000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 7886000000.0
+  },
+  "2023-11-30": {
+   "Total Debt": 4080000000.0,
+   "Net Debt": null,
+   "Cash And Cash Equivalents": 7141000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 7842000000.0
+  },
+  "2022-11-30": {
+   "Total Debt": 4633000000.0,
+   "Net Debt": null,
+   "Cash And Cash Equivalents": 4236000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 6096000000.0
+  },
+  "2021-11-30": {
+   "Total Debt": null,
+   "Net Debt": 279000000.0,
+   "Cash And Cash Equivalents": null,
+   "Cash Cash Equivalents And Short Term Investments": null
+  }
+ },
+ "cashflow": {
+  "2025-11-30": {
+   "Capital Expenditure": -179000000.0,
+   "Free Cash Flow": 9852000000.0,
+   "Operating Cash Flow": 10031000000.0
+  },
+  "2024-11-30": {
+   "Capital Expenditure": -183000000.0,
+   "Free Cash Flow": 7873000000.0,
+   "Operating Cash Flow": 8056000000.0
+  },
+  "2023-11-30": {
+   "Capital Expenditure": -360000000.0,
+   "Free Cash Flow": 6942000000.0,
+   "Operating Cash Flow": 7302000000.0
+  },
+  "2022-11-30": {
+   "Capital Expenditure": -442000000.0,
+   "Free Cash Flow": 7396000000.0,
+   "Operating Cash Flow": 7838000000.0
+  },
+  "2021-11-30": {
+   "Capital Expenditure": null,
+   "Free Cash Flow": null,
+   "Operating Cash Flow": null
+  }
+ },
+ "news": [
+  {
+   "title": "A Pause on Advanced AI Is Wishful Thinking, But Adobe Stock Is a Buy Anyway",
+   "publisher": "Barchart",
+   "published": "2026-09-19T12:00:02Z",
+   "url": "https://www.barchart.com/story/news/4693911/a-pause-on-advanced-ai-is-wishful-thinking-but-adobe-stock-is-a-buy-anyway"
+  },
+  {
+   "title": "MarketBeat Week in Review \u2013 09/14 - 09/18",
+   "publisher": "MarketBeat",
+   "published": "2026-09-19T11:00:00Z",
+   "url": "https://www.marketbeat.com/articles/marketbeat-week-in-review-09-14-09-18/?utm_source=yahoofinance&utm_medium=yahoofinance"
+  },
+  {
+   "title": "How Atlassian Stock Shook Off 'SaaSpocalypse' AI Fears For A Big Rally",
+   "publisher": "Investor's Business Daily",
+   "published": "2026-09-18T20:12:39Z",
+   "url": "https://www.investors.com/research/the-new-america/atlassian-stock-saaspocalypse-ai-rally/?src=A00220&yptr=yahoo"
+  },
+  {
+   "title": "How Far Could Autodesk Stock Rebound From Here?",
+   "publisher": "Trefis",
+   "published": "2026-09-17T20:54:03Z",
+   "url": "https://www.trefis.com/articles/615697/how-far-could-autodesk-stock-rebound-from-here/2026-09-17"
+  },
+  {
+   "title": "Would You Want CRM Stock Back At The Price It Just Left?",
+   "publisher": "Trefis",
+   "published": "2026-09-17T18:06:45Z",
+   "url": "https://www.trefis.com/articles/615696/would-you-want-crm-stock-back-at-the-price-it-just-left/2026-09-17"
+  },
+  {
+   "title": "How Much Upside Is Left In Adobe Stock?",
+   "publisher": "Trefis",
+   "published": "2026-09-17T15:46:29Z",
+   "url": "https://www.trefis.com/articles/615732/how-much-upside-is-left-in-adobe-stock/2026-09-17"
+  },
+  {
+   "title": "Is Docusign Stock Worth Buying as IAM Growth Meets Liquidity Risks?",
+   "publisher": "Zacks",
+   "published": "2026-09-17T14:43:00Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/docusign-stock-worth-buying-iam-144300607.html"
+  },
+  {
+   "title": "E-Commerce Update - AI-Powered Student Spaces Revolutionizes Learning With Adobe Acrobat",
+   "publisher": "Simply Wall St.",
+   "published": "2026-09-17T12:37:34Z",
+   "url": "https://finance.yahoo.com/technology/ai/articles/e-commerce-ai-powered-student-123734626.html"
+  },
+  {
+   "title": "ADBE Stock On Track For Third Weekly Loss: Outgoing CEO Files $31.5M Share Sale",
+   "publisher": "Stocktwits",
+   "published": "2026-09-17T06:10:28Z",
+   "url": "https://stocktwits.com/news-articles/markets/equity/adbe-stock-on-track-for-third-weekly-loss-outgoing-ceo-files-31-5-m-share-sale/cZtrWoGRB5O"
+  },
+  {
+   "title": "Did Salesforce Telegraph Its Own Massive Rally?",
+   "publisher": "Trefis",
+   "published": "2026-09-16T17:04:38Z",
+   "url": "https://www.trefis.com/articles/615514/did-salesforce-telegraph-its-own-massive-rally/2026-09-16"
+  }
+ ]
+}

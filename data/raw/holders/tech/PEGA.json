@@ -1,0 +1,38 @@
+{
+ "ticker": "PEGA",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/PEGA/holders",
+ "major_holders": {
+  "insidersPercentHeld": 0.47853002,
+  "institutionsPercentHeld": 0.61596,
+  "institutionsFloatPercentHeld": 1.18122,
+  "institutionsCount": 601.0
+ },
+ "top_institutional": [
+  {
+   "holder": "Blackrock Inc.",
+   "pct": 0.0582,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Vanguard Portfolio Management LLC",
+   "pct": 0.039300002,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "AQR Capital Management, LLC",
+   "pct": 0.0299,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Vanguard Capital Management LLC",
+   "pct": 0.0251,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Massachusetts Financial Services Co.",
+   "pct": 0.0184,
+   "reported": "2026-06-30"
+  }
+ ]
+}

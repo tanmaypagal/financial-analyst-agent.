@@ -1,0 +1,38 @@
+{
+ "ticker": "DOCU",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/DOCU/holders",
+ "major_holders": {
+  "insidersPercentHeld": 0.0055,
+  "institutionsPercentHeld": 0.95972997,
+  "institutionsFloatPercentHeld": 0.96503997,
+  "institutionsCount": 941.0
+ },
+ "top_institutional": [
+  {
+   "holder": "Blackrock Inc.",
+   "pct": 0.1117,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Vanguard Portfolio Management LLC",
+   "pct": 0.062,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "AQR Capital Management, LLC",
+   "pct": 0.048,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Vanguard Capital Management LLC",
+   "pct": 0.0469,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Capital World Investors",
+   "pct": 0.0378,
+   "reported": "2026-06-30"
+  }
+ ]
+}

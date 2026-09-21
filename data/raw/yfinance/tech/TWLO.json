@@ -1,0 +1,187 @@
+{
+ "ticker": "TWLO",
+ "sector": "tech",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/TWLO",
+ "info": {
+  "longName": "Twilio Inc.",
+  "currency": "USD",
+  "financialCurrency": "USD",
+  "exchange": "NYQ",
+  "fullExchangeName": "NYSE",
+  "country": "United States",
+  "longBusinessSummary": "Twilio Inc., together with its subsidiaries, provides customer engagement platform solutions in the United States and internationally. The company provides various application programming interfaces and software solutions for communications between customers and end users, including messaging, voice, email, video interactions, digital engagement centers, marketing campaigns, and user authentication and identity solutions. It also offers software products to build direct and personalized relationships with their end users, such as Segment, a platform that provides tools to harness the power of contextual data by unifying real-time information collected throughout each customer's journey into a unique profile. Twilio Inc. was incorporated in 2008 and is headquartered in San Francisco, California.",
+  "fullTimeEmployees": 5492,
+  "marketCap": 37447778304,
+  "enterpriseValue": 35856969728,
+  "trailingPE": 33.679558,
+  "enterpriseToEbitda": 71.741,
+  "enterpriseToRevenue": 6.435,
+  "dividendYield": null,
+  "trailingAnnualDividendYield": 0.0,
+  "dividendRate": null,
+  "currentPrice": 243.84,
+  "regularMarketPrice": 243.84,
+  "lastFiscalYearEnd": 1767139200,
+  "mostRecentQuarter": 1782777600,
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "heldPercentInsiders": 0.00127,
+  "heldPercentInstitutions": 0.93255997
+ },
+ "income_stmt": {
+  "2025-12-31": {
+   "Total Revenue": 5067220000.0,
+   "EBITDA": 370125000.0,
+   "EBIT": 174681000.0,
+   "Net Income": 33834000.0,
+   "Gross Profit": 2478734000.0,
+   "Diluted EPS": 0.21
+  },
+  "2024-12-31": {
+   "Total Revenue": 4458036000.0,
+   "EBITDA": 165549000.0,
+   "EBIT": -40435000.0,
+   "Net Income": -109403000.0,
+   "Gross Profit": 2278212000.0,
+   "Diluted EPS": -0.66
+  },
+  "2023-12-31": {
+   "Total Revenue": 4153945000.0,
+   "EBITDA": -105891000.0,
+   "EBIT": -390304000.0,
+   "Net Income": -1015441000.0,
+   "Gross Profit": 2043930000.0,
+   "Diluted EPS": -5.54
+  },
+  "2022-12-31": {
+   "Total Revenue": 3826321000.0,
+   "EBITDA": -751823000.0,
+   "EBIT": -1030950000.0,
+   "Net Income": -1256145000.0,
+   "Gross Profit": 1813577000.0,
+   "Diluted EPS": -6.86
+  }
+ },
+ "balance_sheet": {
+  "2025-12-31": {
+   "Total Debt": 1081572000.0,
+   "Net Debt": 309952000.0,
+   "Cash And Cash Equivalents": 682335000.0,
+   "Cash Cash Equivalents And Short Term Investments": 2470342000.0
+  },
+  "2024-12-31": {
+   "Total Debt": 1110147000.0,
+   "Net Debt": 569290000.0,
+   "Cash And Cash Equivalents": 421297000.0,
+   "Cash Cash Equivalents And Short Term Investments": 2384399000.0
+  },
+  "2023-12-31": {
+   "Total Debt": 1159595000.0,
+   "Net Debt": 333022000.0,
+   "Cash And Cash Equivalents": 655931000.0,
+   "Cash Cash Equivalents And Short Term Investments": 4011995000.0
+  },
+  "2022-12-31": {
+   "Total Debt": 1239316000.0,
+   "Net Debt": 335630000.0,
+   "Cash And Cash Equivalents": 651752000.0,
+   "Cash Cash Equivalents And Short Term Investments": 4155069000.0
+  },
+  "2021-12-31": {
+   "Total Debt": null,
+   "Net Debt": null,
+   "Cash And Cash Equivalents": null,
+   "Cash Cash Equivalents And Short Term Investments": null
+  }
+ },
+ "cashflow": {
+  "2025-12-31": {
+   "Capital Expenditure": -57817000.0,
+   "Free Cash Flow": 945427000.0,
+   "Operating Cash Flow": 1003244000.0
+  },
+  "2024-12-31": {
+   "Capital Expenditure": -58786000.0,
+   "Free Cash Flow": 657455000.0,
+   "Operating Cash Flow": 716241000.0
+  },
+  "2023-12-31": {
+   "Capital Expenditure": -51235000.0,
+   "Free Cash Flow": 363517000.0,
+   "Operating Cash Flow": 414752000.0
+  },
+  "2022-12-31": {
+   "Capital Expenditure": -80182000.0,
+   "Free Cash Flow": -334550000.0,
+   "Operating Cash Flow": -254368000.0
+  },
+  "2021-12-31": {
+   "Capital Expenditure": null,
+   "Free Cash Flow": null,
+   "Operating Cash Flow": null
+  }
+ },
+ "news": [
+  {
+   "title": "Does Twilio (TWLO) Have More Upside After Its AI Push?",
+   "publisher": "Simply Wall St.",
+   "published": "2026-09-20T15:13:27Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/does-twilio-twlo-more-upside-151327285.html"
+  },
+  {
+   "title": "Robinhood Soars, SpaceX Orbits Entry: Five Stocks Near Buy Points",
+   "publisher": "Investor's Business Daily",
+   "published": "2026-09-19T12:00:39Z",
+   "url": "https://www.investors.com/news/robinhood-stock-spacex-stocks-near-buy-points/?src=A00220&yptr=yahoo"
+  },
+  {
+   "title": "Inertia co-founder Jeff Lawson\u2019s next big bet is fusion: Go inside it at TechCrunch Disrupt 2026",
+   "publisher": "TechCrunch",
+   "published": "2026-09-18T14:30:00Z",
+   "url": "https://finance.yahoo.com/technology/articles/inertia-co-founder-jeff-lawson-143000637.html"
+  },
+  {
+   "title": "2 Cash-Producing Stocks to Consider Right Now and 1 We Question",
+   "publisher": "StockStory",
+   "published": "2026-09-17T10:34:17Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/2-cash-producing-stocks-consider-103417535.html"
+  },
+  {
+   "title": "Twilio (TWLO) Registers a Bigger Fall Than the Market: Important Facts to Note",
+   "publisher": "Zacks",
+   "published": "2026-09-16T22:00:06Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/twilio-twlo-registers-bigger-fall-220006826.html"
+  },
+  {
+   "title": "Twilio's AI Deals Grow: Can New Wins Accelerate TWLO's Growth?",
+   "publisher": "Zacks",
+   "published": "2026-09-16T13:27:00Z",
+   "url": "https://finance.yahoo.com/technology/ai/articles/twilios-ai-deals-grow-wins-132700801.html"
+  },
+  {
+   "title": "Dow Jones Futures Rise As Oil Prices, Yields Fall Before Fed Rate Hike; Will Market Rally Bid Bond Voyage?",
+   "publisher": "Investor's Business Daily",
+   "published": "2026-09-16T12:07:50Z",
+   "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-how-will-bonds-react-to-fed-rate-hike/?src=A00220&yptr=yahoo"
+  },
+  {
+   "title": "Twilio (TWLO) Is Considered a Good Investment by Brokers: Is That True?",
+   "publisher": "Zacks",
+   "published": "2026-09-14T13:30:03Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/twilio-twlo-considered-good-investment-133003018.html"
+  },
+  {
+   "title": "Apple, Taiwan Semi Lead Five Stocks Near Buy Points",
+   "publisher": "Investor's Business Daily",
+   "published": "2026-09-12T16:22:05Z",
+   "url": "https://www.investors.com/news/apple-taiwan-semiconductor-lead-5-top-stocks-near-buy-points/?src=A00220&yptr=yahoo"
+  },
+  {
+   "title": "Fed Rate Hike Close To A Lock; Clarity Act Vote Looms: Week Ahead",
+   "publisher": "Investor's Business Daily",
+   "published": "2026-09-11T15:39:54Z",
+   "url": "https://www.investors.com/research/investing-action-plan/federal-reserve-rate-hike-close-to-clarity-act-vote-salesforce-dreamforce/?src=A00220&yptr=yahoo"
+  }
+ ]
+}

@@ -1,0 +1,474 @@
+{
+ "ticker": "FWRD",
+ "cik": 912728,
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000912728.json",
+ "facts": {
+  "revenue": [
+   {
+    "tag": "Revenues",
+    "start": "2020-01-01",
+    "end": "2020-12-31",
+    "val": 1269573000,
+    "form": "10-K",
+    "filed": "2021-03-01",
+    "accn": "0000912728-21-000053"
+   },
+   {
+    "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "start": "2020-01-01",
+    "end": "2020-12-31",
+    "val": 1269573000,
+    "form": "10-K",
+    "filed": "2022-03-01",
+    "accn": "0001628280-22-004570"
+   },
+   {
+    "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "start": "2020-01-01",
+    "end": "2020-12-31",
+    "val": 1269573000,
+    "form": "10-K",
+    "filed": "2023-03-01",
+    "accn": "0001628280-23-005879"
+   },
+   {
+    "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "start": "2021-01-01",
+    "end": "2021-12-31",
+    "val": 1662427000,
+    "form": "10-K",
+    "filed": "2022-03-01",
+    "accn": "0001628280-22-004570"
+   },
+   {
+    "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "start": "2021-01-01",
+    "end": "2021-12-31",
+    "val": 1662427000,
+    "form": "10-K",
+    "filed": "2023-03-01",
+    "accn": "0001628280-23-005879"
+   },
+   {
+    "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "start": "2021-01-01",
+    "end": "2021-12-31",
+    "val": 1387227000,
+    "form": "10-K",
+    "filed": "2024-03-15",
+    "accn": "0001628280-24-011530"
+   },
+   {
+    "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "start": "2022-01-01",
+    "end": "2022-12-31",
+    "val": 1973403000,
+    "form": "10-K",
+    "filed": "2023-03-01",
+    "accn": "0001628280-23-005879"
+   },
+   {
+    "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "start": "2022-01-01",
+    "end": "2022-12-31",
+    "val": 1679634000,
+    "form": "10-K",
+    "filed": "2024-03-15",
+    "accn": "0001628280-24-011530"
+   },
+   {
+    "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "start": "2022-01-01",
+    "end": "2022-12-31",
+    "val": 1679634000,
+    "form": "10-K",
+    "filed": "2025-03-24",
+    "accn": "0001628280-25-014482"
+   },
+   {
+    "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "start": "2023-01-01",
+    "end": "2023-12-31",
+    "val": 1370735000,
+    "form": "10-K",
+    "filed": "2024-03-15",
+    "accn": "0001628280-24-011530"
+   },
+   {
+    "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "start": "2023-01-01",
+    "end": "2023-12-31",
+    "val": 1370735000,
+    "form": "10-K",
+    "filed": "2025-03-24",
+    "accn": "0001628280-25-014482"
+   },
+   {
+    "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "start": "2023-01-01",
+    "end": "2023-12-31",
+    "val": 1370735000,
+    "form": "10-K",
+    "filed": "2026-03-11",
+    "accn": "0001628280-26-016793"
+   },
+   {
+    "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "start": "2024-01-01",
+    "end": "2024-12-31",
+    "val": 2474262000,
+    "form": "10-K",
+    "filed": "2025-03-24",
+    "accn": "0001628280-25-014482"
+   },
+   {
+    "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "start": "2024-01-01",
+    "end": "2024-12-31",
+    "val": 2474262000,
+    "form": "10-K",
+    "filed": "2026-03-11",
+    "accn": "0001628280-26-016793"
+   },
+   {
+    "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "start": "2025-01-01",
+    "end": "2025-12-31",
+    "val": 2495118000,
+    "form": "10-K",
+    "filed": "2026-03-11",
+    "accn": "0001628280-26-016793"
+   }
+  ],
+  "net_income": [
+   {
+    "tag": "NetIncomeLoss",
+    "start": "2020-01-01",
+    "end": "2020-12-31",
+    "val": 23733000,
+    "form": "10-K",
+    "filed": "2021-03-01",
+    "accn": "0000912728-21-000053"
+   },
+   {
+    "tag": "NetIncomeLoss",
+    "start": "2020-01-01",
+    "end": "2020-12-31",
+    "val": 23733000,
+    "form": "10-K",
+    "filed": "2022-03-01",
+    "accn": "0001628280-22-004570"
+   },
+   {
+    "tag": "NetIncomeLoss",
+    "start": "2020-01-01",
+    "end": "2020-12-31",
+    "val": 23733000,
+    "form": "10-K",
+    "filed": "2023-03-01",
+    "accn": "0001628280-23-005879"
+   },
+   {
+    "tag": "NetIncomeLoss",
+    "start": "2021-01-01",
+    "end": "2021-12-31",
+    "val": 105859000,
+    "form": "10-K",
+    "filed": "2022-03-01",
+    "accn": "0001628280-22-004570"
+   },
+   {
+    "tag": "NetIncomeLoss",
+    "start": "2021-01-01",
+    "end": "2021-12-31",
+    "val": 105859000,
+    "form": "10-K",
+    "filed": "2023-03-01",
+    "accn": "0001628280-23-005879"
+   },
+   {
+    "tag": "NetIncomeLoss",
+    "start": "2021-01-01",
+    "end": "2021-12-31",
+    "val": 105859000,
+    "form": "10-K",
+    "filed": "2024-03-15",
+    "accn": "0001628280-24-011530"
+   },
+   {
+    "tag": "NetIncomeLoss",
+    "start": "2022-01-01",
+    "end": "2022-12-31",
+    "val": 193191000,
+    "form": "10-K",
+    "filed": "2023-03-01",
+    "accn": "0001628280-23-005879"
+   },
+   {
+    "tag": "NetIncomeLoss",
+    "start": "2022-01-01",
+    "end": "2022-12-31",
+    "val": 193191000,
+    "form": "10-K",
+    "filed": "2024-03-15",
+    "accn": "0001628280-24-011530"
+   },
+   {
+    "tag": "NetIncomeLoss",
+    "start": "2022-01-01",
+    "end": "2022-12-31",
+    "val": 193191000,
+    "form": "10-K",
+    "filed": "2025-03-24",
+    "accn": "0001628280-25-014482"
+   },
+   {
+    "tag": "NetIncomeLoss",
+    "start": "2023-01-01",
+    "end": "2023-12-31",
+    "val": 167351000,
+    "form": "10-K",
+    "filed": "2024-03-15",
+    "accn": "0001628280-24-011530"
+   },
+   {
+    "tag": "NetIncomeLoss",
+    "start": "2023-01-01",
+    "end": "2023-12-31",
+    "val": 167351000,
+    "form": "10-K",
+    "filed": "2025-03-24",
+    "accn": "0001628280-25-014482"
+   },
+   {
+    "tag": "NetIncomeLoss",
+    "start": "2023-01-01",
+    "end": "2023-12-31",
+    "val": 167351000,
+    "form": "10-K",
+    "filed": "2026-03-11",
+    "accn": "0001628280-26-016793"
+   },
+   {
+    "tag": "NetIncomeLoss",
+    "start": "2024-01-01",
+    "end": "2024-12-31",
+    "val": -816969000,
+    "form": "10-K",
+    "filed": "2025-03-24",
+    "accn": "0001628280-25-014482"
+   },
+   {
+    "tag": "NetIncomeLoss",
+    "start": "2024-01-01",
+    "end": "2024-12-31",
+    "val": -816969000,
+    "form": "10-K",
+    "filed": "2026-03-11",
+    "accn": "0001628280-26-016793"
+   },
+   {
+    "tag": "NetIncomeLoss",
+    "start": "2025-01-01",
+    "end": "2025-12-31",
+    "val": -107796000,
+    "form": "10-K",
+    "filed": "2026-03-11",
+    "accn": "0001628280-26-016793"
+   },
+   {
+    "tag": "ProfitLoss",
+    "start": "2022-01-01",
+    "end": "2022-12-31",
+    "val": 193191000,
+    "form": "10-K",
+    "filed": "2025-03-24",
+    "accn": "0001628280-25-014482"
+   },
+   {
+    "tag": "ProfitLoss",
+    "start": "2023-01-01",
+    "end": "2023-12-31",
+    "val": 167351000,
+    "form": "10-K",
+    "filed": "2025-03-24",
+    "accn": "0001628280-25-014482"
+   },
+   {
+    "tag": "ProfitLoss",
+    "start": "2023-01-01",
+    "end": "2023-12-31",
+    "val": 167351000,
+    "form": "10-K",
+    "filed": "2026-03-11",
+    "accn": "0001628280-26-016793"
+   },
+   {
+    "tag": "ProfitLoss",
+    "start": "2024-01-01",
+    "end": "2024-12-31",
+    "val": -1131228000,
+    "form": "10-K",
+    "filed": "2025-03-24",
+    "accn": "0001628280-25-014482"
+   },
+   {
+    "tag": "ProfitLoss",
+    "start": "2024-01-01",
+    "end": "2024-12-31",
+    "val": -1131228000,
+    "form": "10-K",
+    "filed": "2026-03-11",
+    "accn": "0001628280-26-016793"
+   },
+   {
+    "tag": "ProfitLoss",
+    "start": "2025-01-01",
+    "end": "2025-12-31",
+    "val": -141725000,
+    "form": "10-K",
+    "filed": "2026-03-11",
+    "accn": "0001628280-26-016793"
+   }
+  ],
+  "op_cash_flow": [],
+  "capex": [
+   {
+    "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+    "start": "2020-01-01",
+    "end": "2020-12-31",
+    "val": 20268000,
+    "form": "10-K",
+    "filed": "2021-03-01",
+    "accn": "0000912728-21-000053"
+   },
+   {
+    "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+    "start": "2020-01-01",
+    "end": "2020-12-31",
+    "val": 20268000,
+    "form": "10-K",
+    "filed": "2022-03-01",
+    "accn": "0001628280-22-004570"
+   },
+   {
+    "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+    "start": "2020-01-01",
+    "end": "2020-12-31",
+    "val": 20268000,
+    "form": "10-K",
+    "filed": "2023-03-01",
+    "accn": "0001628280-23-005879"
+   },
+   {
+    "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+    "start": "2021-01-01",
+    "end": "2021-12-31",
+    "val": 39109000,
+    "form": "10-K",
+    "filed": "2022-03-01",
+    "accn": "0001628280-22-004570"
+   },
+   {
+    "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+    "start": "2021-01-01",
+    "end": "2021-12-31",
+    "val": 39109000,
+    "form": "10-K",
+    "filed": "2023-03-01",
+    "accn": "0001628280-23-005879"
+   },
+   {
+    "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+    "start": "2021-01-01",
+    "end": "2021-12-31",
+    "val": 38375000,
+    "form": "10-K",
+    "filed": "2024-03-15",
+    "accn": "0001628280-24-011530"
+   },
+   {
+    "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+    "start": "2022-01-01",
+    "end": "2022-12-31",
+    "val": 40729000,
+    "form": "10-K",
+    "filed": "2023-03-01",
+    "accn": "0001628280-23-005879"
+   },
+   {
+    "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+    "start": "2022-01-01",
+    "end": "2022-12-31",
+    "val": 39254000,
+    "form": "10-K",
+    "filed": "2024-03-15",
+    "accn": "0001628280-24-011530"
+   },
+   {
+    "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+    "start": "2022-01-01",
+    "end": "2022-12-31",
+    "val": 39254000,
+    "form": "10-K",
+    "filed": "2025-03-24",
+    "accn": "0001628280-25-014482"
+   },
+   {
+    "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+    "start": "2023-01-01",
+    "end": "2023-12-31",
+    "val": 30725000,
+    "form": "10-K",
+    "filed": "2024-03-15",
+    "accn": "0001628280-24-011530"
+   },
+   {
+    "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+    "start": "2023-01-01",
+    "end": "2023-12-31",
+    "val": 30725000,
+    "form": "10-K",
+    "filed": "2025-03-24",
+    "accn": "0001628280-25-014482"
+   },
+   {
+    "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+    "start": "2023-01-01",
+    "end": "2023-12-31",
+    "val": 30725000,
+    "form": "10-K",
+    "filed": "2026-03-11",
+    "accn": "0001628280-26-016793"
+   },
+   {
+    "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+    "start": "2024-01-01",
+    "end": "2024-12-31",
+    "val": 37060000,
+    "form": "10-K",
+    "filed": "2025-03-24",
+    "accn": "0001628280-25-014482"
+   },
+   {
+    "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+    "start": "2024-01-01",
+    "end": "2024-12-31",
+    "val": 37060000,
+    "form": "10-K",
+    "filed": "2026-03-11",
+    "accn": "0001628280-26-016793"
+   },
+   {
+    "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+    "start": "2025-01-01",
+    "end": "2025-12-31",
+    "val": 29116000,
+    "form": "10-K",
+    "filed": "2026-03-11",
+    "accn": "0001628280-26-016793"
+   }
+  ]
+ }
+}

@@ -1,0 +1,195 @@
+{
+ "ticker": "LSTR",
+ "sector": "logistics",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/LSTR",
+ "info": {
+  "longName": "Landstar System, Inc.",
+  "currency": "USD",
+  "financialCurrency": "USD",
+  "exchange": "NMS",
+  "fullExchangeName": "NasdaqGS",
+  "country": "United States",
+  "longBusinessSummary": "Landstar System, Inc. provides transportation management solutions in the United States, Canada, Mexico, and internationally. It operates in two segments, Transportation Logistics and Insurance. The Transportation Logistics segment offers a range of transportation services, including truckload, less-than-truckload and other truck transportation, rail intermodal, air cargo, ocean cargo, expedited ground and air delivery of time-critical freight, heavy-haul/specialized, hazardous materials, cold chain/temperature-controlled, U.S.-Canada and U.S.-Mexico cross-border, intra-Mexico, intra-Canada, project cargo, and customs brokerage services, as well as transportation services to other transportation companies, such as third party logistics and less-than-truckload service providers. This segment serves the automotive parts and assemblies, consumer durables, building products, metals, chemicals, foodstuffs, heavy machinery, retail, electronics, military equipment and general commodities industries. The Insurance segment provides risk and claims management services; and reinsures risks of its independent contractors. The company markets its services through a network of agents, third party capacity providers, and employees. Landstar System, Inc. was founded in 1988 and is headquartered in Jacksonville, Florida.",
+  "fullTimeEmployees": 1300,
+  "marketCap": 5779118592,
+  "enterpriseValue": 5570522112,
+  "trailingPE": 44.231167,
+  "enterpriseToEbitda": 22.745,
+  "enterpriseToRevenue": 1.115,
+  "dividendYield": 1.03,
+  "trailingAnnualDividendYield": 0.009349071,
+  "dividendRate": 1.76,
+  "currentPrice": 170.29,
+  "regularMarketPrice": 170.29,
+  "lastFiscalYearEnd": 1766793600,
+  "mostRecentQuarter": 1782518400,
+  "sector": "Industrials",
+  "industry": "Integrated Freight & Logistics",
+  "heldPercentInsiders": 0.00775,
+  "heldPercentInstitutions": 1.03928
+ },
+ "income_stmt": {
+  "2025-12-31": {
+   "Total Revenue": 4743760000.0,
+   "EBITDA": 216450000.0,
+   "EBIT": 170062000.0,
+   "Net Income": 115007000.0,
+   "Gross Profit": 621632000.0,
+   "Diluted EPS": 3.31
+  },
+  "2024-12-31": {
+   "Total Revenue": 4819245000.0,
+   "EBITDA": 290835000.0,
+   "EBIT": 234097000.0,
+   "Net Income": 195946000.0,
+   "Gross Profit": 624515000.0,
+   "Diluted EPS": 5.51
+  },
+  "2023-12-31": {
+   "Total Revenue": 5303322000.0,
+   "EBITDA": 392161000.0,
+   "EBIT": 334008000.0,
+   "Net Income": 264394000.0,
+   "Gross Profit": 714239000.0,
+   "Diluted EPS": 7.36
+  },
+  "2022-12-31": {
+   "Total Revenue": 7436562000.0,
+   "EBITDA": 628536000.0,
+   "EBIT": 571083000.0,
+   "Net Income": 430914000.0,
+   "Gross Profit": 960227000.0,
+   "Diluted EPS": 11.76
+  },
+  "2021-12-31": {
+   "Total Revenue": null,
+   "EBITDA": null,
+   "EBIT": null,
+   "Net Income": null,
+   "Gross Profit": null,
+   "Diluted EPS": null
+  }
+ },
+ "balance_sheet": {
+  "2025-12-31": {
+   "Total Debt": 133476000.0,
+   "Net Debt": null,
+   "Cash And Cash Equivalents": 396694000.0,
+   "Cash Cash Equivalents And Short Term Investments": 452225000.0
+  },
+  "2024-12-31": {
+   "Total Debt": 163340000.0,
+   "Net Debt": null,
+   "Cash And Cash Equivalents": 515018000.0,
+   "Cash Cash Equivalents And Short Term Investments": 566637000.0
+  },
+  "2023-12-31": {
+   "Total Debt": 132681000.0,
+   "Net Debt": null,
+   "Cash And Cash Equivalents": 481043000.0,
+   "Cash Cash Equivalents And Short Term Investments": 540704000.0
+  },
+  "2022-12-31": {
+   "Total Debt": 196353000.0,
+   "Net Debt": null,
+   "Cash And Cash Equivalents": 339581000.0,
+   "Cash Cash Equivalents And Short Term Investments": 393536000.0
+  },
+  "2021-12-31": {
+   "Total Debt": null,
+   "Net Debt": 12760000.0,
+   "Cash And Cash Equivalents": null,
+   "Cash Cash Equivalents And Short Term Investments": null
+  }
+ },
+ "cashflow": {
+  "2025-12-31": {
+   "Capital Expenditure": -9880000.0,
+   "Free Cash Flow": 215002000.0,
+   "Operating Cash Flow": 224882000.0
+  },
+  "2024-12-31": {
+   "Capital Expenditure": -30998000.0,
+   "Free Cash Flow": 255563000.0,
+   "Operating Cash Flow": 286561000.0
+  },
+  "2023-12-31": {
+   "Capital Expenditure": -25688000.0,
+   "Free Cash Flow": 367960000.0,
+   "Operating Cash Flow": 393648000.0
+  },
+  "2022-12-31": {
+   "Capital Expenditure": -26005000.0,
+   "Free Cash Flow": 596654000.0,
+   "Operating Cash Flow": 622659000.0
+  },
+  "2021-12-31": {
+   "Capital Expenditure": null,
+   "Free Cash Flow": null,
+   "Operating Cash Flow": null
+  }
+ },
+ "news": [
+  {
+   "title": "1 Safe-and-Steady Stock to Research Further and 2 We Turn Down",
+   "publisher": "StockStory",
+   "published": "2026-09-18T09:44:40Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/1-safe-steady-stock-research-094440418.html"
+  },
+  {
+   "title": "Landstar System (LSTR) Stock Trades At A Discount On Cash Flow But A Premium On Earnings",
+   "publisher": "Simply Wall St.",
+   "published": "2026-09-05T01:07:40Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/landstar-system-lstr-stock-trades-010740167.html"
+  },
+  {
+   "title": "Is J.B. Hunt Transport Services (JBHT) Outperforming Other Transportation Stocks This Year?",
+   "publisher": "Zacks",
+   "published": "2026-09-03T13:40:05Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/j-b-hunt-transport-services-134005944.html"
+  },
+  {
+   "title": "Landstar EPS Estimates Northbound: How to Play the Stock Now?",
+   "publisher": "Zacks",
+   "published": "2026-08-31T17:16:00Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/landstar-eps-estimates-northbound-play-171600527.html"
+  },
+  {
+   "title": "Why Is ArcBest (ARCB) Down 2.1% Since Last Earnings Report?",
+   "publisher": "Zacks",
+   "published": "2026-08-28T15:30:23Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/why-arcbest-arcb-down-2-153023060.html"
+  },
+  {
+   "title": "Why Is Landstar (LSTR) Up 2.1% Since Last Earnings Report?",
+   "publisher": "Zacks",
+   "published": "2026-08-27T15:30:17Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/why-landstar-lstr-2-1-153017144.html"
+  },
+  {
+   "title": "One man paints challenging outlook for brokers\u2019 insurance",
+   "publisher": "FreightWaves",
+   "published": "2026-08-26T22:20:03Z",
+   "url": "https://finance.yahoo.com/small-business/articles/one-man-paints-challenging-outlook-222003997.html"
+  },
+  {
+   "title": "Should Investors Buy Landstar Stock Post Latest Dividend Hike?",
+   "publisher": "Zacks",
+   "published": "2026-08-13T17:26:00Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/investors-buy-landstar-stock-post-172600688.html"
+  },
+  {
+   "title": "1 Cash-Heavy Stock with Exciting Potential and 2 We Question",
+   "publisher": "StockStory",
+   "published": "2026-08-12T05:41:22Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/1-cash-heavy-stock-exciting-054122703.html"
+  },
+  {
+   "title": "Landstar has cut more than 35,000 carriers from approved network",
+   "publisher": "FreightWaves",
+   "published": "2026-08-10T20:29:24Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/landstar-cut-more-35-000-202924118.html"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "ticker": "ESLT",
+ "retrieved_at": "2026-09-21",
+ "window": [
+  "2026-03-25",
+  "2026-09-21"
+ ],
+ "search_terms": [
+  "ELBIT SYSTEMS OF AMERICA"
+ ],
+ "source": "USAspending.gov spending_by_award (date_signed)",
+ "awards": [
+  {
+   "internal_id": 360840499,
+   "Award ID": "W91CRB26FA174",
+   "Recipient Name": "ELBIT SYSTEMS OF AMERICA - NIGHT VISION LLC",
+   "Award Amount": 211897350.0,
+   "Description": "ENHANCED NIGHT VISION GOGGLE - BINOCULAR",
+   "Start Date": "2026-04-23",
+   "Awarding Agency": "Department of Defense",
+   "generated_internal_id": "CONT_AWD_W91CRB26FA174_9700_W91CRB24D0001_9700",
+   "awarding_agency_id": 1173,
+   "agency_slug": "department-of-defense"
+  },
+  {
+   "internal_id": 358871291,
+   "Award ID": "70B02C26F00000256",
+   "Recipient Name": "ELBITAMERICA, INC.",
+   "Award Amount": 86139425.71,
+   "Description": "CONSOLIDATE TOWERS AND SURVEILLANCE EQUIPMENT",
+   "Start Date": "2026-05-27",
+   "Awarding Agency": "Department of Homeland Security",
+   "generated_internal_id": "CONT_AWD_70B02C26F00000256_7014_70B02C23D00000023_7014",
+   "awarding_agency_id": 766,
+   "agency_slug": "department-of-homeland-security"
+  },
+  {
+   "internal_id": 361058292,
+   "Award ID": "SPRPA126CVA26",
+   "Recipient Name": "ELBITAMERICA, INC.",
+   "Award Amount": 14412492.0,
+   "Description": "COMPUTER,SPECIAL PU",
+   "Start Date": "2026-05-05",
+   "Awarding Agency": "Department of Defense",
+   "generated_internal_id": "CONT_AWD_SPRPA126CVA26_9700_-NONE-_-NONE-",
+   "awarding_agency_id": 1173,
+   "agency_slug": "department-of-defense"
+  },
+  {
+   "internal_id": 362131933,
+   "Award ID": "W91CRB26C5056",
+   "Recipient Name": "ELBIT SYSTEMS OF AMERICA - NIGHT VISION LLC",
+   "Award Amount": 7916007.88,
+   "Description": "NIGHT VISION DEVICE INTENSIFIER TUBES IN SUPPORT OF FOREIGN MILITARY SALES CASE NUMBERS IS-B-ZMQ AND IS-B-ZMR, FOR THE COUNTRY OF ISRAEL.",
+   "Start Date": "2026-06-10",
+   "Awarding Agency": "Department of Defense",
+   "generated_internal_id": "CONT_AWD_W91CRB26C5056_9700_-NONE-_-NONE-",
+   "awarding_agency_id": 1173,
+   "agency_slug": "department-of-defense"
+  },
+  {
+   "internal_id": 361787467,
+   "Award ID": "SPE4A726F5935",
+   "Recipient Name": "ELBIT SYSTEMS OF AMERICA - NIGHT VISION LLC",
+   "Award Amount": 2881587.52,
+   "Description": "8512100684!IMAGE INTENSIFIER,N",
+   "Start Date": "2026-05-27",
+   "Awarding Agency": "Department of Defense",
+   "generated_internal_id": "CONT_AWD_SPE4A726F5935_9700_SPE4A726D0251_9700",
+   "awarding_agency_id": 1173,
+   "agency_slug": "department-of-defense"
+  }
+ ]
+}

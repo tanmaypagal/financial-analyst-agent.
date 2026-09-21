@@ -1,0 +1,38 @@
+{
+ "ticker": "INTU",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/INTU/holders",
+ "major_holders": {
+  "insidersPercentHeld": 0.024130002,
+  "institutionsPercentHeld": 0.93546,
+  "institutionsFloatPercentHeld": 0.95859003,
+  "institutionsCount": 2541.0
+ },
+ "top_institutional": [
+  {
+   "holder": "Blackrock Inc.",
+   "pct": 0.09819999,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Vanguard Capital Management LLC",
+   "pct": 0.0672,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "State Street Corporation",
+   "pct": 0.0497,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Invesco Ltd.",
+   "pct": 0.0356,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Vanguard Portfolio Management LLC",
+   "pct": 0.0321,
+   "reported": "2026-06-30"
+  }
+ ]
+}

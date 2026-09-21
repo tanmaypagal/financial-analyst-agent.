@@ -1,0 +1,74 @@
+{
+ "ticker": "NOC",
+ "retrieved_at": "2026-09-21",
+ "window": [
+  "2026-03-25",
+  "2026-09-21"
+ ],
+ "search_terms": [
+  "NORTHROP GRUMMAN"
+ ],
+ "source": "USAspending.gov spending_by_award (date_signed)",
+ "awards": [
+  {
+   "internal_id": 361849220,
+   "Award ID": "W15QKN26F0108",
+   "Recipient Name": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+   "Award Amount": 159161173.44,
+   "Description": "120MM, ADVANCED MULTI-PURPOSE (AMP) M1147 HIGH EXPLOSIVE MULTI-PURPOSE WITH TRACER (HEMP-T) CARTRIDGE",
+   "Start Date": "2026-03-27",
+   "Awarding Agency": "Department of Defense",
+   "generated_internal_id": "CONT_AWD_W15QKN26F0108_9700_W15QKN26D0003_9700",
+   "awarding_agency_id": 1173,
+   "agency_slug": "department-of-defense"
+  },
+  {
+   "internal_id": 359683195,
+   "Award ID": "N0001926C0122",
+   "Recipient Name": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+   "Award Amount": 127319699.08,
+   "Description": "FRP-18 GQM-163A BASE TARGET VEHICLE USN",
+   "Start Date": "2026-03-26",
+   "Awarding Agency": "Department of Defense",
+   "generated_internal_id": "CONT_AWD_N0001926C0122_9700_-NONE-_-NONE-",
+   "awarding_agency_id": 1173,
+   "agency_slug": "department-of-defense"
+  },
+  {
+   "internal_id": 361128406,
+   "Award ID": "FA863826FB004",
+   "Recipient Name": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+   "Award Amount": 126661754.77,
+   "Description": "CY26 HARDWARE BASE BY ORDER (HBBO)",
+   "Start Date": "2026-07-01",
+   "Awarding Agency": "Department of Defense",
+   "generated_internal_id": "CONT_AWD_FA863826FB004_9700_FA863819D0001_9700",
+   "awarding_agency_id": 1173,
+   "agency_slug": "department-of-defense"
+  },
+  {
+   "internal_id": 361908167,
+   "Award ID": "N0001926F0288",
+   "Recipient Name": "NORTHROP GRUMMAN SYSTEMS CORP",
+   "Award Amount": 105987880.0,
+   "Description": "FMU-139D/B BOMB, ELECTRONIC FUZE SYSTEM FMS ORDER",
+   "Start Date": "2026-06-01",
+   "Awarding Agency": "Department of Defense",
+   "generated_internal_id": "CONT_AWD_N0001926F0288_9700_N0001924D0104_9700",
+   "awarding_agency_id": 1173,
+   "agency_slug": "department-of-defense"
+  },
+  {
+   "internal_id": 361296502,
+   "Award ID": "FA880726CB001",
+   "Recipient Name": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+   "Award Amount": 102000000.0,
+   "Description": "SATCOM SPACE VEHICLE",
+   "Start Date": "2026-05-14",
+   "Awarding Agency": "Department of Defense",
+   "generated_internal_id": "CONT_AWD_FA880726CB001_9700_-NONE-_-NONE-",
+   "awarding_agency_id": 1173,
+   "agency_slug": "department-of-defense"
+  }
+ ]
+}

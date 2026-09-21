@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+# eval outputs are regenerated on every run; to keep one, copy it to eval/results/baseline/ (that folder is tracked)
+eval/results/*/
+!eval/results/baseline/
+# data/finance.db is a rebuildable sample DB and IS committed on purpose (see README)

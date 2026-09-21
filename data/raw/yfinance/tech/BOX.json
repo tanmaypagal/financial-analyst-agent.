@@ -1,0 +1,195 @@
+{
+ "ticker": "BOX",
+ "sector": "tech",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/BOX",
+ "info": {
+  "longName": "Box, Inc.",
+  "currency": "USD",
+  "financialCurrency": "USD",
+  "exchange": "NYQ",
+  "fullExchangeName": "NYSE",
+  "country": "United States",
+  "longBusinessSummary": "Box, Inc. provides a cloud content management platform that enables organizations of various sizes to manage cloud content from anywhere and on any device in Poland, Australia, Canada, the European Union, France, Israel, Japan, Singapore, Switzerland, the United Kingdom, and the United States. The company's Software-as-a-Service platform enables users to work with their content as they need from secure external collaboration, workspaces to e-signature processes, and content workflows improving employee productivity and accelerating business processes. It offers web, mobile, and desktop applications of its solutions on a platform, as well as the ability to develop custom applications. The company was formerly known as Box.net, Inc. and changed its name to Box, Inc. in November 2011. Box, Inc. was incorporated in 2005 and is headquartered in Redwood City, California.",
+  "fullTimeEmployees": 2912,
+  "marketCap": 4626409984,
+  "enterpriseValue": 5234838016,
+  "trailingPE": 49.588238,
+  "enterpriseToEbitda": 39.712,
+  "enterpriseToRevenue": 4.242,
+  "dividendYield": null,
+  "trailingAnnualDividendYield": 0.0,
+  "dividendRate": null,
+  "currentPrice": 33.72,
+  "regularMarketPrice": 33.72,
+  "lastFiscalYearEnd": 1769817600,
+  "mostRecentQuarter": 1785456000,
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "heldPercentInsiders": 0.03252,
+  "heldPercentInstitutions": 1.05011
+ },
+ "income_stmt": {
+  "2026-01-31": {
+   "Total Revenue": 1177253000.0,
+   "EBITDA": 142335000.0,
+   "EBIT": 109427000.0,
+   "Net Income": 115383000.0,
+   "Gross Profit": 932606000.0,
+   "Diluted EPS": 0.58
+  },
+  "2025-01-31": {
+   "Total Revenue": 1090130000.0,
+   "EBITDA": 113338000.0,
+   "EBIT": 91235000.0,
+   "Net Income": 244621000.0,
+   "Gross Profit": 862025000.0,
+   "Diluted EPS": 1.36
+  },
+  "2024-01-31": {
+   "Total Revenue": 1037741000.0,
+   "EBITDA": 117668000.0,
+   "EBIT": 66427000.0,
+   "Net Income": 129032000.0,
+   "Gross Profit": 777129000.0,
+   "Diluted EPS": 0.67
+  },
+  "2023-01-31": {
+   "Total Revenue": 990874000.0,
+   "EBITDA": 105267000.0,
+   "EBIT": 39279000.0,
+   "Net Income": 26783000.0,
+   "Gross Profit": 738318000.0,
+   "Diluted EPS": 0.06
+  },
+  "2022-01-31": {
+   "Total Revenue": null,
+   "EBITDA": null,
+   "EBIT": null,
+   "Net Income": null,
+   "Gross Profit": null,
+   "Diluted EPS": null
+  }
+ },
+ "balance_sheet": {
+  "2026-01-31": {
+   "Total Debt": 527981000.0,
+   "Net Debt": 75881000.0,
+   "Cash And Cash Equivalents": 375130000.0,
+   "Cash Cash Equivalents And Short Term Investments": 478062000.0
+  },
+  "2025-01-31": {
+   "Total Debt": 721316000.0,
+   "Net Debt": 27970000.0,
+   "Cash And Cash Equivalents": 624575000.0,
+   "Cash Cash Equivalents And Short Term Investments": 722816000.0
+  },
+  "2024-01-31": {
+   "Total Debt": 464987000.0,
+   "Net Debt": null,
+   "Cash And Cash Equivalents": 383742000.0,
+   "Cash Cash Equivalents And Short Term Investments": 480690000.0
+  },
+  "2023-01-31": {
+   "Total Debt": 535104000.0,
+   "Net Debt": null,
+   "Cash And Cash Equivalents": 428465000.0,
+   "Cash Cash Equivalents And Short Term Investments": 461248000.0
+  },
+  "2022-01-31": {
+   "Total Debt": null,
+   "Net Debt": null,
+   "Cash And Cash Equivalents": null,
+   "Cash Cash Equivalents And Short Term Investments": null
+  }
+ },
+ "cashflow": {
+  "2026-01-31": {
+   "Capital Expenditure": -41248000.0,
+   "Free Cash Flow": 315202000.0,
+   "Operating Cash Flow": 356450000.0
+  },
+  "2025-01-31": {
+   "Capital Expenditure": -30206000.0,
+   "Free Cash Flow": 302051000.0,
+   "Operating Cash Flow": 332257000.0
+  },
+  "2024-01-31": {
+   "Capital Expenditure": -21264000.0,
+   "Free Cash Flow": 297463000.0,
+   "Operating Cash Flow": 318727000.0
+  },
+  "2023-01-31": {
+   "Capital Expenditure": -17098000.0,
+   "Free Cash Flow": 280884000.0,
+   "Operating Cash Flow": 297982000.0
+  },
+  "2022-01-31": {
+   "Capital Expenditure": null,
+   "Free Cash Flow": null,
+   "Operating Cash Flow": null
+  }
+ },
+ "news": [
+  {
+   "title": "Box's 2026 Outlook: AI-Driven Workflow Adoption Solidifies Enterprise Competitive Moat",
+   "publisher": "Motley Fool",
+   "published": "2026-09-17T17:25:01Z",
+   "url": "https://www.fool.com/coverage/moneyball/2026/09/17/boxs-2026-outlook-ai-driven-workflow-adoption-solidifies-enterprise-competitive-moat/"
+  },
+  {
+   "title": "Box's CEO Sells 15,000 Company Shares Worth Over $500,000 After the Stock Hit a 52-Week High",
+   "publisher": "Motley Fool",
+   "published": "2026-09-14T04:18:34Z",
+   "url": "https://www.fool.com/coverage/filings/2026/09/13/box-s-ceo-sells-15-000-company-shares-worth-over-usd500-000-after-the-stock-hit-a-52-week-high/"
+  },
+  {
+   "title": "AI Could Become Far More Powerful Before It Shows Up in GDP \u2014 Box CEO Says Businesses Are Still Bound by the \u2018Laws of Corporate Physics\u2019",
+   "publisher": "Benzinga",
+   "published": "2026-09-11T12:00:13Z",
+   "url": "https://finance.yahoo.com/technology/ai/articles/ai-could-become-far-more-120013059.html"
+  },
+  {
+   "title": "After Years of Sideways Trading, Jim Cramer Sees New Life in Box, Inc. (BOX)",
+   "publisher": "Insider Monkey",
+   "published": "2026-09-09T19:10:22Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/years-sideways-trading-jim-cramer-191022823.html"
+  },
+  {
+   "title": "Box CEO Aaron Levie Says 'Best Opportunities' In AI are Products That are 'Barely Only Possible' Today",
+   "publisher": "Benzinga",
+   "published": "2026-09-08T18:00:30Z",
+   "url": "https://finance.yahoo.com/technology/ai/articles/box-ceo-aaron-levie-says-180030274.html"
+  },
+  {
+   "title": "BOX Q2 Deep Dive: AI Platform Momentum and Enterprise Migration Drive Growth",
+   "publisher": "StockStory",
+   "published": "2026-09-04T21:50:10Z",
+   "url": "https://finance.yahoo.com/technology/ai/articles/box-q2-deep-dive-ai-215010347.html"
+  },
+  {
+   "title": "Box (BOX) Turns Enterprise Files Into AI Fuel",
+   "publisher": "Insider Monkey",
+   "published": "2026-09-03T09:10:16Z",
+   "url": "https://finance.yahoo.com/technology/ai/articles/box-box-turns-enterprise-files-091016434.html"
+  },
+  {
+   "title": "Box (BOX) Q2 2027 Earnings Call Transcript",
+   "publisher": "Motley Fool",
+   "published": "2026-09-01T22:13:38Z",
+   "url": "https://www.fool.com/earnings/call-transcripts/2026/09/01/box-box-q2-2027-earnings-call-transcript/"
+  },
+  {
+   "title": "Box (BOX) Is Up 5.6% After Raising 2026 Outlook On AI-Driven Enterprise Advanced Momentum",
+   "publisher": "Simply Wall St.",
+   "published": "2026-08-27T22:14:44Z",
+   "url": "https://finance.yahoo.com/technology/ai/articles/box-box-5-6-raising-221444181.html"
+  },
+  {
+   "title": "Why Box Stock Ticked Higher on Wednesday",
+   "publisher": "Motley Fool",
+   "published": "2026-08-26T20:50:35Z",
+   "url": "https://www.fool.com/investing/2026/08/26/why-box-stock-ticked-higher-on-wednesday/"
+  }
+ ]
+}

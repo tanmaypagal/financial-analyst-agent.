@@ -1,0 +1,195 @@
+{
+ "ticker": "ORCL",
+ "sector": "tech",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/ORCL",
+ "info": {
+  "longName": "Oracle Corporation",
+  "currency": "USD",
+  "financialCurrency": "USD",
+  "exchange": "NYQ",
+  "fullExchangeName": "NYSE",
+  "country": "United States",
+  "longBusinessSummary": "Oracle Corporation offers products and services that build, run and support enterprise information technology frameworks worldwide. Its Oracle cloud software as a service offering includes various cloud software applications, including Oracle Fusion cloud enterprise resource planning ERP, Oracle Fusion cloud enterprise performance management EPM, Oracle Fusion cloud supply chain and manufacturing management SCM, Oracle Fusion cloud human capital management HCM, and NetSuite applications suite, Oracle Health applications, as well as Oracle Fusion Sales, Service, and Marketing. The company also offers cloud-based industry solutions for various industries; Oracle cloud license and on-premise license; and Oracle license support services. In addition, it provides cloud and license business' infrastructure technologies, such as the Oracle Database and MySQL Database; Java, a software development language; and middleware, including development tools and others. The company's cloud and license business' infrastructure technologies also comprise cloud-based compute, storage, and networking capabilities; and Oracle autonomous database, as well as AI, Internet-of-Things, machine learning, digital assistant, and blockchain. Further, it provides hardware products and other hardware-related software offerings, including Oracle engineered systems, enterprise servers, storage solutions, industry-specific hardware, virtualization software, operating systems, management software, and related hardware support services, and consulting and advanced customer services. It markets and sells its cloud, license, hardware, support, and services offerings directly to businesses in various industries, government agencies, and educational institutions, as well as through indirect channels. Oracle Corporation has a strategic alliance with Metron, Inc. The company was founded in 1977 and is headquartered in Austin, Texas.",
+  "fullTimeEmployees": 141000,
+  "marketCap": 446333681664,
+  "enterpriseValue": 583777648640,
+  "trailingPE": 23.136364,
+  "enterpriseToEbitda": 16.954,
+  "enterpriseToRevenue": 8.133,
+  "dividendYield": 1.35,
+  "trailingAnnualDividendYield": 0.013281095,
+  "dividendRate": 2.0,
+  "currentPrice": 147.61,
+  "regularMarketPrice": 147.61,
+  "lastFiscalYearEnd": 1780185600,
+  "mostRecentQuarter": 1788134400,
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "heldPercentInsiders": 0.38579,
+  "heldPercentInstitutions": 0.43584
+ },
+ "income_stmt": {
+  "2026-05-31": {
+   "Total Revenue": 67357000000.0,
+   "EBITDA": 33447000000.0,
+   "EBIT": 24153000000.0,
+   "Net Income": 17087000000.0,
+   "Gross Profit": 44336000000.0,
+   "Diluted EPS": 5.83
+  },
+  "2025-05-31": {
+   "Total Revenue": 57399000000.0,
+   "EBITDA": 23912000000.0,
+   "EBIT": 17738000000.0,
+   "Net Income": 12443000000.0,
+   "Gross Profit": 40472000000.0,
+   "Diluted EPS": 4.34
+  },
+  "2024-05-31": {
+   "Total Revenue": 52961000000.0,
+   "EBITDA": 21394000000.0,
+   "EBIT": 15255000000.0,
+   "Net Income": 10467000000.0,
+   "Gross Profit": 37818000000.0,
+   "Diluted EPS": 3.71
+  },
+  "2023-05-31": {
+   "Total Revenue": 49954000000.0,
+   "EBITDA": 18739000000.0,
+   "EBIT": 12631000000.0,
+   "Net Income": 8503000000.0,
+   "Gross Profit": 36390000000.0,
+   "Diluted EPS": 3.07
+  },
+  "2022-05-31": {
+   "Total Revenue": null,
+   "EBITDA": null,
+   "EBIT": null,
+   "Net Income": null,
+   "Gross Profit": null,
+   "Diluted EPS": null
+  }
+ },
+ "balance_sheet": {
+  "2026-05-31": {
+   "Total Debt": 156189000000.0,
+   "Net Debt": 98252000000.0,
+   "Cash And Cash Equivalents": 31289000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 31894000000.0
+  },
+  "2025-05-31": {
+   "Total Debt": 104104000000.0,
+   "Net Debt": 81782000000.0,
+   "Cash And Cash Equivalents": 10786000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 11203000000.0
+  },
+  "2024-05-31": {
+   "Total Debt": 93124000000.0,
+   "Net Debt": 76415000000.0,
+   "Cash And Cash Equivalents": 10454000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 10661000000.0
+  },
+  "2023-05-31": {
+   "Total Debt": 90481000000.0,
+   "Net Debt": 80716000000.0,
+   "Cash And Cash Equivalents": 9765000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 10187000000.0
+  },
+  "2022-05-31": {
+   "Total Debt": null,
+   "Net Debt": null,
+   "Cash And Cash Equivalents": null,
+   "Cash Cash Equivalents And Short Term Investments": null
+  }
+ },
+ "cashflow": {
+  "2026-05-31": {
+   "Capital Expenditure": -55663000000.0,
+   "Free Cash Flow": -23686000000.0,
+   "Operating Cash Flow": 31977000000.0
+  },
+  "2025-05-31": {
+   "Capital Expenditure": -21215000000.0,
+   "Free Cash Flow": -394000000.0,
+   "Operating Cash Flow": 20821000000.0
+  },
+  "2024-05-31": {
+   "Capital Expenditure": -6866000000.0,
+   "Free Cash Flow": 11807000000.0,
+   "Operating Cash Flow": 18673000000.0
+  },
+  "2023-05-31": {
+   "Capital Expenditure": -8695000000.0,
+   "Free Cash Flow": 8470000000.0,
+   "Operating Cash Flow": 17165000000.0
+  },
+  "2022-05-31": {
+   "Capital Expenditure": null,
+   "Free Cash Flow": null,
+   "Operating Cash Flow": null
+  }
+ },
+ "news": [
+  {
+   "title": "Michael Burry Warns Hyperscalers Are Hiding $3 Trillion In AI Liabilities \u2014 And Wall Street Isn\u2019t Looking: \u2018When The Music\u2019s Over\u2026\u2019",
+   "publisher": "Stocktwits",
+   "published": "2026-09-21T02:46:17Z",
+   "url": "https://stocktwits.com/news-articles/markets/equity/michael-burry-warns-hyperscalers-are-hiding-3-trillion-in-ai-liabilities-and-wall-street-isn-t-looking-when-the-music-s-over/cZMRbsvRB4I"
+  },
+  {
+   "title": "Neocloud Boom: Comparing Nebius, CoreWeave, & IREN",
+   "publisher": "Zacks",
+   "published": "2026-09-21T02:03:00Z",
+   "url": "https://finance.yahoo.com/technology/ai/articles/neocloud-boom-comparing-nebius-coreweave-020300874.html"
+  },
+  {
+   "title": "Oracle Stock And 2 AI Infrastructure Plays Riding The Next Research Boom",
+   "publisher": "Simply Wall St.",
+   "published": "2026-09-20T23:16:40Z",
+   "url": "https://finance.yahoo.com/technology/ai/articles/oracle-stock-2-ai-infrastructure-231640492.html"
+  },
+  {
+   "title": "Oracle CEO sends AI wake-up call to employees",
+   "publisher": "TheStreet",
+   "published": "2026-09-20T14:37:00Z",
+   "url": "https://www.thestreet.com/employment/oracle-ceo-ai-productivity-bottlenecks"
+  },
+  {
+   "title": "Nebius\u2019s Price Hike Suggests Michael Burry Made a Mistake and Is Shorting the Best Neocloud Stock",
+   "publisher": "Barchart",
+   "published": "2026-09-20T14:22:09Z",
+   "url": "https://www.barchart.com/story/news/4701308/nebiuss-price-hike-suggests-michael-burry-made-a-mistake-and-is-shorting-the-best-neocloud-stock"
+  },
+  {
+   "title": "Oracle (ORCL) Cloud Revenue Jumps 121% and its Backlog Hits $664 Billion. Can it Actually Deliver?",
+   "publisher": "Insider Monkey",
+   "published": "2026-09-20T04:54:35Z",
+   "url": "https://finance.yahoo.com/technology/ai/articles/oracle-orcl-cloud-revenue-jumps-045435586.html"
+  },
+  {
+   "title": "Oracle Has Committed Hundreds of Billions to AI Data Centers. These 2 Industrial Stocks Will Power Them.",
+   "publisher": "Motley Fool",
+   "published": "2026-09-20T00:20:00Z",
+   "url": "https://www.fool.com/investing/2026/09/19/oracle-has-committed-hundreds-of-billions-to-ai-da/"
+  },
+  {
+   "title": "Could Oracle's Debt Load Derail Its AI Cloud Ambitions?",
+   "publisher": "Motley Fool",
+   "published": "2026-09-19T22:09:00Z",
+   "url": "https://www.fool.com/investing/2026/09/19/will-oracle-debt-load-derail-its-ai-cloud-ambition/"
+  },
+  {
+   "title": "IBM Has Raised Its Dividend for 31 Years. Inflation Is Still Winning",
+   "publisher": "24/7 Wall St.",
+   "published": "2026-09-19T14:02:51Z",
+   "url": "https://247wallst.com/investing/2026/09/19/ibm-has-raised-its-dividend-for-31-years-inflation-is-still-winning/"
+  },
+  {
+   "title": "Hewlett Packard Enterprise (HPE) Stock May Be 34% Undervalued On Fresh AI Demand News",
+   "publisher": "Simply Wall St.",
+   "published": "2026-09-19T13:10:57Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/hewlett-packard-enterprise-hpe-stock-131057908.html"
+  }
+ ]
+}

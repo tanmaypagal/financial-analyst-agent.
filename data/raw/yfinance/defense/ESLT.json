@@ -1,0 +1,195 @@
+{
+ "ticker": "ESLT",
+ "sector": "defense",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/ESLT",
+ "info": {
+  "longName": "Elbit Systems Ltd.",
+  "currency": "USD",
+  "financialCurrency": "USD",
+  "exchange": "NMS",
+  "fullExchangeName": "NasdaqGS",
+  "country": "Israel",
+  "longBusinessSummary": "Elbit Systems Ltd., together with its subsidiaries, develops and supplies defense and homeland security arenas products and services in Israel, North America, Europe, the Asia-Pacific, Latin America, and internationally. The company operates through five segments: Aerospace; C4I and Cyber; Intelligence, Surveillance, Target Acquisition and Reconnaissance and Electronic Warfare; Land; and Elbit Systems of America. It offers airborne platforms, unmanned aerial solutions, precision guided munition sensors, aerostructures, training and simulator systems, flight academy solutions, and commercial aviation systems; and command, control, communications, computer, intelligence, surveillance and reconnaissance systems, as well as data links and radio communication systems and equipment, cyber intelligence solutions, and autonomous and homeland security solutions. The company also provides various electro-optic laser solutions and countermeasure systems and products, naval combat management and sonar systems, and electronic warfare, signal Intelligence, and radar systems; indirect fire, turrets and weapons, ammunition and munition, and active protection systems; and products, system solutions, and support services to defense, homeland security, law enforcement, commercial aviation, and medical instrumentation markets. It serves various governments and companies. The company was incorporated in 1966 and is based in Haifa, Israel.",
+  "fullTimeEmployees": 21000,
+  "marketCap": 34835070976,
+  "enterpriseValue": 34652925952,
+  "trailingPE": 55.932655,
+  "enterpriseToEbitda": 35.242,
+  "enterpriseToRevenue": 4.055,
+  "dividendYield": 0.54,
+  "trailingAnnualDividendYield": 0.0050096186,
+  "dividendRate": 4.0,
+  "currentPrice": 743.345,
+  "regularMarketPrice": 743.345,
+  "lastFiscalYearEnd": 1767139200,
+  "mostRecentQuarter": 1782777600,
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "heldPercentInsiders": 0.41224,
+  "heldPercentInstitutions": 0.23010999
+ },
+ "income_stmt": {
+  "2025-12-31": {
+   "Total Revenue": 7938627000.0,
+   "EBITDA": 804923000.0,
+   "EBIT": 633489000.0,
+   "Net Income": 534339000.0,
+   "Gross Profit": 1935253000.0,
+   "Diluted EPS": 11.39
+  },
+  "2024-12-31": {
+   "Total Revenue": 6827871000.0,
+   "EBITDA": 632803000.0,
+   "EBIT": 474412000.0,
+   "Net Income": 321138000.0,
+   "Gross Profit": 1641820000.0,
+   "Diluted EPS": 7.18
+  },
+  "2023-12-31": {
+   "Total Revenue": 5974744000.0,
+   "EBITDA": 488616000.0,
+   "EBIT": 323817000.0,
+   "Net Income": 215131000.0,
+   "Gross Profit": 1482954000.0,
+   "Diluted EPS": 4.82
+  },
+  "2022-12-31": {
+   "Total Revenue": 5511549000.0,
+   "EBITDA": 494998000.0,
+   "EBIT": 333708000.0,
+   "Net Income": 275448000.0,
+   "Gross Profit": 1373283000.0,
+   "Diluted EPS": 6.18
+  },
+  "2021-12-31": {
+   "Total Revenue": null,
+   "EBITDA": null,
+   "EBIT": null,
+   "Net Income": null,
+   "Gross Profit": null,
+   "Diluted EPS": null
+  }
+ },
+ "balance_sheet": {
+  "2025-12-31": {
+   "Total Debt": 964810000.0,
+   "Net Debt": null,
+   "Cash And Cash Equivalents": 635141000.0,
+   "Cash Cash Equivalents And Short Term Investments": 815745000.0
+  },
+  "2024-12-31": {
+   "Total Debt": 1370310000.0,
+   "Net Debt": 565990000.0,
+   "Cash And Cash Equivalents": 265351000.0,
+   "Cash Cash Equivalents And Short Term Investments": 266681000.0
+  },
+  "2023-12-31": {
+   "Total Debt": 1466444000.0,
+   "Net Debt": 838525000.0,
+   "Cash And Cash Equivalents": 197429000.0,
+   "Cash Cash Equivalents And Short Term Investments": 207947000.0
+  },
+  "2022-12-31": {
+   "Total Debt": 1285616000.0,
+   "Net Debt": 660601000.0,
+   "Cash And Cash Equivalents": 211108000.0,
+   "Cash Cash Equivalents And Short Term Investments": 212148000.0
+  },
+  "2021-12-31": {
+   "Total Debt": null,
+   "Net Debt": 732313000.0,
+   "Cash And Cash Equivalents": null,
+   "Cash Cash Equivalents And Short Term Investments": null
+  }
+ },
+ "cashflow": {
+  "2025-12-31": {
+   "Capital Expenditure": -225568000.0,
+   "Free Cash Flow": 552810000.0,
+   "Operating Cash Flow": 778378000.0
+  },
+  "2024-12-31": {
+   "Capital Expenditure": -215051000.0,
+   "Free Cash Flow": 319559000.0,
+   "Operating Cash Flow": 534610000.0
+  },
+  "2023-12-31": {
+   "Capital Expenditure": -187037000.0,
+   "Free Cash Flow": -73328000.0,
+   "Operating Cash Flow": 113709000.0
+  },
+  "2022-12-31": {
+   "Capital Expenditure": -205110000.0,
+   "Free Cash Flow": 34958000.0,
+   "Operating Cash Flow": 240068000.0
+  },
+  "2021-12-31": {
+   "Capital Expenditure": null,
+   "Free Cash Flow": null,
+   "Operating Cash Flow": null
+  }
+ },
+ "news": [
+  {
+   "title": "Why Is Elbit Systems (TASE:ESLT) Rebranding Its U.S. Business As Twenty Six Defense?",
+   "publisher": "Simply Wall St.",
+   "published": "2026-09-20T17:10:34Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/why-elbit-systems-tase-eslt-171034248.html"
+  },
+  {
+   "title": "Are Options Traders Betting on a Big Move in Elbit Systems Stock?",
+   "publisher": "Zacks",
+   "published": "2026-09-11T14:32:00Z",
+   "url": "https://finance.yahoo.com/markets/options/articles/options-traders-betting-big-move-143200184.html"
+  },
+  {
+   "title": "Should You Buy Park Stock After Its 61% Rally in a Year?",
+   "publisher": "Zacks",
+   "published": "2026-09-03T17:53:00Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/buy-park-stock-61-rally-175300825.html"
+  },
+  {
+   "title": "Drone Maker Stocks Are Tanking. Why a New Tariff Isn\u2019t Boosting the Sector.",
+   "publisher": "Barrons.com",
+   "published": "2026-09-03T14:53:00Z",
+   "url": "https://www.barrons.com/articles/drone-stocks-tariffs-trump-redwire-5a315d7c?siteid=yhoof2&yptr=yahoo"
+  },
+  {
+   "title": "Elbit Systems (ESLT): $270M Deal Adds To A Growing Backlog",
+   "publisher": "Insider Monkey",
+   "published": "2026-09-02T07:14:35Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/elbit-systems-eslt-270m-deal-071435195.html"
+  },
+  {
+   "title": "Elbit Systems Wins $270 Million ISR and Targeting Payload Contracts",
+   "publisher": "InvestorsHub",
+   "published": "2026-09-01T15:08:30Z",
+   "url": "https://investorshub.advfn.com/market-news/article/35432/elbit-systems-wins-270-million-isr-and-targeting-payload-contracts"
+  },
+  {
+   "title": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Tuesday as Oil Prices Advance",
+   "publisher": "MT Newswires",
+   "published": "2026-09-01T12:59:41Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-125941277.html"
+  },
+  {
+   "title": "Kratos Defense vs. Elbit Systems: Which One Is the Better Defense Bet?",
+   "publisher": "Zacks",
+   "published": "2026-08-27T12:00:00Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/kratos-defense-vs-elbit-systems-120000436.html"
+  },
+  {
+   "title": "A New Defense Stock Is Born: Lyntris IPO Set For Wednesday",
+   "publisher": "Investor's Business Daily",
+   "published": "2026-08-19T20:06:07Z",
+   "url": "https://www.investors.com/news/lyntris-ipo-defense-stocks-pentagon-lockheed-martin-rtx/?src=A00220&yptr=yahoo"
+  },
+  {
+   "title": "RTX, Pentagon Sign $23 Billion Tomahawk Missile Contract",
+   "publisher": "Investor's Business Daily",
+   "published": "2026-08-17T20:02:46Z",
+   "url": "https://www.investors.com/news/rtx-pentagon-department-of-defense-tomahawk-boeing-lockheed-marting/?src=A00220&yptr=yahoo"
+  }
+ ]
+}

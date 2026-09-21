@@ -1,0 +1,195 @@
+{
+ "ticker": "FWRD",
+ "sector": "logistics",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/FWRD",
+ "info": {
+  "longName": "Forward Air Corporation",
+  "currency": "USD",
+  "financialCurrency": "USD",
+  "exchange": "NMS",
+  "fullExchangeName": "NasdaqGS",
+  "country": "United States",
+  "longBusinessSummary": "Forward Air Corporation, together with its subsidiaries, operates as an asset-light freight and logistics company in the United States, Mexico, Europe, Asia, and Canada. The company operates through three segments: Expedited Freight, Omni Logistics, and Intermodal. Its Expedited Freight segment provides expedited regional, inter-regional, and national less-than-truckload services; local pick-up and delivery services; and other services, which include shipment consolidation and deconsolidation, warehousing, customs brokerage, and other handling. This segment offers expedited truckload brokerage, dedicated fleet, and high security and temperature-controlled logistics services. The Omni Logistics segment offers full suite of global logistics services, such as air and ocean freight consolidation and forwarding, customs brokerage, warehousing and distribution, value-added services, time-definite transportation services, and other supply chain solutions. Its Intermodal segment provides intermodal container drayage services; and contract and container freight station warehouse and handling services. The company serves freight forwarders, third-party logistics companies, integrated air cargo carriers and passenger, passenger and cargo airlines, steamship lines, and retailers. Forward Air Corporation was incorporated in 1981 and is headquartered in Dallas, Texas.",
+  "fullTimeEmployees": 6062,
+  "marketCap": 500970208,
+  "enterpriseValue": 2464267264,
+  "trailingPE": null,
+  "enterpriseToEbitda": 8.746,
+  "enterpriseToRevenue": 0.979,
+  "dividendYield": null,
+  "trailingAnnualDividendYield": 0.0,
+  "dividendRate": null,
+  "currentPrice": 14.83,
+  "regularMarketPrice": 14.83,
+  "lastFiscalYearEnd": 1767139200,
+  "mostRecentQuarter": 1782777600,
+  "sector": "Industrials",
+  "industry": "Integrated Freight & Logistics",
+  "heldPercentInsiders": 0.01859,
+  "heldPercentInstitutions": 0.97488
+ },
+ "income_stmt": {
+  "2025-12-31": {
+   "Total Revenue": 2495118000.0,
+   "EBITDA": 186188000.0,
+   "EBIT": 33550000.0,
+   "Net Income": -107796000.0,
+   "Gross Profit": 338177000.0,
+   "Diluted EPS": -3.51
+  },
+  "2024-12-31": {
+   "Total Revenue": 2474262000.0,
+   "EBITDA": -916639000.0,
+   "EBIT": -1060617000.0,
+   "Net Income": -816969000.0,
+   "Gross Profit": 339651000.0,
+   "Diluted EPS": -29.66
+  },
+  "2023-12-31": {
+   "Total Revenue": 1370735000.0,
+   "EBITDA": 145615000.0,
+   "EBIT": 88210000.0,
+   "Net Income": 167351000.0,
+   "Gross Profit": 330152000.0,
+   "Diluted EPS": 6.4
+  },
+  "2022-12-31": {
+   "Total Revenue": 1679634000.0,
+   "EBITDA": 290143000.0,
+   "EBIT": 247591000.0,
+   "Net Income": 193191000.0,
+   "Gross Profit": 491665000.0,
+   "Diluted EPS": 7.14
+  },
+  "2021-12-31": {
+   "Total Revenue": null,
+   "EBITDA": null,
+   "EBIT": null,
+   "Net Income": null,
+   "Gross Profit": null,
+   "Diluted EPS": null
+  }
+ },
+ "balance_sheet": {
+  "2025-12-31": {
+   "Total Debt": 2159667000.0,
+   "Net Debt": 1581252000.0,
+   "Cash And Cash Equivalents": 105996000.0,
+   "Cash Cash Equivalents And Short Term Investments": 105996000.0
+  },
+  "2024-12-31": {
+   "Total Debt": 2145798000.0,
+   "Net Debt": 1571027000.0,
+   "Cash And Cash Equivalents": 104903000.0,
+   "Cash Cash Equivalents And Short Term Investments": 104903000.0
+  },
+  "2023-12-31": {
+   "Total Debt": 1945823000.0,
+   "Net Debt": 1668531000.0,
+   "Cash And Cash Equivalents": 121969000.0,
+   "Cash Cash Equivalents And Short Term Investments": 121969000.0
+  },
+  "2022-12-31": {
+   "Total Debt": 266783000.0,
+   "Net Debt": 70081000.0,
+   "Cash And Cash Equivalents": 45822000.0,
+   "Cash Cash Equivalents And Short Term Investments": 45822000.0
+  },
+  "2021-12-31": {
+   "Total Debt": null,
+   "Net Debt": null,
+   "Cash And Cash Equivalents": null,
+   "Cash Cash Equivalents And Short Term Investments": null
+  }
+ },
+ "cashflow": {
+  "2025-12-31": {
+   "Capital Expenditure": -29116000.0,
+   "Free Cash Flow": 15268000.0,
+   "Operating Cash Flow": 44384000.0
+  },
+  "2024-12-31": {
+   "Capital Expenditure": -37060000.0,
+   "Free Cash Flow": -112462000.0,
+   "Operating Cash Flow": -75402000.0
+  },
+  "2023-12-31": {
+   "Capital Expenditure": -30725000.0,
+   "Free Cash Flow": 150663000.0,
+   "Operating Cash Flow": 181388000.0
+  },
+  "2022-12-31": {
+   "Capital Expenditure": -39254000.0,
+   "Free Cash Flow": 219836000.0,
+   "Operating Cash Flow": 259090000.0
+  },
+  "2021-12-31": {
+   "Capital Expenditure": null,
+   "Free Cash Flow": null,
+   "Operating Cash Flow": null
+  }
+ },
+ "news": [
+  {
+   "title": "Forward Air\u2019s (FWRD) Record Revenue Comes With a Massive Asterisk",
+   "publisher": "Insider Monkey",
+   "published": "2026-09-11T06:08:06Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/forward-air-fwrd-record-revenue-060806134.html"
+  },
+  {
+   "title": "Forward Air (FWRD) Stock Fair Value Rises After Analysts Back Updated Customer Contract",
+   "publisher": "Simply Wall St.",
+   "published": "2026-08-22T13:08:05Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/forward-air-fwrd-stock-fair-130805709.html"
+  },
+  {
+   "title": "Forward Air Corp (FWRD) (Q2 2026) Earnings Call Highlights: Record Revenue and Strategic Wins ...",
+   "publisher": "GuruFocus.com",
+   "published": "2026-08-06T05:06:17Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/forward-air-corp-fwrd-q2-050617554.html"
+  },
+  {
+   "title": "Forward Air Q2 Earnings Call Highlights",
+   "publisher": "MarketBeat",
+   "published": "2026-08-06T02:04:00Z",
+   "url": "https://www.marketbeat.com/instant-alerts/forward-air-q2-earnings-call-highlights-2026-08-05/?utm_source=yahoofinance&utm_medium=yahoofinance"
+  },
+  {
+   "title": "Forward Air takes step in right direction in Q2",
+   "publisher": "FreightWaves",
+   "published": "2026-08-05T22:34:56Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/forward-air-takes-step-direction-223456396.html"
+  },
+  {
+   "title": "Forward Air sells 2 business units, posts $201M operating loss",
+   "publisher": "Trucking Dive",
+   "published": "2026-08-05T18:59:00Z",
+   "url": "https://www.truckingdive.com/news/forward-air-sells-2-business-units-posts-201m-operating-loss/827162/"
+  },
+  {
+   "title": "Old Dominion Freight Line (ODFL) Surpasses Q2 Earnings and Revenue Estimates",
+   "publisher": "Zacks",
+   "published": "2026-07-29T12:25:10Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/old-dominion-freight-line-odfl-122510042.html"
+  },
+  {
+   "title": "Landstar System (LSTR) Beats Q2 Earnings and Revenue Estimates",
+   "publisher": "Zacks",
+   "published": "2026-07-28T21:20:04Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/landstar-system-lstr-beats-q2-212004518.html"
+  },
+  {
+   "title": "Forward Air deal retains at least half of $250M major client account",
+   "publisher": "Trucking Dive",
+   "published": "2026-07-22T10:41:00Z",
+   "url": "https://www.truckingdive.com/news/forward-air-deal-retains-at-least-half-of-250m-major-client-account/825807/"
+  },
+  {
+   "title": "Forward Air (FWRD) Surges 22.8%: Is This an Indication of Further Gains?",
+   "publisher": "Zacks",
+   "published": "2026-07-22T08:14:00Z",
+   "url": "https://finance.yahoo.com/news/forward-air-fwrd-surges-22-081400230.html"
+  }
+ ]
+}

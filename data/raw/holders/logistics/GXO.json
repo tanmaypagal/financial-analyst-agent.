@@ -1,0 +1,38 @@
+{
+ "ticker": "GXO",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/GXO/holders",
+ "major_holders": {
+  "insidersPercentHeld": 0.01031,
+  "institutionsPercentHeld": 1.0832499,
+  "institutionsFloatPercentHeld": 1.09453,
+  "institutionsCount": 634.0
+ },
+ "top_institutional": [
+  {
+   "holder": "Orbis Allan Gray Ltd",
+   "pct": 0.1171,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Blackrock Inc.",
+   "pct": 0.098400004,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Spruce House Investment Management LLC",
+   "pct": 0.0458,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Vanguard Capital Management LLC",
+   "pct": 0.0454,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Dimensional Fund Advisors LP",
+   "pct": 0.045,
+   "reported": "2026-06-30"
+  }
+ ]
+}

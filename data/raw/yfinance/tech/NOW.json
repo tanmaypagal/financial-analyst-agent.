@@ -1,0 +1,195 @@
+{
+ "ticker": "NOW",
+ "sector": "tech",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/NOW",
+ "info": {
+  "longName": "ServiceNow, Inc.",
+  "currency": "USD",
+  "financialCurrency": "USD",
+  "exchange": "NYQ",
+  "fullExchangeName": "NYSE",
+  "country": "United States",
+  "longBusinessSummary": "ServiceNow, Inc. provides cloud-based solution for digital workflows in the North America, Brazil, Europe, the Middle East and Africa, Asia Pacific, and internationally. The company provides asset management, integrated risk management, IT service management, Operational Technology management, Security Operations, strategic portfolio management, IT operations management products; customer service management product; field service management applications; and sales and order management services. It also offers human resources delivery; legal and contract operations; workplace service delivery products; app engine product; automation engine; platform privacy and security product; and source-to-pay operations. In addition, the company provides RaptorDB, a database built to manage workloads at scale; ServiceNow Impact that provides customers with software tools, guided plans, and AI-driven recommendations; customer support; and workflow data fabric. It serves government, financial services, healthcare and life science, manufacturing, Public Sector, retail, technology, and Telecom sectors through service providers and resale partners. The company has a strategic collaboration with Cohesity, Inc. to develop, operate, and safeguard autonomous AI agents and data with enterprise-grade reliability; and with ServiceNow to Advance Ai-Powered Solution for Mission-Critical Infrastructure Monitoring. The company was formerly known as Service-now.com and changed its name to ServiceNow, Inc. in May 2012. ServiceNow, Inc. has a strategic alliance with Accenture for integrated risk management and third-party risk management solutions, and with Tech Mahindra to validate and deliver production-ready, industry-specific enterprise AI and automation solutions at scale. ServiceNow, Inc. was founded in 2004 and is headquartered in Santa Clara, California.",
+  "fullTimeEmployees": 29187,
+  "marketCap": 140057280512,
+  "enterpriseValue": 143846277120,
+  "trailingPE": 84.66875,
+  "enterpriseToEbitda": 49.654,
+  "enterpriseToRevenue": 9.764,
+  "dividendYield": null,
+  "trailingAnnualDividendYield": 0.0,
+  "dividendRate": null,
+  "currentPrice": 135.47,
+  "regularMarketPrice": 135.47,
+  "lastFiscalYearEnd": 1767139200,
+  "mostRecentQuarter": 1782777600,
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "heldPercentInsiders": 0.0017499999,
+  "heldPercentInstitutions": 0.84832
+ },
+ "income_stmt": {
+  "2025-12-31": {
+   "Total Revenue": 13278000000.0,
+   "EBITDA": 3022000000.0,
+   "EBIT": 2284000000.0,
+   "Net Income": 1748000000.0,
+   "Gross Profit": 10295000000.0,
+   "Diluted EPS": 1.67
+  },
+  "2024-12-31": {
+   "Total Revenue": 10984000000.0,
+   "EBITDA": 2325000000.0,
+   "EBIT": 1761000000.0,
+   "Net Income": 1425000000.0,
+   "Gross Profit": 8697000000.0,
+   "Diluted EPS": 1.368
+  },
+  "2023-12-31": {
+   "Total Revenue": 8971000000.0,
+   "EBITDA": 1324000000.0,
+   "EBIT": 762000000.0,
+   "Net Income": 1731000000.0,
+   "Gross Profit": 7050000000.0,
+   "Diluted EPS": 1.684
+  },
+  "2022-12-31": {
+   "Total Revenue": 7245000000.0,
+   "EBITDA": 788000000.0,
+   "EBIT": 355000000.0,
+   "Net Income": 325000000.0,
+   "Gross Profit": 5672000000.0,
+   "Diluted EPS": 0.32
+  },
+  "2021-12-31": {
+   "Total Revenue": null,
+   "EBITDA": null,
+   "EBIT": null,
+   "Net Income": null,
+   "Gross Profit": null,
+   "Diluted EPS": null
+  }
+ },
+ "balance_sheet": {
+  "2025-12-31": {
+   "Total Debt": 2403000000.0,
+   "Net Debt": null,
+   "Cash And Cash Equivalents": 3726000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 6284000000.0
+  },
+  "2024-12-31": {
+   "Total Debt": 2278000000.0,
+   "Net Debt": null,
+   "Cash And Cash Equivalents": 2304000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 5762000000.0
+  },
+  "2023-12-31": {
+   "Total Debt": 2284000000.0,
+   "Net Debt": null,
+   "Cash And Cash Equivalents": 1897000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 4877000000.0
+  },
+  "2022-12-31": {
+   "Total Debt": 2232000000.0,
+   "Net Debt": 16000000.0,
+   "Cash And Cash Equivalents": 1470000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 4280000000.0
+  },
+  "2021-12-31": {
+   "Total Debt": null,
+   "Net Debt": null,
+   "Cash And Cash Equivalents": null,
+   "Cash Cash Equivalents And Short Term Investments": null
+  }
+ },
+ "cashflow": {
+  "2025-12-31": {
+   "Capital Expenditure": -911000000.0,
+   "Free Cash Flow": 4533000000.0,
+   "Operating Cash Flow": 5444000000.0
+  },
+  "2024-12-31": {
+   "Capital Expenditure": -892000000.0,
+   "Free Cash Flow": 3375000000.0,
+   "Operating Cash Flow": 4267000000.0
+  },
+  "2023-12-31": {
+   "Capital Expenditure": -697000000.0,
+   "Free Cash Flow": 2701000000.0,
+   "Operating Cash Flow": 3398000000.0
+  },
+  "2022-12-31": {
+   "Capital Expenditure": -550000000.0,
+   "Free Cash Flow": 2173000000.0,
+   "Operating Cash Flow": 2723000000.0
+  },
+  "2021-12-31": {
+   "Capital Expenditure": null,
+   "Free Cash Flow": null,
+   "Operating Cash Flow": null
+  }
+ },
+ "news": [
+  {
+   "title": "These 3 Agentic AI Stocks Have More Than Hype Behind Their Growth Stories",
+   "publisher": "MarketBeat",
+   "published": "2026-09-19T12:35:00Z",
+   "url": "https://www.marketbeat.com/articles/these-3-agentic-ai-stocks-have-more-than-hype-behind-their-growth-stories/?utm_source=yahoofinance&utm_medium=yahoofinance"
+  },
+  {
+   "title": "How Low Can UiPath Stock Go When Its Numbers Are Not The Problem?",
+   "publisher": "Trefis",
+   "published": "2026-09-18T22:06:26Z",
+   "url": "https://www.trefis.com/articles/615833/how-low-can-uipath-stock-go-when-its-numbers-are-not-the-problem/2026-09-18"
+  },
+  {
+   "title": "ServiceNow (NOW) Stock Falls Amid Market Uptick: What Investors Need to Know",
+   "publisher": "Zacks",
+   "published": "2026-09-18T21:45:03Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/servicenow-now-stock-falls-amid-214503145.html"
+  },
+  {
+   "title": "Why Salesforce\u2019s Homegrown AI Model Won\u2019t Move the Stock Until 2027",
+   "publisher": "24/7 Wall St.",
+   "published": "2026-09-18T19:03:51Z",
+   "url": "https://247wallst.com/investing/2026/09/18/why-salesforces-homegrown-ai-model-wont-move-the-stock-until-2027/"
+  },
+  {
+   "title": "ServiceNow Stock Leads 3 Large Cap Growth Names Facing Higher Rate Pressure",
+   "publisher": "Simply Wall St.",
+   "published": "2026-09-18T16:14:26Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/servicenow-stock-leads-3-large-161426966.html"
+  },
+  {
+   "title": "Would You Want CRM Stock Back At The Price It Just Left?",
+   "publisher": "Trefis",
+   "published": "2026-09-17T18:06:45Z",
+   "url": "https://www.trefis.com/articles/615696/would-you-want-crm-stock-back-at-the-price-it-just-left/2026-09-17"
+  },
+  {
+   "title": "This ServiceNow Bear Signal Has Never Been Wrong",
+   "publisher": "Schaeffer's Investment Research",
+   "published": "2026-09-17T17:58:05Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/servicenow-bear-signal-never-wrong-175805864.html"
+  },
+  {
+   "title": "The Palantir Question Nobody Can Answer Yet: How Big Can This Get?",
+   "publisher": "24/7 Wall St.",
+   "published": "2026-09-17T15:00:21Z",
+   "url": "https://247wallst.com/investing/2026/09/17/the-palantir-question-nobody-can-answer-yet-how-big-can-this-get/"
+  },
+  {
+   "title": "1 Surging  Stock to Target This Week and 2 We Question",
+   "publisher": "StockStory",
+   "published": "2026-09-17T10:50:17Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/1-surging-stock-target-week-105017484.html"
+  },
+  {
+   "title": "Did Salesforce Telegraph Its Own Massive Rally?",
+   "publisher": "Trefis",
+   "published": "2026-09-16T17:04:38Z",
+   "url": "https://www.trefis.com/articles/615514/did-salesforce-telegraph-its-own-massive-rally/2026-09-16"
+  }
+ ]
+}

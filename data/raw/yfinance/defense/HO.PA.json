@@ -1,0 +1,182 @@
+{
+ "ticker": "HO.PA",
+ "sector": "defense",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/HO.PA",
+ "info": {
+  "longName": "Thales S.A.",
+  "currency": "EUR",
+  "financialCurrency": "EUR",
+  "exchange": "PAR",
+  "fullExchangeName": "Paris",
+  "country": "France",
+  "longBusinessSummary": "Thales S.A. provides various solutions in the defence and security, aerospace and space, and digital identity and security markets worldwide. The company offers advance air defence systems, combat systems, defence onboard electronics c4isr solutions, command and control solutions, mission and surveillance systems, airborne optronics, and airspace protection solutions; collaborative combat, intelligence, connectivity and cloud, country and force protection, military vehicle, collaborative artillery, and augmented soldier solutions; robotics and drones; above-water combat, unmanned maritime, and underwater warfare systems; naval support and services; and joint systems. It also provides mission-critical and radio communications; cyber defence and electronic warfare solutions; protection systems; unmanned aerial vehicle systems; digital transformation services; and Geonav IoT for real-time indoor/outdoor precise navigations. In addition, it offers digital identity and security solutions comprising banking and payment, data protection, digital identity, identity and access management, biometric, mobile, software monetization, secure IoT solutions, and IoT connecting and security solutions. Further, it provides air traffic management solutions; flight decks and avionics equipment and functions; in-flight entertainment, connectivity, and services; drone and navigation solutions; support and services for civil aviation; connectivity solutions; antennas; and solutions for internal and external aircraft lighting. It offers lasers; microwave and imaging sub-systems; microelectronic solutions; mobile satellite, environmental testing and evaluation laboratory, and training and simulation services; cryogenic technology and coolers; silicon security solutions; and designs, operates, and delivers satellite-based technologies. The company was formerly known as Thomson-CSF and changed its name to Thales S.A. in 2000. Thales S.A. was founded in 1893 and is based in Meudon, France.",
+  "fullTimeEmployees": 79263,
+  "marketCap": 48596910080,
+  "enterpriseValue": 49470816256,
+  "trailingPE": 32.50344,
+  "enterpriseToEbitda": 16.126,
+  "enterpriseToRevenue": 2.168,
+  "dividendYield": 1.64,
+  "trailingAnnualDividendYield": 0.012384552,
+  "dividendRate": 3.9,
+  "currentPrice": 236.3,
+  "regularMarketPrice": 236.3,
+  "lastFiscalYearEnd": 1767139200,
+  "mostRecentQuarter": 1782777600,
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "heldPercentInsiders": 0.56198,
+  "heldPercentInstitutions": 0.23376
+ },
+ "income_stmt": {
+  "2025-12-31": {
+   "Total Revenue": 22136400000.0,
+   "EBITDA": 3411500000.0,
+   "EBIT": 2324200000.0,
+   "Net Income": 1674500000.0,
+   "Gross Profit": 5853200000.0,
+   "Diluted EPS": 8.13
+  },
+  "2024-12-31": {
+   "Total Revenue": 20576600000.0,
+   "EBITDA": 2672400000.0,
+   "EBIT": 1517000000.0,
+   "Net Income": 1419500000.0,
+   "Gross Profit": 5373900000.0,
+   "Diluted EPS": 6.89
+  },
+  "2023-12-31": {
+   "Total Revenue": 18428400000.0,
+   "EBITDA": 2456300000.0,
+   "EBIT": 1411200000.0,
+   "Net Income": 1023400000.0,
+   "Gross Profit": 4766400000.0,
+   "Diluted EPS": 4.89
+  },
+  "2022-12-31": {
+   "Total Revenue": 17568800000.0,
+   "EBITDA": 2510200000.0,
+   "EBIT": 1451400000.0,
+   "Net Income": 1120600000.0,
+   "Gross Profit": 4455400000.0,
+   "Diluted EPS": 5.28
+  }
+ },
+ "balance_sheet": {
+  "2025-12-31": {
+   "Total Debt": 6129500000.0,
+   "Cash And Cash Equivalents": 4446500000.0,
+   "Cash Cash Equivalents And Short Term Investments": 4491100000.0
+  },
+  "2024-12-31": {
+   "Total Debt": 7823400000.0,
+   "Cash And Cash Equivalents": 4767100000.0,
+   "Cash Cash Equivalents And Short Term Investments": 4768000000.0
+  },
+  "2023-12-31": {
+   "Total Debt": 8433600000.0,
+   "Cash And Cash Equivalents": 3979900000.0,
+   "Cash Cash Equivalents And Short Term Investments": 4080500000.0
+  },
+  "2022-12-31": {
+   "Total Debt": 5471400000.0,
+   "Cash And Cash Equivalents": 5099600000.0,
+   "Cash Cash Equivalents And Short Term Investments": 5300100000.0
+  },
+  "2021-12-31": {
+   "Total Debt": null,
+   "Cash And Cash Equivalents": null,
+   "Cash Cash Equivalents And Short Term Investments": null
+  }
+ },
+ "cashflow": {
+  "2025-12-31": {
+   "Capital Expenditure": -756700000.0,
+   "Free Cash Flow": 2565100000.0,
+   "Operating Cash Flow": 3321800000.0
+  },
+  "2024-12-31": {
+   "Capital Expenditure": -623100000.0,
+   "Free Cash Flow": 2014700000.0,
+   "Operating Cash Flow": 2637800000.0
+  },
+  "2023-12-31": {
+   "Capital Expenditure": -625600000.0,
+   "Free Cash Flow": 885800000.0,
+   "Operating Cash Flow": 1511400000.0
+  },
+  "2022-12-31": {
+   "Capital Expenditure": -534600000.0,
+   "Free Cash Flow": 2490800000.0,
+   "Operating Cash Flow": 3025400000.0
+  },
+  "2021-12-31": {
+   "Capital Expenditure": null,
+   "Free Cash Flow": null,
+   "Operating Cash Flow": null
+  }
+ },
+ "news": [
+  {
+   "title": "01 Quantum Inc (OONEF) Q3 2026 Earnings Call Highlights: Quantum-Safe Email Opportunity and ...",
+   "publisher": "GuruFocus.com",
+   "published": "2026-09-18T01:00:24Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/01-quantum-inc-oonef-q3-010024415.html"
+  },
+  {
+   "title": "Palantir Gains as Europe Builds a Sovereign AI Counterweight",
+   "publisher": "GuruFocus.com",
+   "published": "2026-09-17T19:10:50Z",
+   "url": "https://finance.yahoo.com/technology/ai/articles/palantir-gains-europe-builds-sovereign-191050465.html"
+  },
+  {
+   "title": "Rheinmetall Stock And Europe Defense Shares Riding The EU Canada Reset",
+   "publisher": "Simply Wall St.",
+   "published": "2026-09-17T12:13:41Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/rheinmetall-stock-europe-defense-shares-121341379.html"
+  },
+  {
+   "title": "European Indexes Slide as Higher Oil Weighs on Defense Stocks, Banks",
+   "publisher": "The Wall Street Journal",
+   "published": "2026-09-09T07:39:00Z",
+   "url": "https://www.wsj.com/finance/stocks/nikkei-rises-0-1-led-by-chip-related-stocks-c8902c64?siteid=yhoof2&yptr=yahoo"
+  },
+  {
+   "title": "Airbus (ENXTPA:AIR) Reviews US Satellite Unit, Is The Stock A Bargain?",
+   "publisher": "Simply Wall St.",
+   "published": "2026-09-03T12:15:38Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/airbus-enxtpa-air-reviews-us-121538644.html"
+  },
+  {
+   "title": "European Indexes Gain in Muted Early Trade",
+   "publisher": "The Wall Street Journal",
+   "published": "2026-08-07T07:54:00Z",
+   "url": "https://www.wsj.com/finance/stocks/nikkei-falls-0-7-dragged-by-chip-related-stocks-ed8fd1ea?siteid=yhoof2&yptr=yahoo"
+  },
+  {
+   "title": "Is Thales (ENXTPA:HO) Expensive After Its Singapore Air Traffic Management Contract?",
+   "publisher": "Simply Wall St.",
+   "published": "2026-08-01T04:15:40Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/thales-enxtpa-ho-expensive-singapore-041540121.html"
+  },
+  {
+   "title": "Infernos in France Threaten Cluster of Defense and Aerospace Factories",
+   "publisher": "The Wall Street Journal",
+   "published": "2026-07-30T15:49:00Z",
+   "url": "https://www.wsj.com/world/europe/infernos-in-france-threaten-cluster-of-defense-and-aerospace-factories-7ed3562f?siteid=yhoof2&yptr=yahoo"
+  },
+  {
+   "title": "Turns out Dead Internet Theory was right: AI agents are eating the Web, growing by nearly 8,000% and rewiring the Internet\u2019s business model",
+   "publisher": "Fortune",
+   "published": "2026-07-23T20:10:27Z",
+   "url": "https://finance.yahoo.com/technology/ai/articles/turns-dead-internet-theory-ai-201027433.html"
+  },
+  {
+   "title": "Thales (THLEF) (H1 2026) Earnings Call Highlights: Strong Order Intake and Cash Flow Propel Growth",
+   "publisher": "GuruFocus.com",
+   "published": "2026-07-23T15:01:20Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/thales-thlef-h1-2026-earnings-150120963.html"
+  }
+ ]
+}

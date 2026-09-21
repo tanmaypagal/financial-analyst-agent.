@@ -1,0 +1,195 @@
+{
+ "ticker": "SAIA",
+ "sector": "logistics",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/SAIA",
+ "info": {
+  "longName": "Saia, Inc.",
+  "currency": "USD",
+  "financialCurrency": "USD",
+  "exchange": "NMS",
+  "fullExchangeName": "NasdaqGS",
+  "country": "United States",
+  "longBusinessSummary": "Saia, Inc., together with its subsidiaries, operates as a transportation company in North America. The company provides less-than-truckload services for shipments between 100 and 10,000 pounds. It also offers other value-added services, including brokered truckload, expedited transportation, and other logistics services. As of December 31, 2025, it operated 213 owned and leased terminals; and owned approximately 7,700 tractors and 26,500 trailers. The company was formerly known as SCS Transportation, Inc. and changed its name to Saia, Inc. in July 2002. Saia, Inc. was founded in 1924 and is headquartered in Johns Creek, Georgia.",
+  "fullTimeEmployees": 13734,
+  "marketCap": 9104799744,
+  "enterpriseValue": 9289976832,
+  "trailingPE": 33.000965,
+  "enterpriseToEbitda": 15.092,
+  "enterpriseToRevenue": 2.739,
+  "dividendYield": null,
+  "trailingAnnualDividendYield": 0.0,
+  "dividendRate": null,
+  "currentPrice": 342.22,
+  "regularMarketPrice": 342.22,
+  "lastFiscalYearEnd": 1767139200,
+  "mostRecentQuarter": 1782777600,
+  "sector": "Industrials",
+  "industry": "Trucking",
+  "heldPercentInsiders": 0.00153,
+  "heldPercentInstitutions": 1.07314
+ },
+ "income_stmt": {
+  "2025-12-31": {
+   "Total Revenue": 3234286000.0,
+   "EBITDA": 602406000.0,
+   "EBIT": 353833000.0,
+   "Net Income": 255036000.0,
+   "Gross Profit": 516617000.0,
+   "Diluted EPS": 9.52
+  },
+  "2024-12-31": {
+   "Total Revenue": 3209074000.0,
+   "EBITDA": 695043000.0,
+   "EBIT": 484938000.0,
+   "Net Income": 362065000.0,
+   "Gross Profit": 644414000.0,
+   "Diluted EPS": 13.51
+  },
+  "2023-12-31": {
+   "Total Revenue": 2881433000.0,
+   "EBITDA": 647607000.0,
+   "EBIT": 468762000.0,
+   "Net Income": 354857000.0,
+   "Gross Profit": 598932000.0,
+   "Diluted EPS": 13.26
+  },
+  "2022-12-31": {
+   "Total Revenue": 2792057000.0,
+   "EBITDA": 627862000.0,
+   "EBIT": 470659000.0,
+   "Net Income": 357422000.0,
+   "Gross Profit": 590963000.0,
+   "Diluted EPS": 13.4
+  },
+  "2021-12-31": {
+   "Total Revenue": null,
+   "EBITDA": null,
+   "EBIT": null,
+   "Net Income": null,
+   "Gross Profit": null,
+   "Diluted EPS": null
+  }
+ },
+ "balance_sheet": {
+  "2025-12-31": {
+   "Total Debt": 304994000.0,
+   "Net Debt": 143280000.0,
+   "Cash And Cash Equivalents": 19720000.0,
+   "Cash Cash Equivalents And Short Term Investments": 19720000.0
+  },
+  "2024-12-31": {
+   "Total Debt": 324464000.0,
+   "Net Debt": 180821000.0,
+   "Cash And Cash Equivalents": 19473000.0,
+   "Cash Cash Equivalents And Short Term Investments": 19473000.0
+  },
+  "2023-12-31": {
+   "Total Debt": 138707000.0,
+   "Net Debt": null,
+   "Cash And Cash Equivalents": 296215000.0,
+   "Cash Cash Equivalents And Short Term Investments": 296215000.0
+  },
+  "2022-12-31": {
+   "Total Debt": 154514000.0,
+   "Net Debt": null,
+   "Cash And Cash Equivalents": 187390000.0,
+   "Cash Cash Equivalents And Short Term Investments": 187390000.0
+  },
+  "2021-12-31": {
+   "Total Debt": null,
+   "Net Debt": null,
+   "Cash And Cash Equivalents": null,
+   "Cash Cash Equivalents And Short Term Investments": null
+  }
+ },
+ "cashflow": {
+  "2025-12-31": {
+   "Capital Expenditure": -567639000.0,
+   "Free Cash Flow": 27334000.0,
+   "Operating Cash Flow": 594973000.0
+  },
+  "2024-12-31": {
+   "Capital Expenditure": -1043557000.0,
+   "Free Cash Flow": -459855000.0,
+   "Operating Cash Flow": 583702000.0
+  },
+  "2023-12-31": {
+   "Capital Expenditure": -439879000.0,
+   "Free Cash Flow": 138066000.0,
+   "Operating Cash Flow": 577945000.0
+  },
+  "2022-12-31": {
+   "Capital Expenditure": -367429000.0,
+   "Free Cash Flow": 105597000.0,
+   "Operating Cash Flow": 473026000.0
+  },
+  "2021-12-31": {
+   "Capital Expenditure": null,
+   "Free Cash Flow": null,
+   "Operating Cash Flow": null
+  }
+ },
+ "news": [
+  {
+   "title": "1 Cash-Producing Stock to Consider Right Now and 2 We Avoid",
+   "publisher": "StockStory",
+   "published": "2026-09-12T00:19:05Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/1-cash-producing-stock-consider-001905816.html"
+  },
+  {
+   "title": "Saia (SAIA) Grew August Tonnage 8.7%. Can Heavier Freight Create Greater Operating Leverage?",
+   "publisher": "Insider Monkey",
+   "published": "2026-09-10T19:22:19Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/saia-saia-grew-august-tonnage-192219005.html"
+  },
+  {
+   "title": "Diesel Prices Surge to Record High and J.B. Hunt and Other Freight Stocks Slide",
+   "publisher": "Barrons.com",
+   "published": "2026-09-04T12:25:00Z",
+   "url": "https://www.barrons.com/articles/j-b-hunt-freight-stocks-diesel-prices-244eb05d?siteid=yhoof2&yptr=yahoo"
+  },
+  {
+   "title": "Saia\u2019s tonnage growth steps higher in August as comps ease",
+   "publisher": "FreightWaves",
+   "published": "2026-09-03T16:42:41Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/saia-tonnage-growth-steps-higher-164241632.html"
+  },
+  {
+   "title": "Ground Transportation Stocks Q2 Highlights: Saia (NASDAQ:SAIA)",
+   "publisher": "StockStory",
+   "published": "2026-09-01T15:46:20Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/ground-transportation-stocks-q2-highlights-154620441.html"
+  },
+  {
+   "title": "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Friday Ahead of Warsh Speech",
+   "publisher": "MT Newswires",
+   "published": "2026-08-28T12:43:48Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-124348595.html"
+  },
+  {
+   "title": "1 Profitable Stock with Competitive Advantages and 2 That Underwhelm",
+   "publisher": "StockStory",
+   "published": "2026-08-20T12:03:15Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/1-profitable-stock-competitive-advantages-120315930.html"
+  },
+  {
+   "title": "3 Small-Cap Stocks We Approach with Caution",
+   "publisher": "StockStory",
+   "published": "2026-08-10T16:53:22Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/3-small-cap-stocks-approach-165322147.html"
+  },
+  {
+   "title": "Saia (SAIA) Stock May Look 36% Overvalued After Margin Outlook Cut",
+   "publisher": "Simply Wall St.",
+   "published": "2026-08-02T16:08:20Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/saia-saia-stock-may-look-160820306.html"
+  },
+  {
+   "title": "Saia (SAIA) Cuts Full Year Margin Outlook As Expansion Costs Rise",
+   "publisher": "Simply Wall St.",
+   "published": "2026-08-02T02:08:29Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/saia-saia-cuts-full-margin-020829333.html"
+  }
+ ]
+}

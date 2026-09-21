@@ -1,0 +1,187 @@
+{
+ "ticker": "DOCU",
+ "sector": "tech",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/DOCU",
+ "info": {
+  "longName": "DocuSign, Inc.",
+  "currency": "USD",
+  "financialCurrency": "USD",
+  "exchange": "NMS",
+  "fullExchangeName": "NasdaqGS",
+  "country": "United States",
+  "longBusinessSummary": "DocuSign, Inc. provides electronic signature solution in the United States and internationally. The company offers AI-powered intelligent agreement management (IAM) platform to optimize the gain intelligence and automation across the entire agreement lifecycle; and provides e-signature solution that enables sending and signing of agreements on various devices; Contract Lifecycle Management (CLM), which automates workflows across the entire agreement process; and Document Generation streamlines the process of generating new, custom agreements. It also provides Identify, a signer-identification option for checking government-issued IDs; Standards-Based Signatures, which support signatures that involve digital certificates; Monitor that uses advanced analytics; Notary which enables notaries public to conduct remote online notarization transactions; and Web Forms. In addition, the company offers Real Estate for eSignature that provides a way for brokers and agents to manage the entire real estate transaction digitally. eSignature and CLM are Federal Risk and Authorization Management Program (FedRAMP), an authorized version of DocuSign eSignature for U.S. federal government agencies; and life sciences modules that support compliance with the electronic signature practices. The company sells its products through direct and partner-assisted sales, and digital self-service purchasing. DocuSign, Inc. was incorporated in 2003 and is headquartered in San Francisco, California.",
+  "fullTimeEmployees": 7044,
+  "marketCap": 12909351936,
+  "enterpriseValue": 12314773504,
+  "trailingPE": 42.115852,
+  "enterpriseToEbitda": 27.883,
+  "enterpriseToRevenue": 3.664,
+  "dividendYield": null,
+  "trailingAnnualDividendYield": 0.0,
+  "dividendRate": null,
+  "currentPrice": 69.07,
+  "regularMarketPrice": 69.07,
+  "lastFiscalYearEnd": 1769817600,
+  "mostRecentQuarter": 1785456000,
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "heldPercentInsiders": 0.0055,
+  "heldPercentInstitutions": 0.95972997
+ },
+ "income_stmt": {
+  "2026-01-31": {
+   "Total Revenue": 3219500000.0,
+   "EBITDA": 465955000.0,
+   "EBIT": 349874000.0,
+   "Net Income": 309085000.0,
+   "Gross Profit": 2556438000.0,
+   "Diluted EPS": 1.48
+  },
+  "2025-01-31": {
+   "Total Revenue": 2976739000.0,
+   "EBITDA": 357295000.0,
+   "EBIT": 249491000.0,
+   "Net Income": 1067885000.0,
+   "Gross Profit": 2355080000.0,
+   "Diluted EPS": 5.08
+  },
+  "2024-01-31": {
+   "Total Revenue": 2761882000.0,
+   "EBITDA": 195585000.0,
+   "EBIT": 100523000.0,
+   "Net Income": 73980000.0,
+   "Gross Profit": 2189261000.0,
+   "Diluted EPS": 0.36
+  },
+  "2023-01-31": {
+   "Total Revenue": 2515915000.0,
+   "EBITDA": 2763000.0,
+   "EBIT": -83492000.0,
+   "Net Income": -97454000.0,
+   "Gross Profit": 1979827000.0,
+   "Diluted EPS": -0.49
+  }
+ },
+ "balance_sheet": {
+  "2026-01-31": {
+   "Total Debt": 185119000.0,
+   "Net Debt": null,
+   "Cash And Cash Equivalents": 602442000.0,
+   "Cash Cash Equivalents And Short Term Investments": 866526000.0
+  },
+  "2025-01-31": {
+   "Total Debt": 124427000.0,
+   "Net Debt": null,
+   "Cash And Cash Equivalents": 648623000.0,
+   "Cash Cash Equivalents And Short Term Investments": 963547000.0
+  },
+  "2024-01-31": {
+   "Total Debt": 143053000.0,
+   "Net Debt": null,
+   "Cash And Cash Equivalents": 797060000.0,
+   "Cash Cash Equivalents And Short Term Investments": 1045462000.0
+  },
+  "2023-01-31": {
+   "Total Debt": 888290000.0,
+   "Net Debt": 992000.0,
+   "Cash And Cash Equivalents": 721895000.0,
+   "Cash Cash Equivalents And Short Term Investments": 1031666000.0
+  },
+  "2022-01-31": {
+   "Total Debt": null,
+   "Net Debt": 209428000.0,
+   "Cash And Cash Equivalents": null,
+   "Cash Cash Equivalents And Short Term Investments": null
+  }
+ },
+ "cashflow": {
+  "2026-01-31": {
+   "Capital Expenditure": -106445000.0,
+   "Free Cash Flow": 1058562000.0,
+   "Operating Cash Flow": 1165007000.0
+  },
+  "2025-01-31": {
+   "Capital Expenditure": -96988000.0,
+   "Free Cash Flow": 920284000.0,
+   "Operating Cash Flow": 1017272000.0
+  },
+  "2024-01-31": {
+   "Capital Expenditure": -92391000.0,
+   "Free Cash Flow": 887135000.0,
+   "Operating Cash Flow": 979526000.0
+  },
+  "2023-01-31": {
+   "Capital Expenditure": -77654000.0,
+   "Free Cash Flow": 429105000.0,
+   "Operating Cash Flow": 506759000.0
+  },
+  "2022-01-31": {
+   "Capital Expenditure": null,
+   "Free Cash Flow": null,
+   "Operating Cash Flow": null
+  }
+ },
+ "news": [
+  {
+   "title": "3 Stocks Riding The Push For AI Safety And Governance Spending",
+   "publisher": "Simply Wall St.",
+   "published": "2026-09-19T01:14:00Z",
+   "url": "https://finance.yahoo.com/technology/ai/articles/3-stocks-riding-push-ai-011400420.html"
+  },
+  {
+   "title": "Stocks making big moves this week: Sabre, DocuSign, Dave & Buster's, RUM Group, and Axon",
+   "publisher": "StockStory",
+   "published": "2026-09-18T22:08:40Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-making-big-moves-week-220840214.html"
+  },
+  {
+   "title": "Is Docusign Stock Worth Buying as IAM Growth Meets Liquidity Risks?",
+   "publisher": "Zacks",
+   "published": "2026-09-17T14:43:00Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/docusign-stock-worth-buying-iam-144300607.html"
+  },
+  {
+   "title": "Can DOCU Extend Its 13.4% Gain in a Month as IAM Momentum Builds?",
+   "publisher": "Zacks",
+   "published": "2026-09-17T14:39:00Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/docu-extend-13-4-gain-143900233.html"
+  },
+  {
+   "title": "Stocks making big moves yesterday: Dave & Buster's, Vishay Intertechnology, DocuSign, SentinelOne, and agilon health",
+   "publisher": "StockStory",
+   "published": "2026-09-16T19:08:52Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-making-big-moves-yesterday-190852348.html"
+  },
+  {
+   "title": "What Happens When Strong Uptrends Meet Bullish Sentiment?",
+   "publisher": "Schaeffer's Investment Research",
+   "published": "2026-09-16T12:21:07Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/happens-strong-uptrends-meet-bullish-122107436.html"
+  },
+  {
+   "title": "Why DocuSign (DOCU) Stock Is Up Today",
+   "publisher": "StockStory",
+   "published": "2026-09-15T22:23:31Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/why-docusign-docu-stock-today-222331657.html"
+  },
+  {
+   "title": "2 Profitable Stocks to Target This Week and 1 We Turn Down",
+   "publisher": "StockStory",
+   "published": "2026-09-15T07:32:30Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/2-profitable-stocks-target-week-073230456.html"
+  },
+  {
+   "title": "Adobe, DocuSign, Intuit, Workiva, and Appian Stocks Trade Up, What You Need To Know",
+   "publisher": "StockStory",
+   "published": "2026-09-15T01:47:30Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/adobe-docusign-intuit-workiva-appian-014730531.html"
+  },
+  {
+   "title": "Does DocuSign\u2019s AI Push and 20% Buyback Shift The Bull Case For DOCU?",
+   "publisher": "Simply Wall St.",
+   "published": "2026-09-14T20:09:20Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/does-docusign-ai-push-20-200920292.html"
+  }
+ ]
+}

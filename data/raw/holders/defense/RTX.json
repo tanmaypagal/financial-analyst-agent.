@@ -1,0 +1,38 @@
+{
+ "ticker": "RTX",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/RTX/holders",
+ "major_holders": {
+  "insidersPercentHeld": 0.00091,
+  "institutionsPercentHeld": 0.81702006,
+  "institutionsFloatPercentHeld": 0.81776,
+  "institutionsCount": 4110.0
+ },
+ "top_institutional": [
+  {
+   "holder": "Blackrock Inc.",
+   "pct": 0.081999995,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "State Street Corporation",
+   "pct": 0.0708,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Vanguard Capital Management LLC",
+   "pct": 0.0653,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Capital Research Global Investors",
+   "pct": 0.0388,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "JPMORGAN CHASE & CO",
+   "pct": 0.0276,
+   "reported": "2026-06-30"
+  }
+ ]
+}

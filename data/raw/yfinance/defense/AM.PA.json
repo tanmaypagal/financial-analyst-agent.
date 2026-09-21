@@ -1,0 +1,182 @@
+{
+ "ticker": "AM.PA",
+ "sector": "defense",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/AM.PA",
+ "info": {
+  "longName": "Dassault Aviation soci\u00e9t\u00e9 anonyme",
+  "currency": "EUR",
+  "financialCurrency": "EUR",
+  "exchange": "PAR",
+  "fullExchangeName": "Paris",
+  "country": "France",
+  "longBusinessSummary": "Dassault Aviation soci\u00e9t\u00e9 anonyme, an aerospace company, engages in designing and building military aircraft, business jets, and space systems in France, the United States, and internationally. The company offers Rafale, a twin-jet fighter aircraft able to operate from both an aircraft carrier and a shore base; nEUROn, an unmanned combat air vehicle technology demonstrator; and Multi-Role Falcons, designed to perform various government and military missions. It also provides falcon family products, including Falcon 10X, Falcon 8X, Falcon 6X, Falcon 900LX, and Falcon 2000XLS. In addition, the company offers space products, including V\u00e9hicule Orbital R\u00e9utilisable de Transport et d'Exploration (VORTEX), designed to operate in space and return to Earth like an aircraft; and Intermediate eXperimental Vehicle (IXV). Further, it provides repair and maintenance of landing gear and flight controls; overhaul and repair of civil aeronautical equipment for french equipment manufacturers; aviation services and maintenance; falcon training; military aircraft mechanics training; insurance and reinsurance brokerage; training of fighter pilot; and military aircraft support services. Additionally, the company is involved in the design, production, and distribution of simulation tools; assembles and produces military and civil aerostructure parts and subassemblies; operates in defense and security markets; and production of composite aviation parts. The company was founded in 1916 and is headquartered in Saint-Cloud, France. Dassault Aviation soci\u00e9t\u00e9 anonyme operates as a subsidiary of Groupe Industriel Marcel Dassault S.A.",
+  "fullTimeEmployees": 14573,
+  "marketCap": 22266701824,
+  "enterpriseValue": 12220043264,
+  "trailingPE": 22.368422,
+  "enterpriseToEbitda": 12.957,
+  "enterpriseToRevenue": 1.374,
+  "dividendYield": 1.66,
+  "trailingAnnualDividendYield": 0.016643453,
+  "dividendRate": 4.78,
+  "currentPrice": 289.0,
+  "regularMarketPrice": 289.0,
+  "lastFiscalYearEnd": 1767139200,
+  "mostRecentQuarter": 1782777600,
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "heldPercentInsiders": 0.78335,
+  "heldPercentInstitutions": 0.11028
+ },
+ "income_stmt": {
+  "2025-12-31": {
+   "Total Revenue": 7425969000.0,
+   "EBITDA": 1451217000.0,
+   "EBIT": 1245154000.0,
+   "Net Income": 977393000.0,
+   "Gross Profit": 2489249000.0,
+   "Diluted EPS": 12.52
+  },
+  "2024-12-31": {
+   "Total Revenue": 6239708000.0,
+   "EBITDA": 1351408000.0,
+   "EBIT": 1117314000.0,
+   "Net Income": 923824000.0,
+   "Gross Profit": 2360970000.0,
+   "Diluted EPS": 11.78
+  },
+  "2023-12-31": {
+   "Total Revenue": 4804891000.0,
+   "EBITDA": 1006323000.0,
+   "EBIT": 831874000.0,
+   "Net Income": 693398000.0,
+   "Gross Profit": 1818628000.0,
+   "Diluted EPS": 8.57
+  },
+  "2022-12-31": {
+   "Total Revenue": 6949916000.0,
+   "EBITDA": 1062646000.0,
+   "EBIT": 865248000.0,
+   "Net Income": 716225000.0,
+   "Gross Profit": 2176364000.0,
+   "Diluted EPS": 8.62
+  }
+ },
+ "balance_sheet": {
+  "2025-12-31": {
+   "Total Debt": 203051000.0,
+   "Cash And Cash Equivalents": 1965145000.0,
+   "Cash Cash Equivalents And Short Term Investments": 9439095000.0
+  },
+  "2024-12-31": {
+   "Total Debt": 237758000.0,
+   "Cash And Cash Equivalents": 1611440000.0,
+   "Cash Cash Equivalents And Short Term Investments": 8485417000.0
+  },
+  "2023-12-31": {
+   "Total Debt": 262437000.0,
+   "Cash And Cash Equivalents": 1457580000.0,
+   "Cash Cash Equivalents And Short Term Investments": 7371560000.0
+  },
+  "2022-12-31": {
+   "Total Debt": 233652000.0,
+   "Cash And Cash Equivalents": 3980527000.0,
+   "Cash Cash Equivalents And Short Term Investments": 9626572000.0
+  },
+  "2021-12-31": {
+   "Total Debt": null,
+   "Cash And Cash Equivalents": null,
+   "Cash Cash Equivalents And Short Term Investments": null
+  }
+ },
+ "cashflow": {
+  "2025-12-31": {
+   "Capital Expenditure": -194738000.0,
+   "Free Cash Flow": 1653791000.0,
+   "Operating Cash Flow": 1848529000.0
+  },
+  "2024-12-31": {
+   "Capital Expenditure": -345885000.0,
+   "Free Cash Flow": 1535184000.0,
+   "Operating Cash Flow": 1881069000.0
+  },
+  "2023-12-31": {
+   "Capital Expenditure": -345558000.0,
+   "Free Cash Flow": -1018163000.0,
+   "Operating Cash Flow": -672605000.0
+  },
+  "2022-12-31": {
+   "Capital Expenditure": -175021000.0,
+   "Free Cash Flow": 4934950000.0,
+   "Operating Cash Flow": 5109971000.0
+  },
+  "2021-12-31": {
+   "Capital Expenditure": null,
+   "Free Cash Flow": null,
+   "Operating Cash Flow": null
+  }
+ },
+ "news": [
+  {
+   "title": "How AMN\u2019s Nurse and Allied Rebound Amid Segment Weakness Has Changed Its Investment Story (AMN)",
+   "publisher": "Simply Wall St.",
+   "published": "2026-09-15T16:12:59Z",
+   "url": "https://finance.yahoo.com/healthcare/articles/amn-nurse-allied-rebound-amid-161259166.html"
+  },
+  {
+   "title": "Implied Volatility Surging for AMN Healthcare Stock Options",
+   "publisher": "Zacks",
+   "published": "2026-09-15T14:10:00Z",
+   "url": "https://finance.yahoo.com/markets/options/articles/implied-volatility-surging-amn-healthcare-141000471.html"
+  },
+  {
+   "title": "AMN Healthcare (AMN) Swings To Profit While Two Segments Keep Sliding",
+   "publisher": "Insider Monkey",
+   "published": "2026-09-15T05:49:11Z",
+   "url": "https://finance.yahoo.com/healthcare/articles/amn-healthcare-amn-swings-profit-054911072.html"
+  },
+  {
+   "title": "Here's Why You Should Retain AMN Stock in Your Portfolio for Now",
+   "publisher": "Zacks",
+   "published": "2026-09-08T15:38:00Z",
+   "url": "https://finance.yahoo.com/healthcare/articles/heres-why-retain-amn-stock-153800559.html"
+  },
+  {
+   "title": "3 Reasons to Avoid AMN and 1 Stock to Buy Instead",
+   "publisher": "StockStory",
+   "published": "2026-09-03T17:03:18Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-avoid-amn-1-170318376.html"
+  },
+  {
+   "title": "Zacks.com featured highlights Centene, Archer-Daniels-Midland, Avnet, Arrow and AMN",
+   "publisher": "Zacks",
+   "published": "2026-08-26T08:48:00Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-centene-084800012.html"
+  },
+  {
+   "title": "AMN Healthcare Services (AMN) Stock May Trade At A Discount On Its 124% Run",
+   "publisher": "Simply Wall St.",
+   "published": "2026-08-26T02:15:15Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/amn-healthcare-services-amn-stock-021515673.html"
+  },
+  {
+   "title": "AMN Stock Rallies Nearly 119% YTD: What's Behind the Momentum?",
+   "publisher": "Zacks",
+   "published": "2026-08-24T18:23:00Z",
+   "url": "https://finance.yahoo.com/healthcare/articles/amn-stock-rallies-nearly-119-182300380.html"
+  },
+  {
+   "title": "Spotting Winners: AMN Healthcare Services (NYSE:AMN) And Healthcare Providers & Services Stocks In Q2",
+   "publisher": "StockStory",
+   "published": "2026-08-17T09:26:20Z",
+   "url": "https://finance.yahoo.com/healthcare/articles/spotting-winners-amn-healthcare-services-092620209.html"
+  },
+  {
+   "title": "The 4 Words From Jensen Huang That Could Redefine NVIDIA\u2019s Total Addressable Market",
+   "publisher": "24/7 Wall St.",
+   "published": "2026-08-15T12:00:08Z",
+   "url": "https://247wallst.com/investing/2026/08/15/the-4-words-from-jensen-huang-that-could-redefine-nvidias-total-addressable-market/"
+  }
+ ]
+}

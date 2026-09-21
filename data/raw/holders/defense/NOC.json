@@ -1,0 +1,38 @@
+{
+ "ticker": "NOC",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/NOC/holders",
+ "major_holders": {
+  "insidersPercentHeld": 0.00266,
+  "institutionsPercentHeld": 0.84486,
+  "institutionsFloatPercentHeld": 0.84711,
+  "institutionsCount": 2243.0
+ },
+ "top_institutional": [
+  {
+   "holder": "State Street Corporation",
+   "pct": 0.092700005,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Blackrock Inc.",
+   "pct": 0.083000004,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Vanguard Capital Management LLC",
+   "pct": 0.0633,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Capital International Investors",
+   "pct": 0.041199997,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Capital World Investors",
+   "pct": 0.0356,
+   "reported": "2026-06-30"
+  }
+ ]
+}

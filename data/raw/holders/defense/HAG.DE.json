@@ -1,0 +1,18 @@
+{
+ "ticker": "HAG.DE",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/HAG.DE/holders",
+ "major_holders": {
+  "insidersPercentHeld": 0.47919998,
+  "institutionsPercentHeld": 0.407,
+  "institutionsFloatPercentHeld": 0.78150004,
+  "institutionsCount": 280.0
+ },
+ "top_institutional": [
+  {
+   "holder": "Pacer Advisors, Inc.",
+   "pct": 0.0,
+   "reported": "2026-06-30"
+  }
+ ]
+}

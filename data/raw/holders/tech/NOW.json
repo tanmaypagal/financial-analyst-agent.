@@ -1,0 +1,38 @@
+{
+ "ticker": "NOW",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/NOW/holders",
+ "major_holders": {
+  "insidersPercentHeld": 0.0017499999,
+  "institutionsPercentHeld": 0.84832,
+  "institutionsFloatPercentHeld": 0.84980005,
+  "institutionsCount": 3128.0
+ },
+ "top_institutional": [
+  {
+   "holder": "Blackrock Inc.",
+   "pct": 0.0929,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Vanguard Capital Management LLC",
+   "pct": 0.0651,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "State Street Corporation",
+   "pct": 0.047399998,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Morgan Stanley",
+   "pct": 0.025799999,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Vanguard Portfolio Management LLC",
+   "pct": 0.024400001,
+   "reported": "2026-06-30"
+  }
+ ]
+}

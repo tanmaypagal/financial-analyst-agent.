@@ -1,0 +1,190 @@
+{
+ "ticker": "DT",
+ "sector": "tech",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/DT",
+ "info": {
+  "longName": "Dynatrace, Inc.",
+  "currency": "USD",
+  "financialCurrency": "USD",
+  "exchange": "NYQ",
+  "fullExchangeName": "NYSE",
+  "country": "United States",
+  "longBusinessSummary": "Dynatrace, Inc. engages in the advancement of observability for digital businesses, which transforms the complexity of modern digital ecosystems in North America, Europe, the Middle East, Africa, the Asia Pacific, and Latin America. The company operates Dynatrace, an AI-powered observability platform, which provides solutions, including infrastructure, application, threat, and AI observability; digital experience; log analytics; application security; software delivery; and business analytics. It also offers implementation, consulting, and training services. The company markets its products through a combination of global direct sales team and a network of partners, including global system integrators (GSIs), cloud providers, resellers and technology alliance partners. It serves customers in various industries, including banking, financial services, government, insurance, retail and wholesale, transportation, and software. Dynatrace, Inc. was founded in 2005 and is headquartered in Boston, Massachusetts.",
+  "fullTimeEmployees": 5600,
+  "marketCap": 16003219456,
+  "enterpriseValue": 14985986048,
+  "trailingPE": 110.28,
+  "enterpriseToEbitda": 51.425,
+  "enterpriseToRevenue": 7.151,
+  "dividendYield": null,
+  "trailingAnnualDividendYield": 0.0,
+  "dividendRate": null,
+  "currentPrice": 55.14,
+  "regularMarketPrice": 55.14,
+  "lastFiscalYearEnd": 1774915200,
+  "mostRecentQuarter": 1782777600,
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "heldPercentInsiders": 0.00598,
+  "heldPercentInstitutions": 1.08167
+ },
+ "income_stmt": {
+  "2026-03-31": {
+   "Total Revenue": 2018387000.0,
+   "EBITDA": 287971000.0,
+   "EBIT": 263912000.0,
+   "Net Income": 162669000.0,
+   "Gross Profit": 1646183000.0,
+   "Diluted EPS": 0.54
+  },
+  "2025-03-31": {
+   "Total Revenue": 1698683000.0,
+   "EBITDA": 227537000.0,
+   "EBIT": 179433000.0,
+   "Net Income": 483684000.0,
+   "Gross Profit": 1378491000.0,
+   "Diluted EPS": 1.59
+  },
+  "2024-03-31": {
+   "Total Revenue": 1430530000.0,
+   "EBITDA": 183340000.0,
+   "EBIT": 128400000.0,
+   "Net Income": 154632000.0,
+   "Gross Profit": 1164077000.0,
+   "Diluted EPS": 0.52
+  },
+  "2023-03-31": {
+   "Total Revenue": 1158530000.0,
+   "EBITDA": 147422000.0,
+   "EBIT": 92811000.0,
+   "Net Income": 107959000.0,
+   "Gross Profit": 935639000.0,
+   "Diluted EPS": 0.37
+  },
+  "2022-03-31": {
+   "Total Revenue": null,
+   "EBITDA": null,
+   "EBIT": null,
+   "Net Income": null,
+   "Gross Profit": null,
+   "Diluted EPS": null
+  }
+ },
+ "balance_sheet": {
+  "2026-03-31": {
+   "Total Debt": 164324000.0,
+   "Cash And Cash Equivalents": 1097220000.0,
+   "Cash Cash Equivalents And Short Term Investments": 1172101000.0
+  },
+  "2025-03-31": {
+   "Total Debt": 75363000.0,
+   "Cash And Cash Equivalents": 1017039000.0,
+   "Cash Cash Equivalents And Short Term Investments": 1113228000.0
+  },
+  "2024-03-31": {
+   "Total Debt": 69526000.0,
+   "Cash And Cash Equivalents": 778983000.0,
+   "Cash Cash Equivalents And Short Term Investments": 836874000.0
+  },
+  "2023-03-31": {
+   "Total Debt": 75172000.0,
+   "Cash And Cash Equivalents": 555348000.0,
+   "Cash Cash Equivalents And Short Term Investments": 555348000.0
+  },
+  "2022-03-31": {
+   "Total Debt": null,
+   "Cash And Cash Equivalents": null,
+   "Cash Cash Equivalents And Short Term Investments": null
+  }
+ },
+ "cashflow": {
+  "2026-03-31": {
+   "Capital Expenditure": -32367000.0,
+   "Free Cash Flow": 529483000.0,
+   "Operating Cash Flow": 561850000.0
+  },
+  "2025-03-31": {
+   "Capital Expenditure": -28802000.0,
+   "Free Cash Flow": 430617000.0,
+   "Operating Cash Flow": 459419000.0
+  },
+  "2024-03-31": {
+   "Capital Expenditure": -31727000.0,
+   "Free Cash Flow": 346382000.0,
+   "Operating Cash Flow": 378109000.0
+  },
+  "2023-03-31": {
+   "Capital Expenditure": -21540000.0,
+   "Free Cash Flow": 333345000.0,
+   "Operating Cash Flow": 354885000.0
+  },
+  "2022-03-31": {
+   "Capital Expenditure": null,
+   "Free Cash Flow": null,
+   "Operating Cash Flow": null
+  }
+ },
+ "news": [
+  {
+   "title": "3 AI Security Stocks Retail Investors May Want On Their Watchlist",
+   "publisher": "Simply Wall St.",
+   "published": "2026-09-19T07:17:52Z",
+   "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-security-stocks-retail-071752305.html"
+  },
+  {
+   "title": "2 Growth Stocks to Stash and 1 We Find Risky",
+   "publisher": "StockStory",
+   "published": "2026-09-18T21:12:40Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/2-growth-stocks-stash-1-211240431.html"
+  },
+  {
+   "title": "Netflix downgraded, Etsy upgraded: Wall Street's top analyst calls",
+   "publisher": "The Fly",
+   "published": "2026-09-18T13:36:41Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/cigna-downgraded-humana-upgraded-wall-134340274.html"
+  },
+  {
+   "title": "Dynatrace (DT) Exceeds Market Returns: Some Facts to Consider",
+   "publisher": "Zacks",
+   "published": "2026-09-17T22:15:02Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/dynatrace-dt-exceeds-market-returns-221502375.html"
+  },
+  {
+   "title": "Datadog's Enterprise Customer Expansion Accelerates: What's Ahead?",
+   "publisher": "Zacks",
+   "published": "2026-09-17T17:23:00Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/datadogs-enterprise-customer-expansion-accelerates-172300945.html"
+  },
+  {
+   "title": "FJTSY or DT: Which Is the Better Value Stock Right Now?",
+   "publisher": "Zacks",
+   "published": "2026-09-17T15:40:04Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/fjtsy-dt-better-value-stock-154004657.html"
+  },
+  {
+   "title": "Dynatrace (DT) Targets Large European Enterprises With New Observability Practice",
+   "publisher": "Simply Wall St.",
+   "published": "2026-09-17T11:12:29Z",
+   "url": "https://finance.yahoo.com/technology/ai/articles/dynatrace-dt-targets-large-european-111229420.html"
+  },
+  {
+   "title": "Dow Jones Futures Rise As Oil Prices, Yields Fall Before Fed Rate Hike; Will Market Rally Bid Bond Voyage?",
+   "publisher": "Investor's Business Daily",
+   "published": "2026-09-16T12:07:50Z",
+   "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-how-will-bonds-react-to-fed-rate-hike/?src=A00220&yptr=yahoo"
+  },
+  {
+   "title": "Why Dynatrace (DT) Stock Is Trading Up Today",
+   "publisher": "StockStory",
+   "published": "2026-09-15T22:39:31Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/why-dynatrace-dt-stock-trading-223931343.html"
+  },
+  {
+   "title": "AI Agents Create Their Own Monitoring Problem. Datadog and Dynatrace Are Racing to Own It",
+   "publisher": "Insider Monkey",
+   "published": "2026-09-12T22:56:26Z",
+   "url": "https://finance.yahoo.com/technology/ai/articles/ai-agents-create-own-monitoring-225626156.html"
+  }
+ ]
+}

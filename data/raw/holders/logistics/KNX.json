@@ -1,0 +1,38 @@
+{
+ "ticker": "KNX",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/KNX/holders",
+ "major_holders": {
+  "insidersPercentHeld": 0.02918,
+  "institutionsPercentHeld": 1.02303,
+  "institutionsFloatPercentHeld": 1.05378,
+  "institutionsCount": 789.0
+ },
+ "top_institutional": [
+  {
+   "holder": "Blackrock Inc.",
+   "pct": 0.1058,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Dimensional Fund Advisors LP",
+   "pct": 0.052600004,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "FMR, LLC",
+   "pct": 0.0495,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Vanguard Capital Management LLC",
+   "pct": 0.0434,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Vanguard Portfolio Management LLC",
+   "pct": 0.0397,
+   "reported": "2026-06-30"
+  }
+ ]
+}

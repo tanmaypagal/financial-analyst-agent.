@@ -1,0 +1,38 @@
+{
+ "ticker": "XPO",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/XPO/holders",
+ "major_holders": {
+  "insidersPercentHeld": 0.02151,
+  "institutionsPercentHeld": 1.03722,
+  "institutionsFloatPercentHeld": 1.06003,
+  "institutionsCount": 982.0
+ },
+ "top_institutional": [
+  {
+   "holder": "Blackrock Inc.",
+   "pct": 0.1242,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "MFN Partners Management, LP",
+   "pct": 0.084300004,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Capital Research Global Investors",
+   "pct": 0.0706,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Capital World Investors",
+   "pct": 0.0498,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Vanguard Capital Management LLC",
+   "pct": 0.0436,
+   "reported": "2026-06-30"
+  }
+ ]
+}

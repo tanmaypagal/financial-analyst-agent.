@@ -1,0 +1,38 @@
+{
+ "ticker": "ESLT",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/ESLT/holders",
+ "major_holders": {
+  "insidersPercentHeld": 0.41224,
+  "institutionsPercentHeld": 0.23010999,
+  "institutionsFloatPercentHeld": 0.39151,
+  "institutionsCount": 579.0
+ },
+ "top_institutional": [
+  {
+   "holder": "Clal Insurance Enterprises Holdings Ltd",
+   "pct": 0.0345,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Vanguard Capital Management LLC",
+   "pct": 0.0162,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Van Eck Associates Corporation",
+   "pct": 0.0117,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Y.D. More Investments Ltd",
+   "pct": 0.010299999,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Altshuler Shaham Ltd",
+   "pct": 0.010299999,
+   "reported": "2026-06-30"
+  }
+ ]
+}

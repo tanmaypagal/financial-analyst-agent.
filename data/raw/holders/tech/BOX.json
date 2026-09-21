@@ -1,0 +1,38 @@
+{
+ "ticker": "BOX",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/BOX/holders",
+ "major_holders": {
+  "insidersPercentHeld": 0.03252,
+  "institutionsPercentHeld": 1.05011,
+  "institutionsFloatPercentHeld": 1.08541,
+  "institutionsCount": 537.0
+ },
+ "top_institutional": [
+  {
+   "holder": "Blackrock Inc.",
+   "pct": 0.18540001,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Vanguard Portfolio Management LLC",
+   "pct": 0.081199996,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Earnest Partners LLC",
+   "pct": 0.0519,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Vanguard Capital Management LLC",
+   "pct": 0.043899998,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "State Street Corporation",
+   "pct": 0.0432,
+   "reported": "2026-06-30"
+  }
+ ]
+}

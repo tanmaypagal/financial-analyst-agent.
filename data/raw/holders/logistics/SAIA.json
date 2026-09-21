@@ -1,0 +1,38 @@
+{
+ "ticker": "SAIA",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/SAIA/holders",
+ "major_holders": {
+  "insidersPercentHeld": 0.00153,
+  "institutionsPercentHeld": 1.07314,
+  "institutionsFloatPercentHeld": 1.07479,
+  "institutionsCount": 689.0
+ },
+ "top_institutional": [
+  {
+   "holder": "Blackrock Inc.",
+   "pct": 0.0954,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Alliancebernstein L.P.",
+   "pct": 0.083500005,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Price (T.Rowe) Associates Inc",
+   "pct": 0.0801,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Vanguard Capital Management LLC",
+   "pct": 0.045100003,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Vanguard Portfolio Management LLC",
+   "pct": 0.041500002,
+   "reported": "2026-06-30"
+  }
+ ]
+}

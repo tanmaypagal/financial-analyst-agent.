@@ -1,0 +1,187 @@
+{
+ "ticker": "PEGA",
+ "sector": "tech",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/PEGA",
+ "info": {
+  "longName": "Pegasystems Inc.",
+  "currency": "USD",
+  "financialCurrency": "USD",
+  "exchange": "NMS",
+  "fullExchangeName": "NasdaqGS",
+  "country": "United States",
+  "longBusinessSummary": "Pegasystems Inc. develops, markets, licenses, hosts, and supports enterprise software in the United States, rest of the Americas, the United Kingdom, rest of Europe, the Middle East, Africa, and the Asia-Pacific. It provides Pega Infinity, a software portfolio comprising of Pega Customer Decision Hub, a real-time AI-powered decision engine, which can predict a customer's behavior and recommend the next best action to take across channels in real-time; Pega Customer Service to anticipate customer needs, connect customers to people and systems, and automate customer interactions to evolve the customer service experience, as well as to allow enterprises to deliver interactions across channels and enhance employee productivity; and Pega Platform,  a software for AI-powered workflow automation for increasing the efficiency of clients' processes and operational workflows. The company also offers Situational Layer Cake that organizes logic into layers that map to the unique dimensions of a client's business, such as customer types, lines of business, geographies, etc.; Pega GenAI Blueprint to rapidly prototype and accelerate the development and deployment of applications; Pega Cloud that allows clients to develop, test, and deploy applications;  Pega Catalyst, which helps clients to transform and prototype their customer journeys; Pega Academy, which offers enablement content for Pega product implementations, such as instructor-led and online training to its employees, clients, and partners; and global service assurance and client support services. It primarily markets its software and services to financial services, healthcare, communications and media, government, insurance, manufacturing and high tech, and consumer industries through a direct sales force, as well as partnerships with technology providers and application developers. Pegasystems Inc. was incorporated in 1983 and is headquartered in Waltham, Massachusetts.",
+  "fullTimeEmployees": 5598,
+  "marketCap": 5762393088,
+  "enterpriseValue": 5472502272,
+  "trailingPE": 19.914772,
+  "enterpriseToEbitda": 26.097,
+  "enterpriseToRevenue": 3.152,
+  "dividendYield": 0.34,
+  "trailingAnnualDividendYield": 0.0033268644,
+  "dividendRate": 0.12,
+  "currentPrice": 35.05,
+  "regularMarketPrice": 35.05,
+  "lastFiscalYearEnd": 1767139200,
+  "mostRecentQuarter": 1782777600,
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "heldPercentInsiders": 0.47853002,
+  "heldPercentInstitutions": 0.61596
+ },
+ "income_stmt": {
+  "2025-12-31": {
+   "Total Revenue": 1745812000.0,
+   "EBITDA": 307824000.0,
+   "EBIT": 281912000.0,
+   "Net Income": 393437000.0,
+   "Gross Profit": 1324430000.0,
+   "Diluted EPS": 2.13
+  },
+  "2024-12-31": {
+   "Total Revenue": 1497180000.0,
+   "EBITDA": 184898000.0,
+   "EBIT": 149471000.0,
+   "Net Income": 99189000.0,
+   "Gross Profit": 1106515000.0,
+   "Diluted EPS": 0.555
+  },
+  "2023-12-31": {
+   "Total Revenue": 1432616000.0,
+   "EBITDA": 136974000.0,
+   "EBIT": 102316000.0,
+   "Net Income": 67808000.0,
+   "Gross Profit": 1054133000.0,
+   "Diluted EPS": 0.37
+  },
+  "2022-12-31": {
+   "Total Revenue": 1317845000.0,
+   "EBITDA": -119285000.0,
+   "EBIT": -154005000.0,
+   "Net Income": -345582000.0,
+   "Gross Profit": 949210000.0,
+   "Diluted EPS": -2.11
+  }
+ },
+ "balance_sheet": {
+  "2025-12-31": {
+   "Total Debt": 75967000.0,
+   "Net Debt": null,
+   "Cash And Cash Equivalents": 212447000.0,
+   "Cash Cash Equivalents And Short Term Investments": 425799000.0
+  },
+  "2024-12-31": {
+   "Total Debt": 549668000.0,
+   "Net Debt": 130367000.0,
+   "Cash And Cash Equivalents": 337103000.0,
+   "Cash Cash Equivalents And Short Term Investments": 739973000.0
+  },
+  "2023-12-31": {
+   "Total Debt": 581269000.0,
+   "Net Debt": 269466000.0,
+   "Cash And Cash Equivalents": 229902000.0,
+   "Cash Cash Equivalents And Short Term Investments": 423338000.0
+  },
+  "2022-12-31": {
+   "Total Debt": 687737000.0,
+   "Net Debt": 448555000.0,
+   "Cash And Cash Equivalents": 145054000.0,
+   "Cash Cash Equivalents And Short Term Investments": 297221000.0
+  },
+  "2021-12-31": {
+   "Total Debt": null,
+   "Net Debt": 430757000.0,
+   "Cash And Cash Equivalents": null,
+   "Cash Cash Equivalents And Short Term Investments": null
+  }
+ },
+ "cashflow": {
+  "2025-12-31": {
+   "Capital Expenditure": -14504000.0,
+   "Free Cash Flow": 490723000.0,
+   "Operating Cash Flow": 505227000.0
+  },
+  "2024-12-31": {
+   "Capital Expenditure": -7712000.0,
+   "Free Cash Flow": 338214000.0,
+   "Operating Cash Flow": 345926000.0
+  },
+  "2023-12-31": {
+   "Capital Expenditure": -16781000.0,
+   "Free Cash Flow": 201004000.0,
+   "Operating Cash Flow": 217785000.0
+  },
+  "2022-12-31": {
+   "Capital Expenditure": -35379000.0,
+   "Free Cash Flow": -13043000.0,
+   "Operating Cash Flow": 22336000.0
+  },
+  "2021-12-31": {
+   "Capital Expenditure": null,
+   "Free Cash Flow": null,
+   "Operating Cash Flow": null
+  }
+ },
+ "news": [
+  {
+   "title": "How Low Can UiPath Stock Go When Its Numbers Are Not The Problem?",
+   "publisher": "Trefis",
+   "published": "2026-09-18T22:06:26Z",
+   "url": "https://www.trefis.com/articles/615833/how-low-can-uipath-stock-go-when-its-numbers-are-not-the-problem/2026-09-18"
+  },
+  {
+   "title": "3 Software Stocks That Fall Short",
+   "publisher": "StockStory",
+   "published": "2026-09-18T10:08:40Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/3-software-stocks-fall-short-100840480.html"
+  },
+  {
+   "title": "Pegasystems Stock Has Fallen 46% in a Year. Here\u2019s Where the Stock Could Go",
+   "publisher": "TIKR",
+   "published": "2026-09-17T14:34:24Z",
+   "url": "https://www.tikr.com/blog/pegasystems-stock-has-fallen-46-in-a-year-heres-where-the-stock-could-go?ref=yahoofinance"
+  },
+  {
+   "title": "Lyft downgraded, Trip.com upgraded: Wall Street's top analyst calls",
+   "publisher": "The Fly",
+   "published": "2026-09-17T13:47:31Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/roblox-downgraded-hershey-upgraded-wall-134516825.html"
+  },
+  {
+   "title": "Asana, Tenable, UiPath, Guidewire Software, and Pegasystems Shares Are Soaring, What You Need To Know",
+   "publisher": "StockStory",
+   "published": "2026-09-15T02:03:30Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/asana-tenable-uipath-guidewire-software-020330941.html"
+  },
+  {
+   "title": "Is UiPath Stock A Buy After Falling Despite A Raised Outlook?",
+   "publisher": "Trefis",
+   "published": "2026-09-11T17:28:28Z",
+   "url": "https://www.trefis.com/articles/615065/is-uipath-stock-a-buy-after-falling-despite-a-raised-outlook/2026-09-11"
+  },
+  {
+   "title": "Dips In UiPath Stock Have Mostly Kept Falling, Will This One Too?",
+   "publisher": "Trefis",
+   "published": "2026-09-10T01:43:08Z",
+   "url": "https://www.trefis.com/articles/614713/dips-in-uipath-stock-have-mostly-kept-falling-will-this-one-too/2026-09-09"
+  },
+  {
+   "title": "UiPath Slips 3% Despite Citi Buy Initiation and $23 Target, Pegasystems and C3.ai Lag",
+   "publisher": "24/7 Wall St.",
+   "published": "2026-09-09T17:45:08Z",
+   "url": "https://247wallst.com/investing/2026/09/09/uipath-slips-3-despite-citi-buy-initiation-and-23-target-pegasystems-and-c3-ai-lag/"
+  },
+  {
+   "title": "UiPath and Pegasystems Sink 7% as Price Target Hikes Arrive Without a Single Buy Rating",
+   "publisher": "24/7 Wall St.",
+   "published": "2026-09-08T17:15:50Z",
+   "url": "https://247wallst.com/investing/2026/09/08/uipath-and-pegasystems-sink-7-as-price-target-hikes-arrive-without-a-single-buy-rating/"
+  },
+  {
+   "title": "UiPath Tumbles 14% as Guided Slowdown Overshadows Revenue Beat",
+   "publisher": "24/7 Wall St.",
+   "published": "2026-09-04T14:40:02Z",
+   "url": "https://247wallst.com/investing/2026/09/04/uipath-tumbles-14-as-guided-slowdown-overshadows-revenue-beat/"
+  }
+ ]
+}

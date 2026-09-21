@@ -1,0 +1,33 @@
+{
+ "ticker": "RHM.DE",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/RHM.DE/holders",
+ "major_holders": {
+  "insidersPercentHeld": 0.016490001,
+  "institutionsPercentHeld": 0.45823002,
+  "institutionsFloatPercentHeld": 0.46591,
+  "institutionsCount": 654.0
+ },
+ "top_institutional": [
+  {
+   "holder": "Generali Investments Cee, Investicni Spolecnost, A.s.",
+   "pct": 0.0001,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Gamma Investing LLC",
+   "pct": 0.0,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Financial Gravity Companies, Inc.",
+   "pct": 0.0,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Pacer Advisors, Inc.",
+   "pct": 0.0,
+   "reported": "2026-06-30"
+  }
+ ]
+}

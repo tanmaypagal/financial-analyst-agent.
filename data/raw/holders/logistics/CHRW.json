@@ -1,0 +1,38 @@
+{
+ "ticker": "CHRW",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/CHRW/holders",
+ "major_holders": {
+  "insidersPercentHeld": 0.00347,
+  "institutionsPercentHeld": 1.05178,
+  "institutionsFloatPercentHeld": 1.05545,
+  "institutionsCount": 1268.0
+ },
+ "top_institutional": [
+  {
+   "holder": "Blackrock Inc.",
+   "pct": 0.09729999,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Vanguard Capital Management LLC",
+   "pct": 0.0642,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "State Street Corporation",
+   "pct": 0.0556,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Vanguard Portfolio Management LLC",
+   "pct": 0.0507,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "FMR, LLC",
+   "pct": 0.032,
+   "reported": "2026-06-30"
+  }
+ ]
+}

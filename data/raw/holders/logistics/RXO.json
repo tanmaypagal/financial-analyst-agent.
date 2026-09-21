@@ -1,0 +1,38 @@
+{
+ "ticker": "RXO",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/RXO/holders",
+ "major_holders": {
+  "insidersPercentHeld": 0.00808,
+  "institutionsPercentHeld": 1.10919,
+  "institutionsFloatPercentHeld": 1.11823,
+  "institutionsCount": 400.0
+ },
+ "top_institutional": [
+  {
+   "holder": "Orbis Allan Gray Ltd",
+   "pct": 0.2207,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "MFN Partners Management, LP",
+   "pct": 0.17040001,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Blackrock Inc.",
+   "pct": 0.1524,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Vanguard Portfolio Management LLC",
+   "pct": 0.0563,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Vanguard Capital Management LLC",
+   "pct": 0.045100003,
+   "reported": "2026-06-30"
+  }
+ ]
+}

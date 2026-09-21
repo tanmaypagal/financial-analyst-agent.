@@ -1,0 +1,74 @@
+{
+ "ticker": "GD",
+ "retrieved_at": "2026-09-21",
+ "window": [
+  "2026-03-25",
+  "2026-09-21"
+ ],
+ "search_terms": [
+  "GENERAL DYNAMICS"
+ ],
+ "source": "USAspending.gov spending_by_award (date_signed)",
+ "awards": [
+  {
+   "internal_id": 361849267,
+   "Award ID": "W15QKN26F0176",
+   "Recipient Name": "GENERAL DYNAMICS OTS (WILKES BARRE), LLC",
+   "Award Amount": 367836131.11,
+   "Description": "MANUFACTURE AND DELIVER 155MM M795 METAL PART ASSEMBLIES",
+   "Start Date": "2026-05-11",
+   "Awarding Agency": "Department of Defense",
+   "generated_internal_id": "CONT_AWD_W15QKN26F0176_9700_W15QKN24D0052_9700",
+   "awarding_agency_id": 1173,
+   "agency_slug": "department-of-defense"
+  },
+  {
+   "internal_id": 360180426,
+   "Award ID": "N0002426C4410",
+   "Recipient Name": "METRO MACHINE CORP.",
+   "Award Amount": 182532853.0,
+   "Description": "TYCOM BASE WORK",
+   "Start Date": "2026-06-29",
+   "Awarding Agency": "Department of Defense",
+   "generated_internal_id": "CONT_AWD_N0002426C4410_9700_-NONE-_-NONE-",
+   "awarding_agency_id": 1173,
+   "agency_slug": "department-of-defense"
+  },
+  {
+   "internal_id": 361660468,
+   "Award ID": "N5005426FC020",
+   "Recipient Name": "METRO MACHINE CORP.",
+   "Award Amount": 132788586.0,
+   "Description": "USS MAHAN DDG-72",
+   "Start Date": "2026-09-28",
+   "Awarding Agency": "Department of Defense",
+   "generated_internal_id": "CONT_AWD_N5005426FC020_9700_N0002422D4405_9700",
+   "awarding_agency_id": 1173,
+   "agency_slug": "department-of-defense"
+  },
+  {
+   "internal_id": 361849250,
+   "Award ID": "W15QKN26F0144",
+   "Recipient Name": "GENERAL DYNAMICS ORDNANCE AND TACTICAL SYSTEMS, INC.",
+   "Award Amount": 112263739.04,
+   "Description": "DELIVERY ORDER 2, OP2/PY7 FOR THE M829A4 CARTRIDGE, 120MM, ARMOR PIERCING, FIN STABILIZED, DISCARDING SABOT WITH TRACER (APFSDS-T)",
+   "Start Date": "2026-03-31",
+   "Awarding Agency": "Department of Defense",
+   "generated_internal_id": "CONT_AWD_W15QKN26F0144_9700_W15QKN25D0006_9700",
+   "awarding_agency_id": 1173,
+   "agency_slug": "department-of-defense"
+  },
+  {
+   "internal_id": 361850593,
+   "Award ID": "W519TC26F0094",
+   "Recipient Name": "GENERAL DYNAMICS OTS (WILKES BARRE), LLC",
+   "Award Amount": 96900000.0,
+   "Description": "THE PURPOSE OF THIS ACTION IS TO ESTABLISH CLINS FOR THE PERFORMANCE BASED PAYMENTS FOR UNIVERSAL ARTILLERY PROJECTILE LINES 1 AND 2.",
+   "Start Date": "2026-04-24",
+   "Awarding Agency": "Department of Defense",
+   "generated_internal_id": "CONT_AWD_W519TC26F0094_9700_W52P1J19D0075_9700",
+   "awarding_agency_id": 1173,
+   "agency_slug": "department-of-defense"
+  }
+ ]
+}

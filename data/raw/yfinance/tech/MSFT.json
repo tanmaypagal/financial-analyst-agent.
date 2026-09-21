@@ -1,0 +1,187 @@
+{
+ "ticker": "MSFT",
+ "sector": "tech",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/MSFT",
+ "info": {
+  "longName": "Microsoft Corporation",
+  "currency": "USD",
+  "financialCurrency": "USD",
+  "exchange": "NMS",
+  "fullExchangeName": "NasdaqGS",
+  "country": "United States",
+  "longBusinessSummary": "Microsoft Corporation, a technology company, develops and supports a portfolio of technology solutions for individuals and businesses worldwide. Its products include operating systems, server applications, business solution applications, software development tools, desktop and server management tools, and video games; and devices, such as PCs, tablets, gaming and entertainment consoles, other intelligent devices, and related accessories. The company's Productivity and Business Processes segment offers Microsoft 365 Commercial, Enterprise Mobility + Security, Power BI, Exchange, SharePoint, Microsoft Teams, Microsoft 365 Security and Compliance, Microsoft 365 Copilot, and Windows Commercial on-premises and Office licensed on-premises. This segment also provides Microsoft 365 Consumer products and cloud services; LinkedIn, including talent solutions, marketing solutions, subscriptions, and sales solutions; Dynamics 365, a set of cloud-based applications; and on-premises ERP and CRM applications. Its Intelligent Cloud segment offers server products and cloud services; cloud and AI consumption-based services, GitHub cloud services, health and life sciences cloud services, as well as virtual desktop offerings, and other cloud services; SQL Server, Windows Server, Visual Studio, System Center, and related client access licenses; and enterprise support services, industry solutions, Microsoft partner network, and learning experience. The company's More Personal Computing segment provides Windows OEM licensing and devices comprising Surface and PC accessories; XBOX hardware, and XBOX first- and third-party content and services; XBOX Game Pass and other subscriptions; XBOX Cloud Gaming, advertising, and other cloud services; and search advertising consisting of Bing, Copilot, Microsoft News, Microsoft Edge, and third-party affiliates. It sells its products through partners and retail networks. The company was founded in 1975 and is headquartered in Redmond, Washington.",
+  "fullTimeEmployees": 223000,
+  "marketCap": 3666585845760,
+  "enterpriseValue": 3718555893760,
+  "trailingPE": 27.47802,
+  "enterpriseToEbitda": 19.144,
+  "enterpriseToRevenue": 11.206,
+  "dividendYield": 0.79,
+  "trailingAnnualDividendYield": 0.0073129083,
+  "dividendRate": 3.92,
+  "currentPrice": 493.78,
+  "regularMarketPrice": 493.78,
+  "lastFiscalYearEnd": 1782777600,
+  "mostRecentQuarter": 1782777600,
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "heldPercentInsiders": 0.00091,
+  "heldPercentInstitutions": 0.75795996
+ },
+ "income_stmt": {
+  "2026-06-30": {
+   "Total Revenue": 331839000000.0,
+   "EBITDA": 207519000000.0,
+   "EBIT": 168985000000.0,
+   "Net Income": 133749000000.0,
+   "Gross Profit": 225465000000.0,
+   "Diluted EPS": 17.95
+  },
+  "2025-06-30": {
+   "Total Revenue": 281724000000.0,
+   "EBITDA": 155445000000.0,
+   "EBIT": 126012000000.0,
+   "Net Income": 101832000000.0,
+   "Gross Profit": 193893000000.0,
+   "Diluted EPS": 13.64
+  },
+  "2024-06-30": {
+   "Total Revenue": 245122000000.0,
+   "EBITDA": 131680000000.0,
+   "EBIT": 110722000000.0,
+   "Net Income": 88136000000.0,
+   "Gross Profit": 171008000000.0,
+   "Diluted EPS": 11.8
+  },
+  "2023-06-30": {
+   "Total Revenue": 211915000000.0,
+   "EBITDA": 105140000000.0,
+   "EBIT": 91279000000.0,
+   "Net Income": 72361000000.0,
+   "Gross Profit": 146052000000.0,
+   "Diluted EPS": 9.68
+  }
+ },
+ "balance_sheet": {
+  "2026-06-30": {
+   "Total Debt": 56826000000.0,
+   "Net Debt": 19359000000.0,
+   "Cash And Cash Equivalents": 20935000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 76651000000.0
+  },
+  "2025-06-30": {
+   "Total Debt": 60588000000.0,
+   "Net Debt": 12909000000.0,
+   "Cash And Cash Equivalents": 30242000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 94555000000.0
+  },
+  "2024-06-30": {
+   "Total Debt": 67127000000.0,
+   "Net Debt": 33315000000.0,
+   "Cash And Cash Equivalents": 18315000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 75531000000.0
+  },
+  "2023-06-30": {
+   "Total Debt": 59965000000.0,
+   "Net Debt": 12533000000.0,
+   "Cash And Cash Equivalents": 34704000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 111256000000.0
+  },
+  "2022-06-30": {
+   "Total Debt": null,
+   "Net Debt": null,
+   "Cash And Cash Equivalents": null,
+   "Cash Cash Equivalents And Short Term Investments": null
+  }
+ },
+ "cashflow": {
+  "2026-06-30": {
+   "Capital Expenditure": -115948000000.0,
+   "Free Cash Flow": 66987000000.0,
+   "Operating Cash Flow": 182935000000.0
+  },
+  "2025-06-30": {
+   "Capital Expenditure": -64551000000.0,
+   "Free Cash Flow": 71611000000.0,
+   "Operating Cash Flow": 136162000000.0
+  },
+  "2024-06-30": {
+   "Capital Expenditure": -44477000000.0,
+   "Free Cash Flow": 74071000000.0,
+   "Operating Cash Flow": 118548000000.0
+  },
+  "2023-06-30": {
+   "Capital Expenditure": -28107000000.0,
+   "Free Cash Flow": 59475000000.0,
+   "Operating Cash Flow": 87582000000.0
+  },
+  "2022-06-30": {
+   "Capital Expenditure": null,
+   "Free Cash Flow": null,
+   "Operating Cash Flow": null
+  }
+ },
+ "news": [
+  {
+   "title": "NOK Stock Rises Overnight: Nokia\u2019s EURO STOXX 50 Index Return On Monday Adds To AI-Fueled Momentum",
+   "publisher": "Stocktwits",
+   "published": "2026-09-21T05:21:34Z",
+   "url": "https://stocktwits.com/news-articles/markets/equity/nok-stock-rises-overnight-nokia-s-euro-stoxx-50-index-return-on-monday-adds-to-ai-fueled-momentum/cZMRdyoRB4Q"
+  },
+  {
+   "title": "Michael Burry Warns Hyperscalers Are Hiding $3 Trillion In AI Liabilities \u2014 And Wall Street Isn\u2019t Looking: \u2018When The Music\u2019s Over\u2026\u2019",
+   "publisher": "Stocktwits",
+   "published": "2026-09-21T02:46:17Z",
+   "url": "https://stocktwits.com/news-articles/markets/equity/michael-burry-warns-hyperscalers-are-hiding-3-trillion-in-ai-liabilities-and-wall-street-isn-t-looking-when-the-music-s-over/cZMRbsvRB4I"
+  },
+  {
+   "title": "Neocloud Boom: Comparing Nebius, CoreWeave, & IREN",
+   "publisher": "Zacks",
+   "published": "2026-09-21T02:03:00Z",
+   "url": "https://finance.yahoo.com/technology/ai/articles/neocloud-boom-comparing-nebius-coreweave-020300874.html"
+  },
+  {
+   "title": "BofA cuts to the chase on AI data center demand",
+   "publisher": "TheStreet",
+   "published": "2026-09-21T01:37:00Z",
+   "url": "https://www.thestreet.com/investing/stocks/bank-of-america-says-ai-data-center-demand-strong"
+  },
+  {
+   "title": "Bill Ackman Built a $2.4 Billion Stake in Microsoft, Calling It a \"Core Holding\" Bought at a \"Highly Compelling Valuation.\" Here's Why He's Betting Big on Big Tech.",
+   "publisher": "Motley Fool",
+   "published": "2026-09-20T22:29:00Z",
+   "url": "https://www.fool.com/investing/2026/09/20/bill-ackman-built-a-24-billion-stake-in-microsoft/"
+  },
+  {
+   "title": "What Mitsui High-tec (TSE:6966)'s Upgraded 2026 Forecast and Dividend Hike Means For Shareholders",
+   "publisher": "Simply Wall St.",
+   "published": "2026-09-20T20:09:42Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/mitsui-high-tec-tse-6966-200942133.html"
+  },
+  {
+   "title": "Better Artificial Intelligence Stock: Advanced Micro Devices vs. SK Hynix",
+   "publisher": "Motley Fool",
+   "published": "2026-09-20T19:28:28Z",
+   "url": "https://www.fool.com/coverage/better-buy/2026/09/20/better-artificial-intelligence-stock-advanced-micro-devices-vs-sk-hynix/"
+  },
+  {
+   "title": "I Own Constellation for the Nuclear Fleet, Not the AI Headlines. Here's Why That Matters Now.",
+   "publisher": "Motley Fool",
+   "published": "2026-09-20T18:50:00Z",
+   "url": "https://www.fool.com/investing/2026/09/20/i-own-constellation-for-the-nuclear-fleet-not-the/"
+  },
+  {
+   "title": "Prediction: Micron Will Earn More Profit Than Microsoft in Fiscal 2027",
+   "publisher": "Motley Fool",
+   "published": "2026-09-20T17:37:01Z",
+   "url": "https://www.fool.com/investing/2026/09/20/prediction-micron-will-earn-more-profit-than-microsoft-in-fiscal-2027/"
+  },
+  {
+   "title": "Can Nokia Oyj (HLSE:NOKIA) Speed Up Telecom AI With Its New Data Push?",
+   "publisher": "Simply Wall St.",
+   "published": "2026-09-20T03:19:33Z",
+   "url": "https://finance.yahoo.com/technology/ai/articles/nokia-oyj-hlse-nokia-speed-031933816.html"
+  }
+ ]
+}

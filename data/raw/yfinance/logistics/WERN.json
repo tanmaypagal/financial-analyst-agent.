@@ -1,0 +1,187 @@
+{
+ "ticker": "WERN",
+ "sector": "logistics",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/WERN",
+ "info": {
+  "longName": "Werner Enterprises, Inc.",
+  "currency": "USD",
+  "financialCurrency": "USD",
+  "exchange": "NMS",
+  "fullExchangeName": "NasdaqGS",
+  "country": "United States",
+  "longBusinessSummary": "Werner Enterprises, Inc., together with its subsidiaries, engages in transporting truckload shipments of general commodities in interstate and intrastate commerce in the United States, Mexico, Canada, and internationally. The company operates a fleet of medium-to-long-haul vans that transport various consumer nondurable products and other commodities in truckload quantities using dry van trailers; the expedited fleet, which provides time-sensitive truckload services using driver teams; a regional short-haul fleet for truckload van service; and temperature-controlled fleet, which offers truckload services for temperature-sensitive products using temperature-controlled trailers to retail distribution center or manufacturing facility, utilizing either dry van or specialized trailers. It also provides non-asset-based transportation and logistics services, comprising truckload logistics, which uses contracted carriers to complete shipments for brokerage customers and freight management customers, which it offers logistics management services and solutions; intermodal, which offers rail transportation through alliances with rail and drayage providers as an alternative to truck transportation; and werner final mile offers residential and commercial deliveries of large or heavy items using third-party agents and independent contractors. In addition, the company sells used trucks and trailers; and trades used trucks to original equipment manufacturers. It transports retail store merchandise, consumer products, food and beverage products and manufactured products. As of December 31, 2025, it had a fleet of 7,100 trucks, which included 6,785 that were company-operated, as well as 315 owned and operated by independent contractors; 28,780 trailers that comprised dry vans, flatbeds, and temperature-controlled, and other trailers; and 27 drayage company trucks and 170 Final Mile delivery trucks. Werner Enterprises, Inc. was founded in 1956 and is headquartered in Omaha, Nebraska.",
+  "fullTimeEmployees": 14500,
+  "marketCap": 2139385088,
+  "enterpriseValue": 3055053056,
+  "trailingPE": null,
+  "enterpriseToEbitda": 8.929,
+  "enterpriseToRevenue": 0.94,
+  "dividendYield": 1.57,
+  "trailingAnnualDividendYield": 0.015594542,
+  "dividendRate": 0.56,
+  "currentPrice": 35.67,
+  "regularMarketPrice": 35.67,
+  "lastFiscalYearEnd": 1767139200,
+  "mostRecentQuarter": 1782777600,
+  "sector": "Industrials",
+  "industry": "Trucking",
+  "heldPercentInsiders": 0.01117,
+  "heldPercentInstitutions": 1.16372
+ },
+ "income_stmt": {
+  "2025-12-31": {
+   "Total Revenue": 2974396000.0,
+   "EBITDA": 304585000.0,
+   "EBIT": 18264000.0,
+   "Net Income": -14399000.0,
+   "Gross Profit": 288412000.0,
+   "Diluted EPS": -0.240507
+  },
+  "2024-12-31": {
+   "Total Revenue": 3030258000.0,
+   "EBITDA": 372099000.0,
+   "EBIT": 81694000.0,
+   "Net Income": 34233000.0,
+   "Gross Profit": 338632000.0,
+   "Diluted EPS": 0.55
+  },
+  "2023-12-31": {
+   "Total Revenue": 3283499000.0,
+   "EBITDA": 480825000.0,
+   "EBIT": 181316000.0,
+   "Net Income": 112382000.0,
+   "Gross Profit": 423653000.0,
+   "Diluted EPS": 1.76
+  },
+  "2022-12-31": {
+   "Total Revenue": 3289978000.0,
+   "EBITDA": 616537000.0,
+   "EBIT": 336614000.0,
+   "Net Income": 241256000.0,
+   "Gross Profit": 521587000.0,
+   "Diluted EPS": 3.74
+  }
+ },
+ "balance_sheet": {
+  "2025-12-31": {
+   "Total Debt": 752000000.0,
+   "Net Debt": 692078000.0,
+   "Cash And Cash Equivalents": 59922000.0,
+   "Cash Cash Equivalents And Short Term Investments": 59922000.0
+  },
+  "2024-12-31": {
+   "Total Debt": 650000000.0,
+   "Net Debt": 609248000.0,
+   "Cash And Cash Equivalents": 40752000.0,
+   "Cash Cash Equivalents And Short Term Investments": 40752000.0
+  },
+  "2023-12-31": {
+   "Total Debt": 648750000.0,
+   "Net Debt": 587027000.0,
+   "Cash And Cash Equivalents": 61723000.0,
+   "Cash Cash Equivalents And Short Term Investments": 61723000.0
+  },
+  "2022-12-31": {
+   "Total Debt": 693750000.0,
+   "Net Debt": 586510000.0,
+   "Cash And Cash Equivalents": 107240000.0,
+   "Cash Cash Equivalents And Short Term Investments": 107240000.0
+  },
+  "2021-12-31": {
+   "Total Debt": null,
+   "Net Debt": null,
+   "Cash And Cash Equivalents": null,
+   "Cash Cash Equivalents And Short Term Investments": null
+  }
+ },
+ "cashflow": {
+  "2025-12-31": {
+   "Capital Expenditure": -250364000.0,
+   "Free Cash Flow": -68534000.0,
+   "Operating Cash Flow": 181830000.0
+  },
+  "2024-12-31": {
+   "Capital Expenditure": -413799000.0,
+   "Free Cash Flow": -84065000.0,
+   "Operating Cash Flow": 329734000.0
+  },
+  "2023-12-31": {
+   "Capital Expenditure": -598785000.0,
+   "Free Cash Flow": -124419000.0,
+   "Operating Cash Flow": 474366000.0
+  },
+  "2022-12-31": {
+   "Capital Expenditure": -507252000.0,
+   "Free Cash Flow": -58541000.0,
+   "Operating Cash Flow": 448711000.0
+  },
+  "2021-12-31": {
+   "Capital Expenditure": null,
+   "Free Cash Flow": null,
+   "Operating Cash Flow": null
+  }
+ },
+ "news": [
+  {
+   "title": "Ground Transportation Stocks Q2 Highlights: Werner (NASDAQ:WERN)",
+   "publisher": "StockStory",
+   "published": "2026-09-16T17:40:52Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/ground-transportation-stocks-q2-highlights-174052197.html"
+  },
+  {
+   "title": "3 Russell 2000 Stocks with Open Questions",
+   "publisher": "StockStory",
+   "published": "2026-09-14T18:19:30Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/3-russell-2000-stocks-open-181930257.html"
+  },
+  {
+   "title": "3 Reasons WERN is Risky and 1 Stock to Buy Instead",
+   "publisher": "StockStory",
+   "published": "2026-09-14T13:31:30Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-wern-risky-1-133130198.html"
+  },
+  {
+   "title": "Riverwater\u00a0Partners\u00a0Bought Werner Enterprises (WERN) Before the Analyst Upgrade Cycle",
+   "publisher": "Insider Monkey",
+   "published": "2026-09-01T12:57:03Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/riverwater-partners-bought-werner-enterprises-125703644.html"
+  },
+  {
+   "title": "Landstar EPS Estimates Northbound: How to Play the Stock Now?",
+   "publisher": "Zacks",
+   "published": "2026-08-31T17:16:00Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/landstar-eps-estimates-northbound-play-171600527.html"
+  },
+  {
+   "title": "Why Is Old Dominion (ODFL) Down 5.8% Since Last Earnings Report?",
+   "publisher": "Zacks",
+   "published": "2026-08-28T15:30:28Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/why-old-dominion-odfl-down-153028435.html"
+  },
+  {
+   "title": "Werner Enterprises (WERN) Rings Nasdaq Closing Bell, Is The Stock Still 9% Undervalued?",
+   "publisher": "Simply Wall St.",
+   "published": "2026-08-27T16:25:23Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/werner-enterprises-wern-rings-nasdaq-162523289.html"
+  },
+  {
+   "title": "Why Is Werner (WERN) Up 6.1% Since Last Earnings Report?",
+   "publisher": "Zacks",
+   "published": "2026-08-27T15:30:25Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/why-werner-wern-6-1-153025596.html"
+  },
+  {
+   "title": "Should Investors Buy Landstar Stock Post Latest Dividend Hike?",
+   "publisher": "Zacks",
+   "published": "2026-08-13T17:26:00Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/investors-buy-landstar-stock-post-172600688.html"
+  },
+  {
+   "title": "Werner not deterred by July slowdown",
+   "publisher": "FreightWaves",
+   "published": "2026-08-11T20:54:34Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/werner-not-deterred-july-slowdown-205434516.html"
+  }
+ ]
+}

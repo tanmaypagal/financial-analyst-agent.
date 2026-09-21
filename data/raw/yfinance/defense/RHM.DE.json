@@ -1,0 +1,187 @@
+{
+ "ticker": "RHM.DE",
+ "sector": "defense",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/RHM.DE",
+ "info": {
+  "longName": "Rheinmetall AG",
+  "currency": "EUR",
+  "financialCurrency": "EUR",
+  "exchange": "GER",
+  "fullExchangeName": "XETRA",
+  "country": "Germany",
+  "longBusinessSummary": "Rheinmetall AG provides mobility and security technologies in Germany, Rest of Europe, North, Middle, and South America, Asia and the Near East, and internationally. The company operates through the Vehicle Systems, Weapon and Ammunition, and Electronic Solutions segments. Its Vehicle Systems segment offers combat, logistics, support, and special vehicles, including armored tracked vehicles, CBRN protection systems, artillery, turret systems, and wheeled logistics and tactical vehicles. The Weapon and Ammunition segment provides firepower and protection solutions, such as weapons and ammunition, protection systems, propellants, and international projects and services. Its Electronic Solutions segment offers a chain of systems network, such as sensors, networking platforms, automated connected effectors for soldiers, cyberspace protection solutions, and training and simulation solutions. The company's products include air defense, soldier, and fire control systems; radar technology; and command, control and reconnaissance systems, as well as simulations for the army, air force, navy, and civil applications. It also engages in the aftermarket activities. The company was formerly known as Rheinmetall Berlin AG and changed its name to Rheinmetall AG in 1996. Rheinmetall AG was founded in 1889 and is headquartered in D\u00fcsseldorf, Germany.",
+  "fullTimeEmployees": 29636,
+  "marketCap": 47060078592,
+  "enterpriseValue": 50738745344,
+  "trailingPE": 38.636017,
+  "enterpriseToEbitda": 21.965,
+  "enterpriseToRevenue": 4.446,
+  "dividendYield": 1.14,
+  "trailingAnnualDividendYield": 0.011365883,
+  "dividendRate": 11.5,
+  "currentPrice": 1008.4,
+  "regularMarketPrice": 1008.4,
+  "lastFiscalYearEnd": 1767139200,
+  "mostRecentQuarter": 1782777600,
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "heldPercentInsiders": 0.016490001,
+  "heldPercentInstitutions": 0.45823002
+ },
+ "income_stmt": {
+  "2025-12-31": {
+   "Total Revenue": 9935000000.0,
+   "EBITDA": 2189000000.0,
+   "EBIT": 1688000000.0,
+   "Net Income": 696000000.0,
+   "Gross Profit": 5204000000.0,
+   "Diluted EPS": 15.16
+  },
+  "2024-12-31": {
+   "Total Revenue": 7715000000.0,
+   "EBITDA": 1686000000.0,
+   "EBIT": 1284000000.0,
+   "Net Income": 717000000.0,
+   "Gross Profit": 4154000000.0,
+   "Diluted EPS": 15.96
+  },
+  "2023-12-31": {
+   "Total Revenue": 7176000000.0,
+   "EBITDA": 1234000000.0,
+   "EBIT": 926000000.0,
+   "Net Income": 535000000.0,
+   "Gross Profit": 3937000000.0,
+   "Diluted EPS": 12.07
+  },
+  "2022-12-31": {
+   "Total Revenue": 6410000000.0,
+   "EBITDA": 1000000000.0,
+   "EBIT": 750000000.0,
+   "Net Income": 474000000.0,
+   "Gross Profit": 3379000000.0,
+   "Diluted EPS": 10.94
+  }
+ },
+ "balance_sheet": {
+  "2025-12-31": {
+   "Total Debt": 1282000000.0,
+   "Net Debt": null,
+   "Cash And Cash Equivalents": 1650000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 1691000000.0
+  },
+  "2024-12-31": {
+   "Total Debt": 2423000000.0,
+   "Net Debt": 912000000.0,
+   "Cash And Cash Equivalents": 1184000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 1265000000.0
+  },
+  "2023-12-31": {
+   "Total Debt": 1914000000.0,
+   "Net Debt": 792000000.0,
+   "Cash And Cash Equivalents": 850000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 915000000.0
+  },
+  "2022-12-31": {
+   "Total Debt": 972000000.0,
+   "Net Debt": 216000000.0,
+   "Cash And Cash Equivalents": 545000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 696000000.0
+  },
+  "2021-12-31": {
+   "Total Debt": null,
+   "Net Debt": null,
+   "Cash And Cash Equivalents": null,
+   "Cash Cash Equivalents And Short Term Investments": null
+  }
+ },
+ "cashflow": {
+  "2025-12-31": {
+   "Capital Expenditure": -872000000.0,
+   "Free Cash Flow": 1415000000.0,
+   "Operating Cash Flow": 2287000000.0
+  },
+  "2024-12-31": {
+   "Capital Expenditure": -732000000.0,
+   "Free Cash Flow": 988000000.0,
+   "Operating Cash Flow": 1720000000.0
+  },
+  "2023-12-31": {
+   "Capital Expenditure": -398000000.0,
+   "Free Cash Flow": 345000000.0,
+   "Operating Cash Flow": 743000000.0
+  },
+  "2022-12-31": {
+   "Capital Expenditure": -349000000.0,
+   "Free Cash Flow": -175000000.0,
+   "Operating Cash Flow": 174000000.0
+  },
+  "2021-12-31": {
+   "Capital Expenditure": null,
+   "Free Cash Flow": null,
+   "Operating Cash Flow": null
+  }
+ },
+ "news": [
+  {
+   "title": "Rheinmetall Stock And Europe Defense Shares Riding The EU Canada Reset",
+   "publisher": "Simply Wall St.",
+   "published": "2026-09-17T12:13:41Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/rheinmetall-stock-europe-defense-shares-121341379.html"
+  },
+  {
+   "title": "Germany's missile stockpiles 'worryingly low', Rheinmetall CEO tells Euronews",
+   "publisher": "Euronews",
+   "published": "2026-09-17T11:40:04Z",
+   "url": "https://www.euronews.com/2026/09/17/rheinmetall-ceo-papperger-robots-are-coming"
+  },
+  {
+   "title": "European Indexes Slide as Higher Oil Weighs on Defense Stocks, Banks",
+   "publisher": "The Wall Street Journal",
+   "published": "2026-09-09T07:39:00Z",
+   "url": "https://www.wsj.com/finance/stocks/nikkei-rises-0-1-led-by-chip-related-stocks-c8902c64?siteid=yhoof2&yptr=yahoo"
+  },
+  {
+   "title": "Top 3 Defense Stocks To Watch In September 2026",
+   "publisher": "Simply Wall St.",
+   "published": "2026-09-05T04:18:57Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/top-3-defense-stocks-watch-041857821.html"
+  },
+  {
+   "title": "European Equities Largely Lower Though AI Stocks Gain",
+   "publisher": "The Wall Street Journal",
+   "published": "2026-09-01T07:26:00Z",
+   "url": "https://www.wsj.com/finance/stocks/nikkei-falls-1-0-dragged-by-chip-stocks-f0ceaeae?siteid=yhoof2&yptr=yahoo"
+  },
+  {
+   "title": "Lockheed Martin Europe CEO on Rheinmetall & Transatlantic Deterrence",
+   "publisher": "Bloomberg",
+   "published": "2026-08-27T10:24:56Z",
+   "url": "https://finance.yahoo.com/video/lockheed-martin-europe-ceo-rheinmetall-102456677.html"
+  },
+  {
+   "title": "RNMBY- A Wide Mote Defense Stock to Target",
+   "publisher": "MoneyShow",
+   "published": "2026-08-13T05:01:00Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/rnmby-wide-mote-defense-stock-050100609.html"
+  },
+  {
+   "title": "European Stocks Close Mixed in Monday Trading as Investors Monitor Middle East War Developments",
+   "publisher": "MT Newswires",
+   "published": "2026-08-10T15:38:34Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/european-stocks-close-mixed-monday-153834840.html"
+  },
+  {
+   "title": "Rheinmetall (XTRA:RHM) Following Q2 Results And Lower Outlook Still Looks Undervalued",
+   "publisher": "Simply Wall St.",
+   "published": "2026-08-06T22:13:55Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/rheinmetall-xtra-rhm-following-q2-221355054.html"
+  },
+  {
+   "title": "Has Rheinmetall (XTRA:RHM) Become Fully Priced After Its 14x Run?",
+   "publisher": "Simply Wall St.",
+   "published": "2026-08-06T21:14:50Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/rheinmetall-xtra-rhm-become-fully-211450876.html"
+  }
+ ]
+}

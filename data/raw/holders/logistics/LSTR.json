@@ -1,0 +1,38 @@
+{
+ "ticker": "LSTR",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/LSTR/holders",
+ "major_holders": {
+  "insidersPercentHeld": 0.00775,
+  "institutionsPercentHeld": 1.03928,
+  "institutionsFloatPercentHeld": 1.0474,
+  "institutionsCount": 714.0
+ },
+ "top_institutional": [
+  {
+   "holder": "Blackrock Inc.",
+   "pct": 0.0995,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Kayne Anderson Rudnick Investment Management LLC",
+   "pct": 0.091000006,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "AQR Capital Management, LLC",
+   "pct": 0.0625,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Vanguard Portfolio Management LLC",
+   "pct": 0.0529,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Vanguard Capital Management LLC",
+   "pct": 0.045300003,
+   "reported": "2026-06-30"
+  }
+ ]
+}

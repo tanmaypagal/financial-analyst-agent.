@@ -1,0 +1,190 @@
+{
+ "ticker": "CVLT",
+ "sector": "tech",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/CVLT",
+ "info": {
+  "longName": "Commvault Systems, Inc.",
+  "currency": "USD",
+  "financialCurrency": "USD",
+  "exchange": "NMS",
+  "fullExchangeName": "NasdaqGS",
+  "country": "United States",
+  "longBusinessSummary": "Commvault Systems, Inc. provides cyber resiliency solutions for enterprises to protect, secure, and recover data, applications, and identity system. The company offers Operational Recovery for backup and recovery capabilities in hybrid enterprise workloads, such as backup, restore, recovery validation, and policy-based data movement to cloud storage; Autonomous Recovery, which adds automation, orchestration, and validation intended to reduce recovery times, downtime, and operational complexity; and Cyber Recovery, which adds cyber preparedness, threat detection, and clean recovery features to help organizations respond to ransomware and other cyber incidents. The company also provides Commvault Cleanroom Recovery, an isolated and on-demand recovery environment in the cloud; Commvault HyperScale Grid, an integrated and scale-out data protection solution; Commvault HyperScale Flex, a data protection solution designed to support enterprise-scale environments and large-volume data workloads; and Commvault Threatscan to help identify and isolate malicious or anomalous data within backup environments. In addition, it offers Commvault Cloud Air Gap Protect for isolated cloud storage; Commvault's Compliance, which includes reporting, auditing, and logging; Commvault's Cloud Rewind for data recovery with automated cloud application and infrastructure rebuild capabilities; and Commvault's Clumio Backtrack to revert cloud objects and datasets to a prior point in time. Further, the company provides professional and customer support services comprising real-time support, support engineers, customer success options, technology consulting services, recovery services, education services, and cyber resilience managed services. It operates in the United States, Canada, and Latin America, as well as in Europe, the Middle East, Africa, Australia, India, Southeast Asia, and China. Commvault Systems, Inc. was incorporated in 1996 and is headquartered in Tinton Falls, New Jersey.",
+  "fullTimeEmployees": 3300,
+  "marketCap": 5990396928,
+  "enterpriseValue": 5978215424,
+  "trailingPE": 92.65385,
+  "enterpriseToEbitda": 48.978,
+  "enterpriseToRevenue": 4.917,
+  "dividendYield": null,
+  "trailingAnnualDividendYield": 0.0,
+  "dividendRate": null,
+  "currentPrice": 144.54,
+  "regularMarketPrice": 144.54,
+  "lastFiscalYearEnd": 1774915200,
+  "mostRecentQuarter": 1782777600,
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "heldPercentInsiders": 0.00883,
+  "heldPercentInstitutions": 1.10962
+ },
+ "income_stmt": {
+  "2026-03-31": {
+   "Total Revenue": 1183690000.0,
+   "EBITDA": 106267000.0,
+   "EBIT": 95919000.0,
+   "Net Income": 70657000.0,
+   "Gross Profit": 960570000.0,
+   "Diluted EPS": 1.58
+  },
+  "2025-03-31": {
+   "Total Revenue": 995619000.0,
+   "EBITDA": 90541000.0,
+   "EBIT": 81469000.0,
+   "Net Income": 76106000.0,
+   "Gross Profit": 816584000.0,
+   "Diluted EPS": 1.68
+  },
+  "2024-03-31": {
+   "Total Revenue": 839247000.0,
+   "EBITDA": 90443000.0,
+   "EBIT": 84028000.0,
+   "Net Income": 168906000.0,
+   "Gross Profit": 687637000.0,
+   "Diluted EPS": 3.75
+  },
+  "2023-03-31": {
+   "Total Revenue": 784590000.0,
+   "EBITDA": -4567000.0,
+   "EBIT": -14890000.0,
+   "Net Income": -35774000.0,
+   "Gross Profit": 649188000.0,
+   "Diluted EPS": -0.8
+  },
+  "2022-03-31": {
+   "Total Revenue": null,
+   "EBITDA": null,
+   "EBIT": null,
+   "Net Income": null,
+   "Gross Profit": null,
+   "Diluted EPS": null
+  }
+ },
+ "balance_sheet": {
+  "2026-03-31": {
+   "Total Debt": 917501000.0,
+   "Cash And Cash Equivalents": 899987000.0,
+   "Cash Cash Equivalents And Short Term Investments": 899987000.0
+  },
+  "2025-03-31": {
+   "Total Debt": 10952000.0,
+   "Cash And Cash Equivalents": 302103000.0,
+   "Cash Cash Equivalents And Short Term Investments": 302103000.0
+  },
+  "2024-03-31": {
+   "Total Debt": 12090000.0,
+   "Cash And Cash Equivalents": 312754000.0,
+   "Cash Cash Equivalents And Short Term Investments": 312754000.0
+  },
+  "2023-03-31": {
+   "Total Debt": 12778000.0,
+   "Cash And Cash Equivalents": 287778000.0,
+   "Cash Cash Equivalents And Short Term Investments": 287778000.0
+  },
+  "2022-03-31": {
+   "Total Debt": null,
+   "Cash And Cash Equivalents": null,
+   "Cash Cash Equivalents And Short Term Investments": null
+  }
+ },
+ "cashflow": {
+  "2026-03-31": {
+   "Capital Expenditure": -7529000.0,
+   "Free Cash Flow": 237151000.0,
+   "Operating Cash Flow": 244680000.0
+  },
+  "2025-03-31": {
+   "Capital Expenditure": -3756000.0,
+   "Free Cash Flow": 203626000.0,
+   "Operating Cash Flow": 207382000.0
+  },
+  "2024-03-31": {
+   "Capital Expenditure": -4086000.0,
+   "Free Cash Flow": 199712000.0,
+   "Operating Cash Flow": 203798000.0
+  },
+  "2023-03-31": {
+   "Capital Expenditure": -3241000.0,
+   "Free Cash Flow": 167047000.0,
+   "Operating Cash Flow": 170288000.0
+  },
+  "2022-03-31": {
+   "Capital Expenditure": null,
+   "Free Cash Flow": null,
+   "Operating Cash Flow": null
+  }
+ },
+ "news": [
+  {
+   "title": "AI Rules Put Okta Stock And AI Governance Software In Focus",
+   "publisher": "Simply Wall St.",
+   "published": "2026-09-18T19:14:41Z",
+   "url": "https://finance.yahoo.com/technology/ai/articles/ai-rules-put-okta-stock-191441503.html"
+  },
+  {
+   "title": "Commvault Systems (CVLT), What Is Behind The Fresh Attention?",
+   "publisher": "Simply Wall St.",
+   "published": "2026-09-17T21:15:11Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/commvault-systems-cvlt-behind-fresh-211511870.html"
+  },
+  {
+   "title": "Is It Worth Investing in Commvault (CVLT) Based on Wall Street's Bullish Views?",
+   "publisher": "Zacks",
+   "published": "2026-09-16T13:30:02Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/worth-investing-commvault-cvlt-based-133002939.html"
+  },
+  {
+   "title": "Commvault Systems (CVLT) Rises As Market Takes a Dip: Key Facts",
+   "publisher": "Zacks",
+   "published": "2026-09-15T21:50:03Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/commvault-systems-cvlt-rises-market-215003887.html"
+  },
+  {
+   "title": "How Much Slowdown Is Rubrik Stock Priced For?",
+   "publisher": "Trefis",
+   "published": "2026-09-15T19:17:40Z",
+   "url": "https://www.trefis.com/articles/615406/how-much-slowdown-is-rubrik-stock-priced-for/2026-09-15"
+  },
+  {
+   "title": "Cloudflare, Paylocity, GitLab, Commvault, and Qualys Shares Are Soaring, What You Need To Know",
+   "publisher": "StockStory",
+   "published": "2026-09-15T01:07:30Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-paylocity-gitlab-commvault-qualys-010730644.html"
+  },
+  {
+   "title": "1 Small-Cap Stock on Our Watchlist and 2 We Find Risky",
+   "publisher": "StockStory",
+   "published": "2026-09-11T22:51:05Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/1-small-cap-stock-watchlist-225105260.html"
+  },
+  {
+   "title": "Commvault Systems (CVLT) Declines More Than Market: Some Information for Investors",
+   "publisher": "Zacks",
+   "published": "2026-09-08T21:50:03Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/commvault-systems-cvlt-declines-more-215003567.html"
+  },
+  {
+   "title": "Commvault (CVLT) Turns Cyberattacks Into Automated Recovery Through New CrowdStrike (CRWD) Deal",
+   "publisher": "Insider Monkey",
+   "published": "2026-09-04T17:50:37Z",
+   "url": "https://finance.yahoo.com/technology/articles/commvault-cvlt-turns-cyberattacks-automated-175037526.html"
+  },
+  {
+   "title": "Commvault\u2019s (CVLT) AI Recovery Bet Meets A Margin Reality Check",
+   "publisher": "Insider Monkey",
+   "published": "2026-09-04T17:45:35Z",
+   "url": "https://finance.yahoo.com/technology/ai/articles/commvault-cvlt-ai-recovery-bet-174535550.html"
+  }
+ ]
+}

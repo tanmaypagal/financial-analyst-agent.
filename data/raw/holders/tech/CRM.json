@@ -1,0 +1,38 @@
+{
+ "ticker": "CRM",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/CRM/holders",
+ "major_holders": {
+  "insidersPercentHeld": 0.02977,
+  "institutionsPercentHeld": 0.87477,
+  "institutionsFloatPercentHeld": 0.90161,
+  "institutionsCount": 3515.0
+ },
+ "top_institutional": [
+  {
+   "holder": "Blackrock Inc.",
+   "pct": 0.0884,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Vanguard Capital Management LLC",
+   "pct": 0.0633,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "State Street Corporation",
+   "pct": 0.0545,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Morgan Stanley",
+   "pct": 0.028299998,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Geode Capital Management, LLC",
+   "pct": 0.0241,
+   "reported": "2026-06-30"
+  }
+ ]
+}

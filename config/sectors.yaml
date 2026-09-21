@@ -1,0 +1,69 @@
+# Sector definitions. Only identifiers live here (ticker / name / country / exchange).
+# Every FACT about a company (financials, ownership, etc.) is ingested into the DB with a source.
+# Add a sector or company here, then run: python scripts/ingest_yfinance.py && python scripts/build_db.py
+sectors:
+  defense:
+    display_name: Defense
+    description: Prime defense contractors and defense-electronics suppliers across the US, Europe and Israel.
+    country_specific_table: sector_metrics_defense
+    sector_tools: [get_defense_metrics]     # exposed to the agent only when this sector is selected
+    analyst_notes: >
+      Multi-currency: compare ratios and multiples across companies, not absolute native-currency amounts (use
+      revenue_usd / market_cap_usd for size). Order backlog (get_defense_metrics) and government-customer
+      concentration matter; state ownership and export-control regimes affect take-private feasibility. IFRS and
+      US GAAP differ, so cross-border margin comparisons carry accounting noise.
+    companies:
+      - {ticker: LMT,       name: Lockheed Martin,      country: US,      exchange: NYSE,      cik: 936468, contract_recipients: ["LOCKHEED MARTIN"]}
+      - {ticker: NOC,       name: Northrop Grumman,     country: US,      exchange: NYSE,      cik: 1133421, contract_recipients: ["NORTHROP GRUMMAN"]}
+      - {ticker: GD,        name: General Dynamics,     country: US,      exchange: NYSE,      cik: 40533, contract_recipients: ["GENERAL DYNAMICS"]}
+      - {ticker: RTX,       name: RTX,                  country: US,      exchange: NYSE,      cik: 101829, contract_recipients: ["RAYTHEON", "PRATT & WHITNEY", "COLLINS AEROSPACE"]}
+      - {ticker: KTOS,      name: Kratos Defense & Security Solutions, country: US, exchange: NASDAQ, cik: 1069258, contract_recipients: ["KRATOS"]}
+      - {ticker: HO.PA,     name: Thales,               country: France,  exchange: Euronext Paris}
+      - {ticker: AM.PA,     name: Dassault Aviation,    country: France,  exchange: Euronext Paris}
+      - {ticker: RHM.DE,    name: Rheinmetall,          country: Germany, exchange: XETRA}
+      - {ticker: HAG.DE,    name: Hensoldt,             country: Germany, exchange: XETRA}
+      - {ticker: ESLT,      name: Elbit Systems,        country: Israel,  exchange: NASDAQ,    cik: 1027664, contract_recipients: ["ELBIT SYSTEMS OF AMERICA"]}
+      - {ticker: BA.L,      name: BAE Systems,          country: UK,      exchange: LSE}
+      - {ticker: SAAB-B.ST, name: Saab,                 country: Sweden,  exchange: Nasdaq Stockholm}
+      - {ticker: KOG.OL,    name: Kongsberg Gruppen,    country: Norway,  exchange: Oslo Bors}
+  tech:
+    display_name: Tech
+    description: Large-cap and mid-cap software / internet-infrastructure companies (mostly US-listed).
+    analyst_notes: >
+      Software economics: growth durability, gross margin, rule-of-40 style trade-offs between growth and margin,
+      and stock-based compensation (which flatters EBITDA) matter. Some mid-caps have negative GAAP earnings, so P/E is
+      null - use EV/sales and EV/EBITDA where available and say when a multiple is unavailable.
+    companies:
+      - {ticker: MSFT, name: Microsoft,           country: US, exchange: NASDAQ}
+      - {ticker: ORCL, name: Oracle,              country: US, exchange: NYSE}
+      - {ticker: ADBE, name: Adobe,               country: US, exchange: NASDAQ}
+      - {ticker: CRM,  name: Salesforce,          country: US, exchange: NYSE}
+      - {ticker: NOW,  name: ServiceNow,          country: US, exchange: NYSE}
+      - {ticker: INTU, name: Intuit,              country: US, exchange: NASDAQ}
+      - {ticker: DT,   name: Dynatrace,           country: US, exchange: NYSE}
+      - {ticker: DOCU, name: DocuSign,            country: US, exchange: NASDAQ}
+      - {ticker: PEGA, name: Pegasystems,         country: US, exchange: NASDAQ}
+      - {ticker: CVLT, name: Commvault Systems,   country: US, exchange: NASDAQ}
+      - {ticker: BOX,  name: Box,                 country: US, exchange: NYSE}
+      - {ticker: TWLO, name: Twilio,              country: US, exchange: NYSE}
+  logistics:
+    display_name: Logistics
+    description: Mid-cap-biased freight, trucking, contract logistics and brokerage companies, plus large global forwarders for reference.
+    analyst_notes: >
+      Asset-heavy (LTL, truckload) vs asset-light (brokerage, forwarding) models differ sharply in capex intensity and
+      margin structure; interpret capex_to_revenue and EBITDA margin with that in mind. Cyclical freight demand
+      makes trough-versus-peak earnings relevant to any leverage discussion. Mid-caps are the more plausible
+      buyout candidates.
+    companies:
+      - {ticker: XPO,   name: XPO,                     country: US,      exchange: NYSE}
+      - {ticker: GXO,   name: GXO Logistics,           country: US,      exchange: NYSE}
+      - {ticker: RXO,   name: RXO,                     country: US,      exchange: NYSE}
+      - {ticker: SAIA,  name: Saia,                    country: US,      exchange: NASDAQ}
+      - {ticker: LSTR,  name: Landstar System,         country: US,      exchange: NASDAQ}
+      - {ticker: HUBG,  name: Hub Group,               country: US,      exchange: NASDAQ}
+      - {ticker: FWRD,  name: Forward Air,             country: US,      exchange: NASDAQ}
+      - {ticker: ARCB,  name: ArcBest,                 country: US,      exchange: NASDAQ}
+      - {ticker: WERN,  name: Werner Enterprises,      country: US,      exchange: NASDAQ}
+      - {ticker: KNX,   name: Knight-Swift Transportation, country: US,  exchange: NYSE}
+      - {ticker: CHRW,  name: C.H. Robinson,           country: US,      exchange: NASDAQ}
+      - {ticker: DSV.CO, name: DSV,                    country: Denmark, exchange: Nasdaq Copenhagen}

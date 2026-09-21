@@ -1,0 +1,195 @@
+{
+ "ticker": "LMT",
+ "sector": "defense",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/LMT",
+ "info": {
+  "longName": "Lockheed Martin Corporation",
+  "currency": "USD",
+  "financialCurrency": "USD",
+  "exchange": "NYQ",
+  "fullExchangeName": "NYSE",
+  "country": "United States",
+  "longBusinessSummary": "Lockheed Martin Corporation, an aerospace and defense company, engages in the research, design, development, manufacture, integration, and sustainment of technology systems, products, and services in the United States, Europe, Asia, the Middle East, and internationally. The company operates through four segments: Aeronautics; Missiles and Fire Control (MFC); Rotary and Mission Systems (RMS); and Space. The Aeronautics segment offers combat and air mobility aircraft, unmanned air vehicles, and related technologies. The MFC segment provides air and missile defense systems; tactical missiles and precision strike weapon systems; logistics; fire control systems; mission operations support, readiness, engineering support, and integration services; and ground vehicles. The RMS segment offers military and commercial helicopters, surface ships, sea- and land-based missile defense systems, radar and laser systems, sea- and air-based mission and combat systems, command and control mission solutions, cyber solutions, simulation and training solutions, and services and support for surface ships. The Space segment provides satellites; space transportation systems; strategic, advanced strike, and defensive systems; and classified systems and services in support of national security systems. This segment also provides network-enabled situational awareness; and integrates space and ground global systems to help its customers gather, analyze, and securely distribute critical intelligence data. It primarily serves the U.S. government and international customers, as well as foreign military sales contracted through the U.S. government. The company was formerly known as The Lockheed Corporation and changed its name to Lockheed Martin Corporation in March 1995. Lockheed Martin Corporation was founded in 1912 and is based in Bethesda, Maryland.",
+  "fullTimeEmployees": 123000,
+  "marketCap": 123099168768,
+  "enterpriseValue": 139846172672,
+  "trailingPE": 19.68192,
+  "enterpriseToEbitda": 14.447,
+  "enterpriseToRevenue": 1.816,
+  "dividendYield": 2.59,
+  "trailingAnnualDividendYield": 0.025367502,
+  "dividendRate": 13.8,
+  "currentPrice": 533.38,
+  "regularMarketPrice": 533.38,
+  "lastFiscalYearEnd": 1767139200,
+  "mostRecentQuarter": 1782604800,
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "heldPercentInsiders": 0.0011100001,
+  "heldPercentInstitutions": 0.76658
+ },
+ "income_stmt": {
+  "2025-12-31": {
+   "Total Revenue": 75048000000.0,
+   "EBITDA": 8727000000.0,
+   "EBIT": 7040000000.0,
+   "Net Income": 5017000000.0,
+   "Gross Profit": 7619000000.0,
+   "Diluted EPS": 21.49
+  },
+  "2024-12-31": {
+   "Total Revenue": 71043000000.0,
+   "EBITDA": 8815000000.0,
+   "EBIT": 7256000000.0,
+   "Net Income": 5336000000.0,
+   "Gross Profit": 6930000000.0,
+   "Diluted EPS": 22.31
+  },
+  "2023-12-31": {
+   "Total Revenue": 67571000000.0,
+   "EBITDA": 10444000000.0,
+   "EBIT": 9014000000.0,
+   "Net Income": 6920000000.0,
+   "Gross Profit": 8479000000.0,
+   "Diluted EPS": 27.55
+  },
+  "2022-12-31": {
+   "Total Revenue": 65984000000.0,
+   "EBITDA": 8707000000.0,
+   "EBIT": 7303000000.0,
+   "Net Income": 5732000000.0,
+   "Gross Profit": 8287000000.0,
+   "Diluted EPS": 21.66
+  },
+  "2021-12-31": {
+   "Total Revenue": null,
+   "EBITDA": null,
+   "EBIT": null,
+   "Net Income": null,
+   "Gross Profit": null,
+   "Diluted EPS": null
+  }
+ },
+ "balance_sheet": {
+  "2025-12-31": {
+   "Total Debt": 21700000000.0,
+   "Net Debt": 17579000000.0,
+   "Cash And Cash Equivalents": 4121000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 4121000000.0
+  },
+  "2024-12-31": {
+   "Total Debt": 20270000000.0,
+   "Net Debt": 17787000000.0,
+   "Cash And Cash Equivalents": 2483000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 2483000000.0
+  },
+  "2023-12-31": {
+   "Total Debt": 17459000000.0,
+   "Net Debt": 16017000000.0,
+   "Cash And Cash Equivalents": 1442000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 1442000000.0
+  },
+  "2022-12-31": {
+   "Total Debt": 15547000000.0,
+   "Net Debt": 13000000000.0,
+   "Cash And Cash Equivalents": 2547000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 2547000000.0
+  },
+  "2021-12-31": {
+   "Total Debt": null,
+   "Net Debt": null,
+   "Cash And Cash Equivalents": null,
+   "Cash Cash Equivalents And Short Term Investments": null
+  }
+ },
+ "cashflow": {
+  "2025-12-31": {
+   "Capital Expenditure": -1649000000.0,
+   "Free Cash Flow": 6908000000.0,
+   "Operating Cash Flow": 8557000000.0
+  },
+  "2024-12-31": {
+   "Capital Expenditure": -1685000000.0,
+   "Free Cash Flow": 5287000000.0,
+   "Operating Cash Flow": 6972000000.0
+  },
+  "2023-12-31": {
+   "Capital Expenditure": -1691000000.0,
+   "Free Cash Flow": 6229000000.0,
+   "Operating Cash Flow": 7920000000.0
+  },
+  "2022-12-31": {
+   "Capital Expenditure": -1670000000.0,
+   "Free Cash Flow": 6132000000.0,
+   "Operating Cash Flow": 7802000000.0
+  },
+  "2021-12-31": {
+   "Capital Expenditure": null,
+   "Free Cash Flow": null,
+   "Operating Cash Flow": null
+  }
+ },
+ "news": [
+  {
+   "title": "Why Lockheed Martin\u2019s Payout Ratio Hit 225% Before Falling Back Toward 43% in 2026",
+   "publisher": "TIKR",
+   "published": "2026-09-21T05:45:57Z",
+   "url": "https://www.tikr.com/blog/why-lockheed-martins-payout-ratio-hit-225-before-falling-back-toward-43-in-2026?ref=yahoofinance"
+  },
+  {
+   "title": "RTX Beats Lockheed Martin on Risk -- Here's Why It's the Better Buy Long-Term",
+   "publisher": "Motley Fool",
+   "published": "2026-09-19T22:50:00Z",
+   "url": "https://www.fool.com/investing/2026/09/19/rtx-beats-lockheed-martin-on-risk-heres-why-its-th/"
+  },
+  {
+   "title": "U.S. approves potential $2.7 billion air defense sale to Ukraine",
+   "publisher": "Investing.com",
+   "published": "2026-09-19T04:03:51Z",
+   "url": "https://www.yahoo.com/news/politics/articles/u-approves-potential-2-7-040351365.html"
+  },
+  {
+   "title": "Lockheed Martin (LMT) Marks First Saudi F 35 Push And Germany F 35A Rollout",
+   "publisher": "Simply Wall St.",
+   "published": "2026-09-19T02:10:08Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-lmt-marks-first-021008914.html"
+  },
+  {
+   "title": "He Left SpaceX to Rebuild the American Factory",
+   "publisher": "The Hustle",
+   "published": "2026-09-18T22:33:12Z",
+   "url": "https://thehustle.videonest.co/videos/2142672/he-left-spacex-to-rebuild-the-american-factory-tNsg2ytwCw"
+  },
+  {
+   "title": "Can A Faster Factory Lift Boeing Stock?",
+   "publisher": "Trefis",
+   "published": "2026-09-18T21:58:15Z",
+   "url": "https://www.trefis.com/articles/615836/can-a-faster-factory-lift-boeing-stock/2026-09-18"
+  },
+  {
+   "title": "Is RKLB Stock Paying You Enough For The Swings?",
+   "publisher": "Trefis",
+   "published": "2026-09-18T20:49:50Z",
+   "url": "https://www.trefis.com/articles/615858/is-rklb-stock-paying-you-enough-for-the-swings/2026-09-18"
+  },
+  {
+   "title": "Defense ETFs Stand to Gain as Trump Administration Signs JATM Deal",
+   "publisher": "Zacks",
+   "published": "2026-09-18T19:17:00Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/defense-etfs-stand-gain-trump-191700914.html"
+  },
+  {
+   "title": "Boeing\u2019s $36.2 Billion Korean Air Deal Won\u2019t Help Earnings Until the 2030s",
+   "publisher": "24/7 Wall St.",
+   "published": "2026-09-18T18:43:49Z",
+   "url": "https://247wallst.com/investing/2026/09/18/boeings-36-2-billion-korean-air-deal-wont-help-earnings-until-the-2030s/"
+  },
+  {
+   "title": "Lockheed (LMT) Upgraded to Buy: What Does It Mean for the Stock?",
+   "publisher": "Zacks",
+   "published": "2026-09-18T16:00:02Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/lockheed-lmt-upgraded-buy-does-160002675.html"
+  }
+ ]
+}

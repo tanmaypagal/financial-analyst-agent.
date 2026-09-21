@@ -1,0 +1,38 @@
+{
+ "ticker": "KTOS",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/KTOS/holders",
+ "major_holders": {
+  "insidersPercentHeld": 0.01276,
+  "institutionsPercentHeld": 0.85377,
+  "institutionsFloatPercentHeld": 0.86481005,
+  "institutionsCount": 819.0
+ },
+ "top_institutional": [
+  {
+   "holder": "Blackrock Inc.",
+   "pct": 0.128,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "State Street Corporation",
+   "pct": 0.048299998,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Vanguard Capital Management LLC",
+   "pct": 0.045,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Vanguard Portfolio Management LLC",
+   "pct": 0.0425,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "First Trust Advisors LP",
+   "pct": 0.032,
+   "reported": "2026-06-30"
+  }
+ ]
+}

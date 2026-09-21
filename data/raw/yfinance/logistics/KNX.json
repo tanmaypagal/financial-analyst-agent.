@@ -1,0 +1,189 @@
+{
+ "ticker": "KNX",
+ "sector": "logistics",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/KNX",
+ "info": {
+  "longName": "Knight-Swift Transportation Holdings Inc.",
+  "currency": "USD",
+  "financialCurrency": "USD",
+  "exchange": "NYQ",
+  "fullExchangeName": "NYSE",
+  "country": "United States",
+  "longBusinessSummary": "Knight-Swift Transportation Holdings Inc., together with its subsidiaries, operates as a freight transportation company in the United States and Mexico. The company operates through four segments: Truckload, LTL, Logistics, and Intermodal. The Truckload segment offers irregular route, dedicated, refrigerated, flatbed, expedited, and cross-border services. The LTL segment provides regional direct service and serves its customers' national transportation needs by utilizing key partner carriers for coverage areas outside of its network. The Logistics segment provides brokerage and other freight management services utilizing third-party transportation providers and equipment. The Intermodal segment offers transportation services, including arranging the movement of customers' freight through third-party intermodal rail services on its trailing equipment; and drayage services to transport loads between the railheads and customer locations. The company also provides repair and maintenance shop services, equipment leasing, warranty services, and insurance; and trailer parts manufacturing, warehousing, and certain driving academy activities. It serves retail, food and beverage, consumer and paper products, transportation and logistics, housing and building, automotive, and manufacturing industries. The company was incorporated in 1989 and is headquartered in Phoenix, Arizona.",
+  "fullTimeEmployees": 37100,
+  "marketCap": 10852570112,
+  "enterpriseValue": 13359529984,
+  "trailingPE": 246.96295,
+  "enterpriseToEbitda": 12.724,
+  "enterpriseToRevenue": 1.728,
+  "dividendYield": 1.2,
+  "trailingAnnualDividendYield": 0.01139943,
+  "dividendRate": 0.8,
+  "currentPrice": 66.68,
+  "regularMarketPrice": 66.68,
+  "lastFiscalYearEnd": 1767139200,
+  "mostRecentQuarter": 1782777600,
+  "sector": "Industrials",
+  "industry": "Trucking",
+  "heldPercentInsiders": 0.02918,
+  "heldPercentInstitutions": 1.02303
+ },
+ "income_stmt": {
+  "2025-12-31": {
+   "Total Revenue": 7469689000.0,
+   "EBITDA": 1045170000.0,
+   "EBIT": 257117000.0,
+   "Net Income": 65946000.0,
+   "Gross Profit": 1042878000.0,
+   "Diluted EPS": 0.41
+  },
+  "2024-12-31": {
+   "Total Revenue": 7410078000.0,
+   "EBITDA": 1113006000.0,
+   "EBIT": 320204000.0,
+   "Net Income": 117626000.0,
+   "Gross Profit": 1034789000.0,
+   "Diluted EPS": 0.73
+  },
+  "2023-12-31": {
+   "Total Revenue": 7141766000.0,
+   "EBITDA": 1132489000.0,
+   "EBIT": 397389000.0,
+   "Net Income": 217149000.0,
+   "Gross Profit": 1253904000.0,
+   "Diluted EPS": 1.34
+  },
+  "2022-12-31": {
+   "Total Revenue": 7428582000.0,
+   "EBITDA": 1731133000.0,
+   "EBIT": 1071309000.0,
+   "Net Income": 771325000.0,
+   "Gross Profit": 1774557000.0,
+   "Diluted EPS": 4.73
+  },
+  "2021-12-31": {
+   "Total Revenue": null,
+   "EBITDA": null,
+   "EBIT": null,
+   "Net Income": null,
+   "Gross Profit": null,
+   "Diluted EPS": null
+  }
+ },
+ "balance_sheet": {
+  "2025-12-31": {
+   "Total Debt": 2685567000.0,
+   "Net Debt": 1433373000.0,
+   "Cash And Cash Equivalents": 220420000.0,
+   "Cash Cash Equivalents And Short Term Investments": 220420000.0
+  },
+  "2024-12-31": {
+   "Total Debt": 3277291000.0,
+   "Net Debt": 1918035000.0,
+   "Cash And Cash Equivalents": 218261000.0,
+   "Cash Cash Equivalents And Short Term Investments": 218261000.0
+  },
+  "2023-12-31": {
+   "Total Debt": 3199766000.0,
+   "Net Debt": 1647984000.0,
+   "Cash And Cash Equivalents": 168545000.0,
+   "Cash Cash Equivalents And Short Term Investments": 168545000.0
+  },
+  "2022-12-31": {
+   "Total Debt": 2089025000.0,
+   "Net Debt": 1289459000.0,
+   "Cash And Cash Equivalents": 196770000.0,
+   "Cash Cash Equivalents And Short Term Investments": 196770000.0
+  }
+ },
+ "cashflow": {
+  "2025-12-31": {
+   "Capital Expenditure": -805817000.0,
+   "Free Cash Flow": 460830000.0,
+   "Operating Cash Flow": 1266647000.0
+  },
+  "2024-12-31": {
+   "Capital Expenditure": -819150000.0,
+   "Free Cash Flow": -20087000.0,
+   "Operating Cash Flow": 799063000.0
+  },
+  "2023-12-31": {
+   "Capital Expenditure": -1071611000.0,
+   "Free Cash Flow": 90065000.0,
+   "Operating Cash Flow": 1161676000.0
+  },
+  "2022-12-31": {
+   "Capital Expenditure": -800563000.0,
+   "Free Cash Flow": 635290000.0,
+   "Operating Cash Flow": 1435853000.0
+  },
+  "2021-12-31": {
+   "Capital Expenditure": null,
+   "Free Cash Flow": null,
+   "Operating Cash Flow": null
+  }
+ },
+ "news": [
+  {
+   "title": "J.B. Hunt's Stock Plunges After Market Misprices Profit Warning",
+   "publisher": "MarketBeat",
+   "published": "2026-09-18T16:40:00Z",
+   "url": "https://www.marketbeat.com/articles/jb-hunts-stock-plunges-after-market-misprices-profit-warning/?utm_source=yahoofinance&utm_medium=yahoofinance"
+  },
+  {
+   "title": "S&P 500 Trucking Stock Craters On CFO's Warning",
+   "publisher": "Investor's Business Daily",
+   "published": "2026-09-16T17:00:50Z",
+   "url": "https://www.investors.com/news/sp-500-stocks-jb-hunt-cfo-earnings-oil-diesel-prices-iran-war/?src=A00220&yptr=yahoo"
+  },
+  {
+   "title": "Diesel Prices Surge to Record High and J.B. Hunt and Other Freight Stocks Slide",
+   "publisher": "Barrons.com",
+   "published": "2026-09-04T12:25:00Z",
+   "url": "https://www.barrons.com/articles/j-b-hunt-freight-stocks-diesel-prices-244eb05d?siteid=yhoof2&yptr=yahoo"
+  },
+  {
+   "title": "1 Industrials Stock Worth Investigating and 2 That Underwhelm",
+   "publisher": "StockStory",
+   "published": "2026-09-04T10:38:10Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/1-industrials-stock-worth-investigating-103810343.html"
+  },
+  {
+   "title": "How El Ni\u00f1o Could Disrupt Global Shipping",
+   "publisher": "Barrons.com",
+   "published": "2026-09-03T10:55:00Z",
+   "url": "https://www.barrons.com/articles/how-el-nino-could-disrupt-global-shipping-8c05d754?siteid=yhoof2&yptr=yahoo"
+  },
+  {
+   "title": "Knight-Swift Transportation (KNX) is Positioned to Leverage Evolving Freight Market",
+   "publisher": "Insider Monkey",
+   "published": "2026-08-31T15:09:18Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/knight-swift-transportation-knx-positioned-150918993.html"
+  },
+  {
+   "title": "Carriers limit outsourcing amid shortage of drayage drivers",
+   "publisher": "Trucking Dive",
+   "published": "2026-08-31T10:11:00Z",
+   "url": "https://www.truckingdive.com/news/carriers-limit-outsourcing-amid-shortage-of-drayage-drivers/829024/"
+  },
+  {
+   "title": "A Look Back at Ground Transportation Stocks\u2019 Q2 Earnings: Knight-Swift Transportation (NYSE:KNX) Vs The Rest Of The Pack",
+   "publisher": "StockStory",
+   "published": "2026-08-26T17:39:13Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/look-back-ground-transportation-stocks-173913709.html"
+  },
+  {
+   "title": "Old Dominion EPS Estimates Northbound: How to Play the Stock?",
+   "publisher": "Zacks",
+   "published": "2026-08-25T15:30:00Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/old-dominion-eps-estimates-northbound-153000255.html"
+  },
+  {
+   "title": "Why Is Knight-Swift (KNX) Down 4% Since Last Earnings Report?",
+   "publisher": "Zacks",
+   "published": "2026-08-21T15:30:05Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/why-knight-swift-knx-down-153005018.html"
+  }
+ ]
+}

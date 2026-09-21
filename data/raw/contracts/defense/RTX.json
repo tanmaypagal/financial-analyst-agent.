@@ -1,0 +1,76 @@
+{
+ "ticker": "RTX",
+ "retrieved_at": "2026-09-21",
+ "window": [
+  "2026-03-25",
+  "2026-09-21"
+ ],
+ "search_terms": [
+  "RAYTHEON",
+  "PRATT & WHITNEY",
+  "COLLINS AEROSPACE"
+ ],
+ "source": "USAspending.gov spending_by_award (date_signed)",
+ "awards": [
+  {
+   "internal_id": 361038788,
+   "Award ID": "HQ085126FE029",
+   "Recipient Name": "RAYTHEON COMPANY",
+   "Award Amount": 1377160572.75,
+   "Description": "NEXT GENERATION MISSILE DEFENSE RADAR",
+   "Start Date": "2026-05-05",
+   "Awarding Agency": "Department of Defense",
+   "generated_internal_id": "CONT_AWD_HQ085126FE029_9700_HQ085926DE008_9700",
+   "awarding_agency_id": 1173,
+   "agency_slug": "department-of-defense"
+  },
+  {
+   "internal_id": 361761294,
+   "Award ID": "W31P4Q26C0008",
+   "Recipient Name": "RAYTHEON COMPANY",
+   "Award Amount": 500123311.31,
+   "Description": "KUWAIT NASAMS 7 LOT PROCUREMENT",
+   "Start Date": "2026-05-26",
+   "Awarding Agency": "Department of Defense",
+   "generated_internal_id": "CONT_AWD_W31P4Q26C0008_9700_-NONE-_-NONE-",
+   "awarding_agency_id": 1173,
+   "agency_slug": "department-of-defense"
+  },
+  {
+   "internal_id": 360018491,
+   "Award ID": "FA867226CB001",
+   "Recipient Name": "RAYTHEON COMPANY",
+   "Award Amount": 338504060.23,
+   "Description": "SDB II LOT 12/TE UCA",
+   "Start Date": "2026-04-06",
+   "Awarding Agency": "Department of Defense",
+   "generated_internal_id": "CONT_AWD_FA867226CB001_9700_-NONE-_-NONE-",
+   "awarding_agency_id": 1173,
+   "agency_slug": "department-of-defense"
+  },
+  {
+   "internal_id": 360431225,
+   "Award ID": "HQ085126FE015",
+   "Recipient Name": "RAYTHEON COMPANY",
+   "Award Amount": 198030294.0,
+   "Description": "SM-3 BLOCK IIA UNDER LAYER.",
+   "Start Date": "2026-04-17",
+   "Awarding Agency": "Department of Defense",
+   "generated_internal_id": "CONT_AWD_HQ085126FE015_9700_HQ085121D0001_9700",
+   "awarding_agency_id": 1173,
+   "agency_slug": "department-of-defense"
+  },
+  {
+   "internal_id": 360055991,
+   "Award ID": "HQ072726FE016",
+   "Recipient Name": "RAYTHEON COMPANY",
+   "Award Amount": 103626343.0,
+   "Description": "THE ADVANCED TECHNOLOGY SUPPORT PROGRAM (ATSP) CONTRACT ACQUIRES PROGRESSIVE MICROELECTRONIC CAPABILITY SOLUTIONS TO DEVELOP AND INSTALL AN AIR BASE AIR DEFENSE (ABAD) IN THE AFRICOM THEATER FOR PROTECTION AGAINST AIR, UAS, AND CRUISE MISSILE THREATS",
+   "Start Date": "2026-04-07",
+   "Awarding Agency": "Department of Defense",
+   "generated_internal_id": "CONT_AWD_HQ072726FE016_9700_HQ072716D0006_9700",
+   "awarding_agency_id": 1173,
+   "agency_slug": "department-of-defense"
+  }
+ ]
+}

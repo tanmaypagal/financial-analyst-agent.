@@ -1,0 +1,38 @@
+ticker,accounting_standard,accounting_standard_source_url,ownership_notes,ownership_source_url,retrieved_at,verified
+LMT,US GAAP,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000936468&type=10-K,,,2026-09-21,0
+NOC,US GAAP,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001133421&type=10-K,,,2026-09-21,0
+GD,US GAAP,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000040533&type=10-K,,,2026-09-21,0
+RTX,US GAAP,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000101829&type=10-K,,,2026-09-21,0
+KTOS,US GAAP,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001069258&type=10-K,,,2026-09-21,0
+ESLT,US GAAP,https://data.sec.gov/api/xbrl/companyfacts/CIK0001027664.json,Federmann Enterprises Ltd. (FEL) owned ~44.15% of ordinary shares directly/indirectly per the 2022 20-F (older than current; re-check latest 20-F). Foreign private issuer; Israeli-law special-majority rules apply.,https://www.elbitsystems.com/sites/default/files/2025-03/eslt-13.31.2022-20-f-accessible.pdf,2026-09-21,0
+HO.PA,IFRS,https://eur-lex.europa.eu/eli/reg/2002/1606/oj,French State ~26.06% and Dassault Aviation ~25.2-26.05% (figures differ across secondary sources); shareholders' agreement between the two governs the board; ~46% free float. State/strategic control constrains any take-private.,https://www.thalesgroup.com/en/about-thales/governance,2026-09-21,0
+AM.PA,IFRS,https://eur-lex.europa.eu/eli/reg/2002/1606/oj,Groupe Industriel Marcel Dassault (Dassault family) holds ~67.3% of capital and ~79.7% of voting rights (voting figure as of 2025-06-30); Airbus ~10.7%; free float ~21.8%. Family control: a take-private needs the family's consent.,https://www.dassault-aviation.com/en/group/finance/shareholding/,2026-09-21,0
+RHM.DE,IFRS,https://eur-lex.europa.eu/eli/reg/2002/1606/oj,"Largest reported holders are institutions below 10% each (BlackRock ~6.9% as of 2025-07-04, Vanguard ~4.0% as of 2025-05-30) per a secondary summary; no state or family controlling stake was reported in the sources reviewed (not verified against Rheinmetall's voting-rights notifications).",https://www.marketscreener.com/quote/stock/RHEINMETALL-AG-436527/company-shareholders/,2026-09-21,0
+HAG.DE,IFRS,https://eur-lex.europa.eu/eli/reg/2002/1606/oj,Leonardo 25.1% and KfW (80% owned by the German federal government) 25.1% after 2021 transactions; KKR retained ~18% at that time (may have changed since).,https://www.leonardo.com/en/press-release-detail/-/detail/24-04-2021-leonardo-acquista,2026-09-21,0
+BA.L,IFRS,https://www.legislation.gov.uk/uksi/2019/685/contents,Company articles restrict foreign ownership: no foreign person (or persons acting in concert) may hold more than a 15% voting interest. Major-shareholder percentages not established from the sources reviewed.,https://investors.baesystems.com/shareholder-information/foreign-shareholding,2026-09-21,0
+SAAB-B.ST,IFRS,https://eur-lex.europa.eu/eli/reg/2002/1606/oj,"Investor AB holds ~30.16% of capital and ~39.69% of votes (owns all A shares, 10 votes each) per a secondary summary of Saab's ownership page.",https://www.saab.com/investors/the-share/ownership,2026-09-21,0
+KOG.OL,IFRS,https://eur-lex.europa.eu/eli/reg/2002/1606/oj,Norwegian State owns ~50.0% of shares (secondary source). State control constrains any take-private.,https://www.kongsberg.com/investor-relations/major-shareholders/,2026-09-21,0
+MSFT,US GAAP,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MSFT&type=10-K,,,2026-09-21,0
+ORCL,US GAAP,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ORCL&type=10-K,,,2026-09-21,0
+ADBE,US GAAP,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ADBE&type=10-K,,,2026-09-21,0
+CRM,US GAAP,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CRM&type=10-K,,,2026-09-21,0
+NOW,US GAAP,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NOW&type=10-K,,,2026-09-21,0
+INTU,US GAAP,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=INTU&type=10-K,,,2026-09-21,0
+DT,US GAAP,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DT&type=10-K,,,2026-09-21,0
+DOCU,US GAAP,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DOCU&type=10-K,,,2026-09-21,0
+PEGA,US GAAP,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PEGA&type=10-K,,,2026-09-21,0
+CVLT,US GAAP,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CVLT&type=10-K,,,2026-09-21,0
+BOX,US GAAP,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BOX&type=10-K,,,2026-09-21,0
+TWLO,US GAAP,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TWLO&type=10-K,,,2026-09-21,0
+XPO,US GAAP,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=XPO&type=10-K,,,2026-09-21,0
+GXO,US GAAP,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GXO&type=10-K,,,2026-09-21,0
+RXO,US GAAP,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=RXO&type=10-K,,,2026-09-21,0
+SAIA,US GAAP,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SAIA&type=10-K,,,2026-09-21,0
+LSTR,US GAAP,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LSTR&type=10-K,,,2026-09-21,0
+HUBG,US GAAP,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HUBG&type=10-K,,,2026-09-21,0
+FWRD,US GAAP,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FWRD&type=10-K,,,2026-09-21,0
+ARCB,US GAAP,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ARCB&type=10-K,,,2026-09-21,0
+WERN,US GAAP,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WERN&type=10-K,,,2026-09-21,0
+KNX,US GAAP,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KNX&type=10-K,,,2026-09-21,0
+CHRW,US GAAP,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CHRW&type=10-K,,,2026-09-21,0
+DSV.CO,IFRS,https://eur-lex.europa.eu/eli/reg/2002/1606/oj,"No majority shareholder per DSV investor relations: holders above 5% are Agility Public Warehousing (Kuwait), Ernst Goehner Stiftung (Switzerland; ~9.9% per a secondary source) and Capital Group (USA).",https://investor.dsv.com/shares-bonds/share-information,2026-09-21,0

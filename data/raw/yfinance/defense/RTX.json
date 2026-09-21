@@ -1,0 +1,195 @@
+{
+ "ticker": "RTX",
+ "sector": "defense",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/RTX",
+ "info": {
+  "longName": "RTX Corporation",
+  "currency": "USD",
+  "financialCurrency": "USD",
+  "exchange": "NYQ",
+  "fullExchangeName": "NYSE",
+  "country": "United States",
+  "longBusinessSummary": "RTX Corporation, an aerospace and defense company, provides systems and services for commercial, military, and government customers worldwide. It operates through three segments: Collins Aerospace (Collins), Pratt & Whitney, and Raytheon. The Collins segment offers aerospace and defense products, and aftermarket services for civil and military aircraft manufacturers and commercial airlines, as well as regional, business, and general aviation, defense, and commercial space operations. This segment designs, manufactures, and supplies electric power generation and management and distribution, environmental control, flight control, air data and aircraft sensing, engine control, and engine nacelle systems, as well as engine components; cabin interiors, including seating, oxygen, food and beverage preparation, storage and galley, lavatory, and wastewater management systems; connected aviation solutions and services; and systems solutions for connected battlespace, test and training range systems, crew escape systems, and simulation and training. It also provides spare parts, overhaul and repair, engineering and technical support, training and fleet management solutions, and asset and information management services. The Pratt & Whitney segment supplies aircraft engines for commercial, military, business jet, and general aviation customers; and produces, sells, and services military and commercial auxiliary power units, as well as offers fleet management and aftermarket maintenance, repair, and overhaul services. The Raytheon segment provides defensive and offensive threat detection, tracking, and mitigation capabilities for government and commercial customers. This segment offers sensors, mission orchestration and satellite control products, and software. The company was formerly known as Raytheon Technologies Corporation and changed its name to RTX Corporation in July 2023. RTX Corporation was incorporated in 1934 and is headquartered in Arlington, Virginia.",
+  "fullTimeEmployees": 180000,
+  "marketCap": 261465063424,
+  "enterpriseValue": 293783076864,
+  "trailingPE": 34.15493,
+  "enterpriseToEbitda": 18.483,
+  "enterpriseToRevenue": 3.142,
+  "dividendYield": 1.51,
+  "trailingAnnualDividendYield": 0.014312287,
+  "dividendRate": 2.92,
+  "currentPrice": 194.0,
+  "regularMarketPrice": 194.0,
+  "lastFiscalYearEnd": 1767139200,
+  "mostRecentQuarter": 1782777600,
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "heldPercentInsiders": 0.00091,
+  "heldPercentInstitutions": 0.81702006
+ },
+ "income_stmt": {
+  "2025-12-31": {
+   "Total Revenue": 88603000000.0,
+   "EBITDA": 14946000000.0,
+   "EBIT": 10568000000.0,
+   "Net Income": 6732000000.0,
+   "Gross Profit": 17789000000.0,
+   "Diluted EPS": 4.96
+  },
+  "2024-12-31": {
+   "Total Revenue": 80738000000.0,
+   "EBITDA": 12528000000.0,
+   "EBIT": 8164000000.0,
+   "Net Income": 4774000000.0,
+   "Gross Profit": 15410000000.0,
+   "Diluted EPS": 3.55
+  },
+  "2023-12-31": {
+   "Total Revenue": 68920000000.0,
+   "EBITDA": 9700000000.0,
+   "EBIT": 5489000000.0,
+   "Net Income": 3195000000.0,
+   "Gross Profit": 12089000000.0,
+   "Diluted EPS": 2.23
+  },
+  "2022-12-31": {
+   "Total Revenue": 67074000000.0,
+   "EBITDA": 11525000000.0,
+   "EBIT": 7417000000.0,
+   "Net Income": 5197000000.0,
+   "Gross Profit": 13668000000.0,
+   "Diluted EPS": 3.5
+  },
+  "2021-12-31": {
+   "Total Revenue": null,
+   "EBITDA": null,
+   "EBIT": null,
+   "Net Income": null,
+   "Gross Profit": null,
+   "Diluted EPS": null
+  }
+ },
+ "balance_sheet": {
+  "2025-12-31": {
+   "Total Debt": 39506000000.0,
+   "Net Debt": 30469000000.0,
+   "Cash And Cash Equivalents": 7435000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 7435000000.0
+  },
+  "2024-12-31": {
+   "Total Debt": 42893000000.0,
+   "Net Debt": 35683000000.0,
+   "Cash And Cash Equivalents": 5578000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 5578000000.0
+  },
+  "2023-12-31": {
+   "Total Debt": 45239000000.0,
+   "Net Debt": 37240000000.0,
+   "Cash And Cash Equivalents": 6587000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 6587000000.0
+  },
+  "2022-12-31": {
+   "Total Debt": 33500000000.0,
+   "Net Debt": 25694000000.0,
+   "Cash And Cash Equivalents": 6220000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 6220000000.0
+  },
+  "2021-12-31": {
+   "Total Debt": null,
+   "Net Debt": null,
+   "Cash And Cash Equivalents": null,
+   "Cash Cash Equivalents And Short Term Investments": null
+  }
+ },
+ "cashflow": {
+  "2025-12-31": {
+   "Capital Expenditure": -3119000000.0,
+   "Free Cash Flow": 7448000000.0,
+   "Operating Cash Flow": 10567000000.0
+  },
+  "2024-12-31": {
+   "Capital Expenditure": -3236000000.0,
+   "Free Cash Flow": 3923000000.0,
+   "Operating Cash Flow": 7159000000.0
+  },
+  "2023-12-31": {
+   "Capital Expenditure": -3166000000.0,
+   "Free Cash Flow": 4717000000.0,
+   "Operating Cash Flow": 7883000000.0
+  },
+  "2022-12-31": {
+   "Capital Expenditure": -2775000000.0,
+   "Free Cash Flow": 4393000000.0,
+   "Operating Cash Flow": 7168000000.0
+  },
+  "2021-12-31": {
+   "Capital Expenditure": null,
+   "Free Cash Flow": null,
+   "Operating Cash Flow": null
+  }
+ },
+ "news": [
+  {
+   "title": "Why You Should Avoid Palantir and Buy These 2 Defense Stocks Instead",
+   "publisher": "Motley Fool",
+   "published": "2026-09-20T12:42:00Z",
+   "url": "https://www.fool.com/investing/2026/09/20/why-you-should-avoid-palantir-and-buy-these-2-defe/"
+  },
+  {
+   "title": "RTX Beats Lockheed Martin on Risk -- Here's Why It's the Better Buy Long-Term",
+   "publisher": "Motley Fool",
+   "published": "2026-09-19T22:50:00Z",
+   "url": "https://www.fool.com/investing/2026/09/19/rtx-beats-lockheed-martin-on-risk-heres-why-its-th/"
+  },
+  {
+   "title": "Can A Faster Factory Lift Boeing Stock?",
+   "publisher": "Trefis",
+   "published": "2026-09-18T21:58:15Z",
+   "url": "https://www.trefis.com/articles/615836/can-a-faster-factory-lift-boeing-stock/2026-09-18"
+  },
+  {
+   "title": "RTX Slips 1% as Tariffs Raise FAA's Radar Bill",
+   "publisher": "GuruFocus.com",
+   "published": "2026-09-18T20:21:14Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/rtx-slips-1-tariffs-raise-202114828.html"
+  },
+  {
+   "title": "RTX (RTX) Stock May Be Undervalued On Its 183% Three Year Run",
+   "publisher": "Simply Wall St.",
+   "published": "2026-09-18T20:09:44Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/rtx-rtx-stock-may-undervalued-200944625.html"
+  },
+  {
+   "title": "Defense ETFs Stand to Gain as Trump Administration Signs JATM Deal",
+   "publisher": "Zacks",
+   "published": "2026-09-18T19:17:00Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/defense-etfs-stand-gain-trump-191700914.html"
+  },
+  {
+   "title": "Can L3Harris' Expanding Global Reach Support Future Growth?",
+   "publisher": "Zacks",
+   "published": "2026-09-18T14:11:00Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/l3harris-expanding-global-reach-support-141100323.html"
+  },
+  {
+   "title": "Update: US Equity Futures Mixed Pre-Bell as Major Averages Rebound After Fed-Induced Sell-Off",
+   "publisher": "MT Newswires",
+   "published": "2026-09-18T12:53:06Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-mixed-pre-125306224.html"
+  },
+  {
+   "title": "US Equity Futures Slightly Higher Pre-Bell as Major Averages Rebound After Fed-Induced Sell-Off",
+   "publisher": "MT Newswires",
+   "published": "2026-09-18T12:06:51Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-slightly-higher-120651115.html"
+  },
+  {
+   "title": "Jim Cramer Notes RTX Faces Valuation Pressure as Rates Rise",
+   "publisher": "Insider Monkey",
+   "published": "2026-09-18T12:04:01Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-notes-rtx-faces-120401711.html"
+  }
+ ]
+}

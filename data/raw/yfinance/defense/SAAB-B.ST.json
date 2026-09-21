@@ -1,0 +1,195 @@
+{
+ "ticker": "SAAB-B.ST",
+ "sector": "defense",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/SAAB-B.ST",
+ "info": {
+  "longName": "Saab AB (publ)",
+  "currency": "SEK",
+  "financialCurrency": "SEK",
+  "exchange": "STO",
+  "fullExchangeName": "Stockholm",
+  "country": "Sweden",
+  "longBusinessSummary": "Saab AB (publ) provides products, services, and solutions for military defense, aviation, and civil security markets in Sweden, the United States, the United Kingdom, Germany, Australia, and internationally. The company operates through Aeronautics, Dynamics, Surveillance, Kockums, and Combitech segments. The Aeronautics segment engages in the manufacture of aerial systems; development of military aviation technology; and conducting of studies of manned and unmanned aircraft for new systems and further development of existing products. Its Dynamics segment offers combat weapons, missile systems, systems for training and simulation, and signature management systems for armed forces in the civil and defense markets. The Surveillance segment provides airborne, ground-based and naval radar, electronic warfare, combat systems, and C4I solutions. Its Kockums segment develops, delivers, and maintains submarines with the Stirling system for air independent propulsion, surface combatants, mine hunting systems, autonomous vessels, torpedoes, and unmanned underwater vehicles. The Combitech segment offers services in systems development, systems integration, information security, systems security, communications, mechanics, technical product information, and logistics, as well as technology consultancy services. Saab AB (publ) was founded in 1937 and is headquartered in Stockholm, Sweden.",
+  "fullTimeEmployees": 29380,
+  "marketCap": 330407608320,
+  "enterpriseValue": 327132807168,
+  "trailingPE": 46.610943,
+  "enterpriseToEbitda": 30.217,
+  "enterpriseToRevenue": 3.71,
+  "dividendYield": 0.4,
+  "trailingAnnualDividendYield": 0.0039761434,
+  "dividendRate": 2.4,
+  "currentPrice": 613.4,
+  "regularMarketPrice": 613.4,
+  "lastFiscalYearEnd": 1767139200,
+  "mostRecentQuarter": 1782777600,
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "heldPercentInsiders": 0.00875,
+  "heldPercentInstitutions": 0.70639
+ },
+ "income_stmt": {
+  "2025-12-31": {
+   "Total Revenue": 79146000000.0,
+   "EBITDA": 11656000000.0,
+   "EBIT": 8589000000.0,
+   "Net Income": 6314000000.0,
+   "Gross Profit": 17168000000.0,
+   "Diluted EPS": 11.7
+  },
+  "2024-12-31": {
+   "Total Revenue": 63751000000.0,
+   "EBITDA": 8493000000.0,
+   "EBIT": 5848000000.0,
+   "Net Income": 4171000000.0,
+   "Gross Profit": 13663000000.0,
+   "Diluted EPS": 7.74
+  },
+  "2023-12-31": {
+   "Total Revenue": 51609000000.0,
+   "EBITDA": 7209000000.0,
+   "EBIT": 4944000000.0,
+   "Net Income": 3381000000.0,
+   "Gross Profit": 11260000000.0,
+   "Diluted EPS": 6.29
+  },
+  "2022-12-31": {
+   "Total Revenue": 42006000000.0,
+   "EBITDA": 5253000000.0,
+   "EBIT": 3126000000.0,
+   "Net Income": 2195000000.0,
+   "Gross Profit": 8886000000.0,
+   "Diluted EPS": 4.1025
+  },
+  "2021-12-31": {
+   "Total Revenue": null,
+   "EBITDA": null,
+   "EBIT": null,
+   "Net Income": null,
+   "Gross Profit": null,
+   "Diluted EPS": null
+  }
+ },
+ "balance_sheet": {
+  "2025-12-31": {
+   "Total Debt": 14709000000.0,
+   "Net Debt": 6070000000.0,
+   "Cash And Cash Equivalents": 3715000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 15358000000.0
+  },
+  "2024-12-31": {
+   "Total Debt": 10384000000.0,
+   "Net Debt": 4509000000.0,
+   "Cash And Cash Equivalents": 2843000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 11741000000.0
+  },
+  "2023-12-31": {
+   "Total Debt": 10043000000.0,
+   "Net Debt": 5239000000.0,
+   "Cash And Cash Equivalents": 2129000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 13469000000.0
+  },
+  "2022-12-31": {
+   "Total Debt": 9988000000.0,
+   "Net Debt": 4325000000.0,
+   "Cash And Cash Equivalents": 2869000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 12857000000.0
+  },
+  "2021-12-31": {
+   "Total Debt": null,
+   "Net Debt": null,
+   "Cash And Cash Equivalents": null,
+   "Cash Cash Equivalents And Short Term Investments": null
+  }
+ },
+ "cashflow": {
+  "2025-12-31": {
+   "Capital Expenditure": -7222000000.0,
+   "Free Cash Flow": 4883000000.0,
+   "Operating Cash Flow": 12105000000.0
+  },
+  "2024-12-31": {
+   "Capital Expenditure": -4839000000.0,
+   "Free Cash Flow": 1893000000.0,
+   "Operating Cash Flow": 6732000000.0
+  },
+  "2023-12-31": {
+   "Capital Expenditure": -3538000000.0,
+   "Free Cash Flow": 2924000000.0,
+   "Operating Cash Flow": 6462000000.0
+  },
+  "2022-12-31": {
+   "Capital Expenditure": -2310000000.0,
+   "Free Cash Flow": 2344000000.0,
+   "Operating Cash Flow": 4654000000.0
+  },
+  "2021-12-31": {
+   "Capital Expenditure": null,
+   "Free Cash Flow": null,
+   "Operating Cash Flow": null
+  }
+ },
+ "news": [
+  {
+   "title": "Analysis-Volkswagen's Seat on the brink as Chinese rivals gain ground",
+   "publisher": "Reuters",
+   "published": "2026-09-17T05:06:35Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/analysis-volkswagens-seat-brink-chinese-050342295.html"
+  },
+  {
+   "title": "Lockheed's $729 Million HIMARS Win Feeds a 19% Missile-Sales Surge",
+   "publisher": "GuruFocus.com",
+   "published": "2026-09-07T21:40:41Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/lockheeds-729-million-himars-win-214041633.html"
+  },
+  {
+   "title": "Lockheed Martin (LMT)\u2019s HIMARS Win in Sweden Strengthens its European Defense Footprint",
+   "publisher": "Insider Monkey",
+   "published": "2026-09-07T19:18:54Z",
+   "url": "https://finance.yahoo.com/economy/policy/articles/lockheed-martin-lmt-himars-win-191854846.html"
+  },
+  {
+   "title": "Omda AS (STU:6Q1) (Q2 2026) Earnings Call Highlights: Strong Organic Growth and Strategic Saab ...",
+   "publisher": "GuruFocus.com",
+   "published": "2026-09-04T01:01:01Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/omda-stu-6q1-q2-2026-010101338.html"
+  },
+  {
+   "title": "Is Saab (OM:SAAB B) Trading At A Premium To Fair Value?",
+   "publisher": "Simply Wall St.",
+   "published": "2026-09-01T11:07:34Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/saab-om-saab-b-trading-110734211.html"
+  },
+  {
+   "title": "Saab (OM:SAAB B) Could Be 5% Overvalued Following New Defence Orders",
+   "publisher": "Simply Wall St.",
+   "published": "2026-09-01T04:35:26Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/saab-om-saab-b-could-043526524.html"
+  },
+  {
+   "title": "What Do Saab (OM:SAAB B) Contracts And Drone Plans Mean For Investors?",
+   "publisher": "Simply Wall St.",
+   "published": "2026-09-01T01:05:51Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/saab-om-saab-b-contracts-010551969.html"
+  },
+  {
+   "title": "Air T Shareholders Approve Board, Pay and Deloitte as Rex Engine Constraints Persist",
+   "publisher": "MarketBeat",
+   "published": "2026-08-25T16:02:17Z",
+   "url": "https://www.marketbeat.com/instant-alerts/event-air-t-shareholders-approve-board-pay-and-deloitte-as-rex-engine-constraints-persist-2026-08-25/?utm_source=yahoofinance&utm_medium=yahoofinance"
+  },
+  {
+   "title": "uniQure (QURE) Q2 2026 Earnings Call Transcript",
+   "publisher": "Motley Fool",
+   "published": "2026-08-08T00:35:09Z",
+   "url": "https://www.fool.com/earnings/call-transcripts/2026/08/07/uniqure-qure-q2-2026-earnings-call-transcript/"
+  },
+  {
+   "title": "Texas Precious Metals says gold, silver pullback offers buying opportunity",
+   "publisher": "Investing.com",
+   "published": "2026-07-31T19:09:19Z",
+   "url": "https://finance.yahoo.com/markets/commodities/articles/texas-precious-metals-says-gold-190919706.html"
+  }
+ ]
+}

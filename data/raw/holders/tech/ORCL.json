@@ -1,0 +1,38 @@
+{
+ "ticker": "ORCL",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/ORCL/holders",
+ "major_holders": {
+  "insidersPercentHeld": 0.38579,
+  "institutionsPercentHeld": 0.43584,
+  "institutionsFloatPercentHeld": 0.70959,
+  "institutionsCount": 4570.0
+ },
+ "top_institutional": [
+  {
+   "holder": "Blackrock Inc.",
+   "pct": 0.0481,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Vanguard Capital Management LLC",
+   "pct": 0.037,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "State Street Corporation",
+   "pct": 0.025999999,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Vanguard Portfolio Management LLC",
+   "pct": 0.0189,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Capital Research Global Investors",
+   "pct": 0.013099999,
+   "reported": "2026-06-30"
+  }
+ ]
+}

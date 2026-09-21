@@ -1,0 +1,28 @@
+# Data-quality policy. DEFAULTS - review and edit. Consumed by the MCP server (stale flags,
+# get_data_quality) and by the agent's confidence rules.
+staleness_days:            # older than this => stale=true
+  market_data: 7           # valuations
+  financials: 365          # financials, sector_metrics_*  (measured from period_end)
+  signals: 180             # headcount / hiring / news / contract_award (measured from signal_date)
+  company_profile: 365
+
+confidence_rules:          # implemented in agent/confidence.py (one function per name; a test keeps this list and the code in sync)
+  start: high
+  downgrade_one_level_if:  # ANY triggers -> one level below start
+    - any_data_point_stale                            # a tool result used is stale (incl. any stale contributor to a sector median)
+    - any_data_point_unverified_share_above: 0.5      # more than this share of data rows used have verified=0
+    - key_metric_missing                              # a persona priority metric is null for a company the answer cites
+  downgrade_to_low_if:     # ANY triggers -> low
+    - company_not_found                               # NOT_IN_DB / WRONG_SECTOR / NO_ROWS / AMBIGUOUS not resolved by a later successful call
+    - no_tool_returned_data                           # no non-meta tool returned found=true
+    - more_than_half_of_cited_companies_have_gaps_in_priority_metrics
+
+fx:
+  source: yfinance FX pair close on/just before period end   # documented in README
+outlier_checks:            # used by scripts/validate_db.py
+  ebitda_margin_range: [-0.5, 0.8]
+  gross_margin_range: [-0.5, 1.0]
+  ev_ebitda_range: [0, 80]
+  pe_range: [0, 300]
+  dividend_yield_max: 0.15
+  revenue_yoy_abs_change_max: 1.0

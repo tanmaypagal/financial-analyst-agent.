@@ -1,0 +1,38 @@
+{
+ "ticker": "TWLO",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/TWLO/holders",
+ "major_holders": {
+  "insidersPercentHeld": 0.00127,
+  "institutionsPercentHeld": 0.93255997,
+  "institutionsFloatPercentHeld": 0.93375,
+  "institutionsCount": 1347.0
+ },
+ "top_institutional": [
+  {
+   "holder": "Blackrock Inc.",
+   "pct": 0.1083,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "JPMORGAN CHASE & CO",
+   "pct": 0.0796,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "FMR, LLC",
+   "pct": 0.0734,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Vanguard Portfolio Management LLC",
+   "pct": 0.0498,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Vanguard Capital Management LLC",
+   "pct": 0.0446,
+   "reported": "2026-06-30"
+  }
+ ]
+}

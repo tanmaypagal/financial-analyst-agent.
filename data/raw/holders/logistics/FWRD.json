@@ -1,0 +1,38 @@
+{
+ "ticker": "FWRD",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/FWRD/holders",
+ "major_holders": {
+  "insidersPercentHeld": 0.01859,
+  "institutionsPercentHeld": 0.97488,
+  "institutionsFloatPercentHeld": 0.99334997,
+  "institutionsCount": 254.0
+ },
+ "top_institutional": [
+  {
+   "holder": "Clearlake Capital Group, LP",
+   "pct": 0.120900005,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Blackrock Inc.",
+   "pct": 0.0877,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "FMR, LLC",
+   "pct": 0.0635,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Bracebridge Capital, LLC",
+   "pct": 0.0444,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Vanguard Capital Management LLC",
+   "pct": 0.037,
+   "reported": "2026-06-30"
+  }
+ ]
+}

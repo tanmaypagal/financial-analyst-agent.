@@ -1,0 +1,187 @@
+{
+ "ticker": "BA.L",
+ "sector": "defense",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/BA.L",
+ "info": {
+  "longName": "BAE Systems plc",
+  "currency": "GBp",
+  "financialCurrency": "GBP",
+  "exchange": "LSE",
+  "fullExchangeName": "LSE",
+  "country": "United Kingdom",
+  "longBusinessSummary": "BAE Systems plc provides defense, aerospace, and security solutions in the United States, the United Kingdom, the Middle East, Australia, Kingdom of Saudi Arabia, Europe, and internationally. The company operates through five segments: Electronic Systems, Platforms & Services, Air, Maritime, and Cyber & Intelligence. The Electronic Systems segment offers electronic warfare systems, navigation systems, electro-optical sensors, military and commercial avionics, and precision guided solutions and communications systems, as well as space electronics, spacecraft, and ground and tactical systems. The Platforms & Services segment manufactures and sells combat vehicles, weapons, and munitions; and offers naval ship repair services, as well as operates and manages two government-owned and contractor-operated ammunition plants. The Air segment develops future combat air systems and falconworks alongside edgewing, and eurofighter and MBDA. The Maritime segment provides maritime and land services, including submarine, ship build, and support programs. The Cyber & Intelligence segment offers cyber security services for national security, central government, and government enterprises. The company was formerly known as British Aerospace plc and changed its name to BAE Systems plc in May 2000. BAE Systems plc was incorporated in 1979 and is headquartered in London, the United Kingdom.",
+  "fullTimeEmployees": 112400,
+  "marketCap": 59403952128,
+  "enterpriseValue": 65733251072,
+  "trailingPE": 28.985716,
+  "enterpriseToEbitda": 17.515,
+  "enterpriseToRevenue": 2.237,
+  "dividendYield": 1.87,
+  "trailingAnnualDividendYield": 0.00018666666,
+  "dividendRate": 0.38,
+  "currentPrice": 2029.0,
+  "regularMarketPrice": 2029.0,
+  "lastFiscalYearEnd": 1767139200,
+  "mostRecentQuarter": 1782777600,
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "heldPercentInsiders": 0.00448,
+  "heldPercentInstitutions": 0.71953005
+ },
+ "income_stmt": {
+  "2025-12-31": {
+   "Total Revenue": 28336000000.0,
+   "EBITDA": 4236000000.0,
+   "EBIT": 3076000000.0,
+   "Net Income": 2062000000.0,
+   "Gross Profit": 18474000000.0,
+   "Diluted EPS": 0.68
+  },
+  "2024-12-31": {
+   "Total Revenue": 26312000000.0,
+   "EBITDA": 3972000000.0,
+   "EBIT": 2887000000.0,
+   "Net Income": 1956000000.0,
+   "Gross Profit": 17227000000.0,
+   "Diluted EPS": 0.641
+  },
+  "2023-12-31": {
+   "Total Revenue": 23078000000.0,
+   "EBITDA": 3447000000.0,
+   "EBIT": 2665000000.0,
+   "Net Income": 1857000000.0,
+   "Gross Profit": 15205000000.0,
+   "Diluted EPS": 0.604
+  },
+  "2022-12-31": {
+   "Total Revenue": 21258000000.0,
+   "EBITDA": 3059000000.0,
+   "EBIT": 2295000000.0,
+   "Net Income": 1591000000.0,
+   "Gross Profit": 14164000000.0,
+   "Diluted EPS": 0.505
+  }
+ },
+ "balance_sheet": {
+  "2025-12-31": {
+   "Total Debt": 9051000000.0,
+   "Net Debt": 3847000000.0,
+   "Cash And Cash Equivalents": 3438000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 3621000000.0
+  },
+  "2024-12-31": {
+   "Total Debt": 10253000000.0,
+   "Net Debt": 5034000000.0,
+   "Cash And Cash Equivalents": 3378000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 3590000000.0
+  },
+  "2023-12-31": {
+   "Total Debt": 6479000000.0,
+   "Net Debt": 992000000.0,
+   "Cash And Cash Equivalents": 4067000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 4067000000.0
+  },
+  "2022-12-31": {
+   "Total Debt": 6805000000.0,
+   "Net Debt": 2137000000.0,
+   "Cash And Cash Equivalents": 3052000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 3052000000.0
+  },
+  "2021-12-31": {
+   "Total Debt": null,
+   "Net Debt": null,
+   "Cash And Cash Equivalents": null,
+   "Cash Cash Equivalents And Short Term Investments": null
+  }
+ },
+ "cashflow": {
+  "2025-12-31": {
+   "Capital Expenditure": -1103000000.0,
+   "Free Cash Flow": 2329000000.0,
+   "Operating Cash Flow": 3432000000.0
+  },
+  "2024-12-31": {
+   "Capital Expenditure": -1163000000.0,
+   "Free Cash Flow": 2762000000.0,
+   "Operating Cash Flow": 3925000000.0
+  },
+  "2023-12-31": {
+   "Capital Expenditure": -957000000.0,
+   "Free Cash Flow": 2803000000.0,
+   "Operating Cash Flow": 3760000000.0
+  },
+  "2022-12-31": {
+   "Capital Expenditure": -693000000.0,
+   "Free Cash Flow": 2146000000.0,
+   "Operating Cash Flow": 2839000000.0
+  },
+  "2021-12-31": {
+   "Capital Expenditure": null,
+   "Free Cash Flow": null,
+   "Operating Cash Flow": null
+  }
+ },
+ "news": [
+  {
+   "title": "European Indexes Slide as Higher Oil Weighs on Defense Stocks, Banks",
+   "publisher": "The Wall Street Journal",
+   "published": "2026-09-09T07:39:00Z",
+   "url": "https://www.wsj.com/finance/stocks/nikkei-rises-0-1-led-by-chip-related-stocks-c8902c64?siteid=yhoof2&yptr=yahoo"
+  },
+  {
+   "title": "Griffin Mining And 2 British Defensive Stocks",
+   "publisher": "Simply Wall St.",
+   "published": "2026-09-04T14:15:21Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/griffin-mining-2-british-defensive-141521867.html"
+  },
+  {
+   "title": "BP Names Ian Tyler Permanent Chair After Manifold\u2019s Abrupt Exit",
+   "publisher": "Oilprice.com",
+   "published": "2026-09-02T06:50:00Z",
+   "url": "https://finance.yahoo.com/energy/articles/bp-names-ian-tyler-permanent-065000654.html"
+  },
+  {
+   "title": "BAE Systems Stock And 2 Cash Flow Value Shares Worth A Closer Look",
+   "publisher": "Simply Wall St.",
+   "published": "2026-08-31T16:17:13Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/bae-systems-stock-2-cash-161713632.html"
+  },
+  {
+   "title": "Can Viper Shield Expand L3Harris' Electronic Warfare Growth?",
+   "publisher": "Zacks",
+   "published": "2026-08-28T15:10:00Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/viper-shield-expand-l3harris-electronic-151000190.html"
+  },
+  {
+   "title": "European Indexes Rise in Strong Open",
+   "publisher": "Barrons.com",
+   "published": "2026-08-28T08:57:58Z",
+   "url": "https://www.barrons.com/livecoverage/stock-market-news-today-082826/card/european-indexes-rise-in-strong-open-B83ej5q8hwKN1AankUsH?siteid=yhoof2&yptr=yahoo"
+  },
+  {
+   "title": "U.K. Defense Stocks Fall as Government Likely to Drop Spending Targets",
+   "publisher": "The Wall Street Journal",
+   "published": "2026-08-28T08:17:00Z",
+   "url": "https://www.wsj.com/finance/stocks/nikkei-rises-0-4-led-by-it-services-stocks-579fdd38?siteid=yhoof2&yptr=yahoo"
+  },
+  {
+   "title": "Can Electronic Warfare Demand Boost L3Harris' Growth Prospects?",
+   "publisher": "Zacks",
+   "published": "2026-08-26T13:20:00Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/electronic-warfare-demand-boost-l3harris-132000079.html"
+  },
+  {
+   "title": "Can HII Benefit From Growing Demand for Submarine Construction?",
+   "publisher": "Zacks",
+   "published": "2026-08-19T13:08:00Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/hii-benefit-growing-demand-submarine-130800751.html"
+  },
+  {
+   "title": "BAE Systems (LSE:BA.) THREADS Progress Keeps Its Undervalued Narrative In Play",
+   "publisher": "Simply Wall St.",
+   "published": "2026-08-15T10:11:21Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/bae-systems-lse-ba-threads-101121320.html"
+  }
+ ]
+}

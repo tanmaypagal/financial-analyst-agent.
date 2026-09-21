@@ -1,0 +1,190 @@
+{
+ "ticker": "RXO",
+ "sector": "logistics",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/RXO",
+ "info": {
+  "longName": "RXO, Inc.",
+  "currency": "USD",
+  "financialCurrency": "USD",
+  "exchange": "NYQ",
+  "fullExchangeName": "NYSE",
+  "country": "United States",
+  "longBusinessSummary": "RXO, Inc. engages in truck brokerage business in the United States, Canada, Mexico, Asia, and Europe. It offers truckload freight brokering services. The company also provides asset-light managed transportation and last mile services, as well as freight forwarding services, including facilitation of ocean and air transportation, customs brokerage, and additional domestic services including middle mile. RXO, Inc. was incorporated in 2022 and is headquartered in Charlotte, North Carolina.",
+  "fullTimeEmployees": 6906,
+  "marketCap": 3341403392,
+  "enterpriseValue": 4036261376,
+  "trailingPE": null,
+  "enterpriseToEbitda": 43.872,
+  "enterpriseToRevenue": 0.663,
+  "dividendYield": null,
+  "trailingAnnualDividendYield": 0.0,
+  "dividendRate": null,
+  "currentPrice": 20.26,
+  "regularMarketPrice": 20.26,
+  "lastFiscalYearEnd": 1767139200,
+  "mostRecentQuarter": 1782777600,
+  "sector": "Industrials",
+  "industry": "Trucking",
+  "heldPercentInsiders": 0.00808,
+  "heldPercentInstitutions": 1.10919
+ },
+ "income_stmt": {
+  "2025-12-31": {
+   "Total Revenue": 5742000000.0,
+   "EBITDA": 36000000.0,
+   "EBIT": -80000000.0,
+   "Net Income": -100000000.0,
+   "Gross Profit": 825000000.0,
+   "Diluted EPS": -0.59
+  },
+  "2024-12-31": {
+   "Total Revenue": 4550000000.0,
+   "EBITDA": -187000000.0,
+   "EBIT": -274000000.0,
+   "Net Income": -290000000.0,
+   "Gross Profit": 696000000.0,
+   "Diluted EPS": -2.14
+  },
+  "2023-12-31": {
+   "Total Revenue": 3927000000.0,
+   "EBITDA": 103000000.0,
+   "EBIT": 36000000.0,
+   "Net Income": 4000000.0,
+   "Gross Profit": 658000000.0,
+   "Diluted EPS": 0.03
+  },
+  "2022-12-31": {
+   "Total Revenue": 4796000000.0,
+   "EBITDA": 209000000.0,
+   "EBIT": 123000000.0,
+   "Net Income": 92000000.0,
+   "Gross Profit": 860000000.0,
+   "Diluted EPS": 0.8
+  },
+  "2021-12-31": {
+   "Total Revenue": null,
+   "EBITDA": null,
+   "EBIT": null,
+   "Net Income": null,
+   "Gross Profit": null,
+   "Diluted EPS": null
+  }
+ },
+ "balance_sheet": {
+  "2025-12-31": {
+   "Total Debt": 670000000.0,
+   "Net Debt": 387000000.0,
+   "Cash And Cash Equivalents": 17000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 17000000.0
+  },
+  "2024-12-31": {
+   "Total Debt": 664000000.0,
+   "Net Debt": 333000000.0,
+   "Cash And Cash Equivalents": 35000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 35000000.0
+  },
+  "2023-12-31": {
+   "Total Debt": 558000000.0,
+   "Net Debt": 354000000.0,
+   "Cash And Cash Equivalents": 5000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 5000000.0
+  },
+  "2022-12-31": {
+   "Total Debt": 617000000.0,
+   "Net Debt": 357000000.0,
+   "Cash And Cash Equivalents": 98000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 98000000.0
+  },
+  "2021-12-31": {
+   "Total Debt": null,
+   "Net Debt": null,
+   "Cash And Cash Equivalents": null,
+   "Cash Cash Equivalents And Short Term Investments": null
+  }
+ },
+ "cashflow": {
+  "2025-12-31": {
+   "Capital Expenditure": -59000000.0,
+   "Free Cash Flow": -8000000.0,
+   "Operating Cash Flow": 51000000.0
+  },
+  "2024-12-31": {
+   "Capital Expenditure": -45000000.0,
+   "Free Cash Flow": -57000000.0,
+   "Operating Cash Flow": -12000000.0
+  },
+  "2023-12-31": {
+   "Capital Expenditure": -64000000.0,
+   "Free Cash Flow": 25000000.0,
+   "Operating Cash Flow": 89000000.0
+  },
+  "2022-12-31": {
+   "Capital Expenditure": -57000000.0,
+   "Free Cash Flow": 253000000.0,
+   "Operating Cash Flow": 310000000.0
+  }
+ },
+ "news": [
+  {
+   "title": "3 Stocks Exposed To The US China Trade Reset Investors Should Track",
+   "publisher": "Simply Wall St.",
+   "published": "2026-09-21T04:32:57Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-exposed-us-china-043257389.html"
+  },
+  {
+   "title": "RXO (RXO) Files $136.99 Million ESOP Shelf Registration For Employee Share Issuance",
+   "publisher": "Simply Wall St.",
+   "published": "2026-09-17T13:11:22Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/rxo-rxo-files-136-99-131122839.html"
+  },
+  {
+   "title": "3 High-Flying Stocks with Open Questions",
+   "publisher": "StockStory",
+   "published": "2026-09-17T10:42:17Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/3-high-flying-stocks-open-104217534.html"
+  },
+  {
+   "title": "RXO (RXO) Stock May Be Near Fair Value Following Its 49% Run",
+   "publisher": "Simply Wall St.",
+   "published": "2026-09-17T09:16:00Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/rxo-rxo-stock-may-near-091600023.html"
+  },
+  {
+   "title": "S&P 500 Trucking Stock Craters On CFO's Warning",
+   "publisher": "Investor's Business Daily",
+   "published": "2026-09-16T17:00:50Z",
+   "url": "https://www.investors.com/news/sp-500-stocks-jb-hunt-cfo-earnings-oil-diesel-prices-iran-war/?src=A00220&yptr=yahoo"
+  },
+  {
+   "title": "1 Industrials Stock to Keep an Eye On and 2 We Turn Down",
+   "publisher": "StockStory",
+   "published": "2026-09-14T09:11:08Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/1-industrials-stock-keep-eye-091108399.html"
+  },
+  {
+   "title": "Is Uber Stock Cheap, Or Is The Cash Already Spent?",
+   "publisher": "Trefis",
+   "published": "2026-09-11T21:32:11Z",
+   "url": "https://www.trefis.com/articles/615041/is-uber-stock-cheap-or-is-the-cash-already-spent/2026-09-11"
+  },
+  {
+   "title": "A Look Back at Ground Transportation Stocks\u2019 Q2 Earnings: RXO (NYSE:RXO) Vs The Rest Of The Pack",
+   "publisher": "StockStory",
+   "published": "2026-09-10T20:41:04Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/look-back-ground-transportation-stocks-204104904.html"
+  },
+  {
+   "title": "Should You Buy Uber Stock Because Its Operating Margin Keeps Climbing?",
+   "publisher": "Trefis",
+   "published": "2026-09-09T21:50:28Z",
+   "url": "https://www.trefis.com/articles/614770/should-you-buy-uber-stock-because-its-operating-margin-keeps-climbing/2026-09-09"
+  },
+  {
+   "title": "RXO reports August truckload gross profit per load increase of more than 10%",
+   "publisher": "InvestorsHub",
+   "published": "2026-09-09T12:57:14Z",
+   "url": "https://investorshub.advfn.com/market-news/article/35933/rxo-reports-august-truckload-gross-profit-per-load-increase-of-more-than-10"
+  }
+ ]
+}

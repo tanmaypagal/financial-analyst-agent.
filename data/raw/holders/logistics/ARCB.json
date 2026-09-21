@@ -1,0 +1,38 @@
+{
+ "ticker": "ARCB",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/ARCB/holders",
+ "major_holders": {
+  "insidersPercentHeld": 0.01426,
+  "institutionsPercentHeld": 1.06409,
+  "institutionsFloatPercentHeld": 1.0794799,
+  "institutionsCount": 444.0
+ },
+ "top_institutional": [
+  {
+   "holder": "Blackrock Inc.",
+   "pct": 0.15689999,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Invesco Ltd.",
+   "pct": 0.0738,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "American Century Companies Inc",
+   "pct": 0.069,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Dimensional Fund Advisors LP",
+   "pct": 0.061300002,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Vanguard Portfolio Management LLC",
+   "pct": 0.0608,
+   "reported": "2026-06-30"
+  }
+ ]
+}

@@ -1,0 +1,195 @@
+{
+ "ticker": "DSV.CO",
+ "sector": "logistics",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/DSV.CO",
+ "info": {
+  "longName": "DSV A/S",
+  "currency": "DKK",
+  "financialCurrency": "DKK",
+  "exchange": "CPH",
+  "fullExchangeName": "Copenhagen",
+  "country": "Denmark",
+  "longBusinessSummary": "DSV A/S offers freight forwarding and logistics services in Europe, the Middle East, Africa, North America, South America, Asia, Australia, and the Pacific. It operates through three segments: Air & Sea, Road, and Solutions. The company provides air freight, charter, and sea-air freight services, as well as unit load devices; sea freight services, including less-than-container load services, sea freight services, break bulk, sea containers, and DSV LCL sailing schedule services; and warehousing, e-commerce fulfilment, supply chain, contract logistics, and logistics solutions. It also offers road freight services, such as full load, part load, and groupage; conventional freight forwarding services and tailored project cargo solutions; and freight management, customs clearance, decarbonising logistics, order management, insurance, and e-commerce solutions. The company serves the automotive, technology, healthcare, energy, industrial, consumer, defense, aerospace, and chemical industries. The company was formerly known as DSV Panalpina A/S and changed its name to DSV A/S in September 2021. DSV A/S was incorporated in 1976 and is based in Hedehusene, Denmark.",
+  "fullTimeEmployees": 147222,
+  "marketCap": 310166028288,
+  "enterpriseValue": 389916327936,
+  "trailingPE": 43.227955,
+  "enterpriseToEbitda": 15.219,
+  "enterpriseToRevenue": 1.341,
+  "dividendYield": 0.55,
+  "trailingAnnualDividendYield": 0.0054966626,
+  "dividendRate": 7.0,
+  "currentPrice": 1299.0,
+  "regularMarketPrice": 1299.0,
+  "lastFiscalYearEnd": 1767139200,
+  "mostRecentQuarter": 1782777600,
+  "sector": "Industrials",
+  "industry": "Integrated Freight & Logistics",
+  "heldPercentInsiders": 0.177,
+  "heldPercentInstitutions": 0.48248002
+ },
+ "income_stmt": {
+  "2025-12-31": {
+   "Total Revenue": 247331000000.0,
+   "EBITDA": 24518000000.0,
+   "EBIT": 15842000000.0,
+   "Net Income": 8095000000.0,
+   "Gross Profit": 66859000000.0,
+   "Diluted EPS": 34.3
+  },
+  "2024-12-31": {
+   "Total Revenue": 167106000000.0,
+   "EBITDA": 21164000000.0,
+   "EBIT": 15395000000.0,
+   "Net Income": 10109000000.0,
+   "Gross Profit": 42974000000.0,
+   "Diluted EPS": 47.0
+  },
+  "2023-12-31": {
+   "Total Revenue": 150785000000.0,
+   "EBITDA": 23277000000.0,
+   "EBIT": 17966000000.0,
+   "Net Income": 12315000000.0,
+   "Gross Profit": 43818000000.0,
+   "Diluted EPS": 57.1
+  },
+  "2022-12-31": {
+   "Total Revenue": 235665000000.0,
+   "EBITDA": 29671000000.0,
+   "EBIT": 24600000000.0,
+   "Net Income": 17568000000.0,
+   "Gross Profit": 52149000000.0,
+   "Diluted EPS": 76.2
+  },
+  "2021-12-31": {
+   "Total Revenue": null,
+   "EBITDA": null,
+   "EBIT": null,
+   "Net Income": null,
+   "Gross Profit": null,
+   "Diluted EPS": null
+  }
+ },
+ "balance_sheet": {
+  "2025-12-31": {
+   "Total Debt": 97935000000.0,
+   "Net Debt": 56477000000.0,
+   "Cash And Cash Equivalents": 10528000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 10528000000.0
+  },
+  "2024-12-31": {
+   "Total Debt": 82817000000.0,
+   "Net Debt": null,
+   "Cash And Cash Equivalents": 81790000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 81790000000.0
+  },
+  "2023-12-31": {
+   "Total Debt": 40090000000.0,
+   "Net Debt": 17609000000.0,
+   "Cash And Cash Equivalents": 4534000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 4534000000.0
+  },
+  "2022-12-31": {
+   "Total Debt": 38979000000.0,
+   "Net Debt": 13829000000.0,
+   "Cash And Cash Equivalents": 8383000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 8383000000.0
+  },
+  "2021-12-31": {
+   "Total Debt": null,
+   "Net Debt": 13166000000.0,
+   "Cash And Cash Equivalents": null,
+   "Cash Cash Equivalents And Short Term Investments": null
+  }
+ },
+ "cashflow": {
+  "2025-12-31": {
+   "Capital Expenditure": -2588000000.0,
+   "Free Cash Flow": 18893000000.0,
+   "Operating Cash Flow": 21481000000.0
+  },
+  "2024-12-31": {
+   "Capital Expenditure": -2429000000.0,
+   "Free Cash Flow": 9222000000.0,
+   "Operating Cash Flow": 11651000000.0
+  },
+  "2023-12-31": {
+   "Capital Expenditure": -2375000000.0,
+   "Free Cash Flow": 14083000000.0,
+   "Operating Cash Flow": 16458000000.0
+  },
+  "2022-12-31": {
+   "Capital Expenditure": -1794000000.0,
+   "Free Cash Flow": 25052000000.0,
+   "Operating Cash Flow": 26846000000.0
+  },
+  "2021-12-31": {
+   "Capital Expenditure": null,
+   "Free Cash Flow": null,
+   "Operating Cash Flow": null
+  }
+ },
+ "news": [
+  {
+   "title": "Invesco and DSV's have been highlighted as Zacks Bull and Bear of the Day",
+   "publisher": "Zacks",
+   "published": "2026-08-04T12:56:00Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/invesco-dsvs-highlighted-zacks-bull-125600949.html"
+  },
+  {
+   "title": "Bear of the Day: DSV (DSDVY)",
+   "publisher": "Zacks",
+   "published": "2026-08-04T08:00:00Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/bear-day-dsv-dsdvy-080000872.html"
+  },
+  {
+   "title": "DSV AS (DSDVF) Q2 2026 Earnings Call Highlights: Record EBIT and Strategic Progress Amid Challenges",
+   "publisher": "GuruFocus.com",
+   "published": "2026-07-22T17:00:28Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/dsv-dsdvf-q2-2026-earnings-170028000.html"
+  },
+  {
+   "title": "DSV AS (DSDVY) Q2 2026: Everything You Need To Know Ahead Of Earnings",
+   "publisher": "GuruFocus.com",
+   "published": "2026-07-21T13:16:39Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/dsv-dsdvy-q2-2026-everything-131639978.html"
+  },
+  {
+   "title": "UPS, FedEx Top List of Logistics Companies Ranked by Market Cap",
+   "publisher": "Sourcing Journal",
+   "published": "2026-07-10T13:00:00Z",
+   "url": "https://wwd.com/sourcing-journal/logistics/ups-fedex-top-list-of-companies-ranked-by-market-cap-1239060830/"
+  },
+  {
+   "title": "DSV (CPSE:DSV) Stock Valuation Reassessed After Recent Share Price Move",
+   "publisher": "Simply Wall St.",
+   "published": "2026-06-14T04:14:13Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/dsv-cpse-dsv-stock-valuation-041413989.html"
+  },
+  {
+   "title": "Strength Seen in DSV (DSDVY): Can Its 5.5% Jump Turn into More Strength?",
+   "publisher": "Zacks",
+   "published": "2026-06-12T09:08:00Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/strength-seen-dsv-dsdvy-5-090800724.html"
+  },
+  {
+   "title": "DSV AS (DSDVF) Q1 2026 Earnings Call Highlights: Robust Revenue Growth Amid Schenker Integration",
+   "publisher": "GuruFocus.com",
+   "published": "2026-04-30T07:04:35Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/dsv-dsdvf-q1-2026-earnings-070435952.html"
+  },
+  {
+   "title": "How The DSV (CPSE:DSV) Story Is Shifting As Analyst Views Move In Opposite Directions",
+   "publisher": "Simply Wall St.",
+   "published": "2026-04-29T10:09:03Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/dsv-cpse-dsv-story-shifting-100903511.html"
+  },
+  {
+   "title": "A Look At DSV (CPSE:DSV) Valuation As Shares Show Strong Recent Momentum",
+   "publisher": "Simply Wall St.",
+   "published": "2026-04-29T05:03:20Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/look-dsv-cpse-dsv-valuation-050320157.html"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "ticker": "GD",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/GD/holders",
+ "major_holders": {
+  "insidersPercentHeld": 0.00557,
+  "institutionsPercentHeld": 0.87617,
+  "institutionsFloatPercentHeld": 0.88108003,
+  "institutionsCount": 2629.0
+ },
+ "top_institutional": [
+  {
+   "holder": "Longview Asset Management, LLC",
+   "pct": 0.1,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Blackrock Inc.",
+   "pct": 0.0714,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Vanguard Capital Management LLC",
+   "pct": 0.0616,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Newport Trust Company, LLC",
+   "pct": 0.0495,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "State Street Corporation",
+   "pct": 0.0437,
+   "reported": "2026-06-30"
+  }
+ ]
+}

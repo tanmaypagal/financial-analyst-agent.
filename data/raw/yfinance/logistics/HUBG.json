@@ -1,0 +1,176 @@
+{
+ "ticker": "HUBG",
+ "sector": "logistics",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/HUBG",
+ "info": {
+  "longName": "Hub Group, Inc.",
+  "currency": "USD",
+  "financialCurrency": "USD",
+  "exchange": "NMS",
+  "fullExchangeName": "NasdaqGS",
+  "country": "United States",
+  "longBusinessSummary": "Hub Group, Inc., a supply chain solutions provider, offers transportation and logistics management services in North America. It operates in two segments, Intermodal and Transportation Solutions (ITS), and Logistics. The ITS segment offers intermodal and dedicated trucking services, including freight transportation, truckload, less-than-truckload, flatbed, temperature-controlled, and dedicated and regional trucking services. The Logistics segment provides transportation management, freight brokerage, shipment optimization, load consolidation, mode selection, carrier management, load planning and execution, warehousing, fulfillment, cross-docking, and consolidation and final mile delivery services. It also provides trucking transportation services, including dry van, expedited, less-than-truckload, and refrigerated and flatbed services. As of December 31, 2024, the company operated a fleet of approximately 2,300 tractors, 3,200 employee drivers, 500 independent owner-operators, and 4,700 trailers; and owned approximately 50,000 dry and 53-foot containers, as well as 900 refrigerated 53-foot containers. It serves a range of industries, including retail, consumer products, automotive, and durable goods. The company was founded in 1971 and is headquartered in Oak Brook, Illinois.",
+  "fullTimeEmployees": 6604,
+  "marketCap": 2000942976,
+  "enterpriseValue": 2433141760,
+  "trailingPE": 18.804598,
+  "enterpriseToEbitda": 7.308,
+  "enterpriseToRevenue": 0.653,
+  "dividendYield": 1.53,
+  "trailingAnnualDividendYield": 0.014979029,
+  "dividendRate": 0.5,
+  "currentPrice": 32.72,
+  "regularMarketPrice": 32.72,
+  "lastFiscalYearEnd": 1735603200,
+  "mostRecentQuarter": 1759190400,
+  "sector": "Industrials",
+  "industry": "Integrated Freight & Logistics",
+  "heldPercentInsiders": 0.02892,
+  "heldPercentInstitutions": 1.06305
+ },
+ "income_stmt": {
+  "2024-12-31": {
+   "Total Revenue": 3946390000.0,
+   "EBITDA": 339572000.0,
+   "EBIT": 147010000.0,
+   "Net Income": 104043000.0,
+   "Gross Profit": 438364000.0,
+   "Diluted EPS": 1.7
+  },
+  "2023-12-31": {
+   "Total Revenue": 4202585000.0,
+   "EBITDA": 407088000.0,
+   "EBIT": 222639000.0,
+   "Net Income": 167528000.0,
+   "Gross Profit": 503664000.0,
+   "Diluted EPS": 2.62
+  },
+  "2022-12-31": {
+   "Total Revenue": 5340490000.0,
+   "EBITDA": 629190000.0,
+   "EBIT": 475464000.0,
+   "Net Income": 356948000.0,
+   "Gross Profit": 760977000.0,
+   "Diluted EPS": 5.32
+  },
+  "2021-12-31": {
+   "Total Revenue": 4232383000.0,
+   "EBITDA": 368846000.0,
+   "EBIT": 238217000.0,
+   "Net Income": 171474000.0,
+   "Gross Profit": 470264000.0,
+   "Diluted EPS": 2.53
+  }
+ },
+ "balance_sheet": {
+  "2024-12-31": {
+   "Total Debt": 508511000.0,
+   "Net Debt": 166114000.0,
+   "Cash And Cash Equivalents": 98248000.0,
+   "Cash Cash Equivalents And Short Term Investments": 98248000.0
+  },
+  "2023-12-31": {
+   "Total Debt": 575515000.0,
+   "Net Debt": 163412000.0,
+   "Cash And Cash Equivalents": 187270000.0,
+   "Cash Cash Equivalents And Short Term Investments": 187270000.0
+  },
+  "2022-12-31": {
+   "Total Debt": 451744000.0,
+   "Net Debt": 55823000.0,
+   "Cash And Cash Equivalents": 286642000.0,
+   "Cash Cash Equivalents And Short Term Investments": 286642000.0
+  },
+  "2021-12-31": {
+   "Total Debt": 322283000.0,
+   "Net Debt": 114968000.0,
+   "Cash And Cash Equivalents": 159784000.0,
+   "Cash Cash Equivalents And Short Term Investments": 159784000.0
+  }
+ },
+ "cashflow": {
+  "2024-12-31": {
+   "Capital Expenditure": -50847000.0,
+   "Free Cash Flow": 143572000.0,
+   "Operating Cash Flow": 194419000.0
+  },
+  "2023-12-31": {
+   "Capital Expenditure": -140068000.0,
+   "Free Cash Flow": 282090000.0,
+   "Operating Cash Flow": 422158000.0
+  },
+  "2022-12-31": {
+   "Capital Expenditure": -219140000.0,
+   "Free Cash Flow": 239023000.0,
+   "Operating Cash Flow": 458163000.0
+  },
+  "2021-12-31": {
+   "Capital Expenditure": -132952000.0,
+   "Free Cash Flow": 119883000.0,
+   "Operating Cash Flow": 252835000.0
+  }
+ },
+ "news": [
+  {
+   "title": "Jim Cramer on Hub Group (HUBG): \u201cGot to Wait Till Oil Calms Down\u201d",
+   "publisher": "Insider Monkey",
+   "published": "2026-09-21T08:08:51Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-hub-group-hubg-080851735.html"
+  },
+  {
+   "title": "Hub Group receives Nasdaq delisting notice, plans to appeal",
+   "publisher": "FreightWaves",
+   "published": "2026-09-18T13:06:39Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/hub-group-receives-nasdaq-delisting-130639246.html"
+  },
+  {
+   "title": "CFOs On the Move: Week ending Sept. 18",
+   "publisher": "CFO.com",
+   "published": "2026-09-18T09:08:09Z",
+   "url": "https://www.cfo.com/news/cfos-on-the-move-sept-18-Waymo-Wayve-Hub-Group-Flowserve-Flex/830732/"
+  },
+  {
+   "title": "Hub Group (HUBG) Expects an Operating Loss. Can Pricing Catch Up with Freight Costs?",
+   "publisher": "Insider Monkey",
+   "published": "2026-09-17T21:28:54Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/hub-group-hubg-expects-operating-212854510.html"
+  },
+  {
+   "title": "Hub Group anticipates operating loss for H1 2026",
+   "publisher": "Trucking Dive",
+   "published": "2026-09-17T09:49:00Z",
+   "url": "https://www.truckingdive.com/news/hub-group-anticipates-operating-loss-for-h1-2026/830476/"
+  },
+  {
+   "title": "Hub Group hands incoming CFO $1.3M stock award",
+   "publisher": "CFO Dive",
+   "published": "2026-09-16T13:57:03Z",
+   "url": "https://www.cfodive.com/news/hub-group-hands-incoming-cfo-13m-stock-award-comp-accounting/830576/"
+  },
+  {
+   "title": "How Investors Are Reacting To Hub Group (HUBG) Leadership Shake-Up And New 2026 Revenue Guidance",
+   "publisher": "Simply Wall St.",
+   "published": "2026-09-15T13:11:36Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/investors-reacting-hub-group-hubg-131136254.html"
+  },
+  {
+   "title": "Hub Group brings back David Yeager as CEO",
+   "publisher": "Trucking Dive",
+   "published": "2026-09-15T12:09:00Z",
+   "url": "https://www.truckingdive.com/news/hub-group-brings-back-david-yeager-as-ceo/830401/"
+  },
+  {
+   "title": "Hub Group names new CFO: provides accounting error update",
+   "publisher": "CFO Dive",
+   "published": "2026-09-14T14:52:38Z",
+   "url": "https://www.cfodive.com/news/hub-group-names-new-cfo-provides-accounting-error-update/830323/"
+  },
+  {
+   "title": "Hub Group warns of Nasdaq delisting notice; flags H1 operating loss",
+   "publisher": "FreightWaves",
+   "published": "2026-09-14T14:26:43Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/hub-group-warns-nasdaq-delisting-142643603.html"
+  }
+ ]
+}

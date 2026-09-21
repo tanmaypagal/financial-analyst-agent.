@@ -1,0 +1,187 @@
+{
+ "ticker": "NOC",
+ "sector": "defense",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/NOC",
+ "info": {
+  "longName": "Northrop Grumman Corporation",
+  "currency": "USD",
+  "financialCurrency": "USD",
+  "exchange": "NYQ",
+  "fullExchangeName": "NYSE",
+  "country": "United States",
+  "longBusinessSummary": "Northrop Grumman Corporation operates as an aerospace and defense technology company in the United States, Asia/Pacific, Europe, and internationally. It operates through four segments: Aeronautics Systems, Defense Systems, Mission Systems and Space Systems. The Aeronautics Systems segment designs, develops, produces, integrates, sustains, and modernizes aircraft systems. This segment also offers unmanned autonomous aircraft systems, including high-altitude long-endurance strategic, surveillance and reconnaissance systems; and strategic long-range strike aircraft, tactical fighter and air dominance aircraft, and airborne battle management and command and control systems. Its Defense Systems segment designs, develops, integrates, and produces strategic deterrent systems, tactical weapons, and missile defense solutions; and provides sustainment, modernization, and training services for manned and unmanned aircraft and electronics systems. This segment also offers strategic missiles; integrated all-domain command and control systems; precision strike weapons; tactical solid rocket motors, and high-speed air-breathing and hypersonic systems; high-performance gun systems, ammunition, precision munitions, and advanced fuzes; and sustainment, operation, and modernization. The Mission Systems segment provides command, control, communication and computer, intelligence, surveillance, and reconnaissance systems; radar, electro-optical/infrared, and acoustic sensors; electronic warfare systems; advanced communications and network systems; microelectronics; navigation and positioning sensors; maritime power, propulsion, and payload launch systems; cyber solutions; and intelligence processing systems. Its Space Systems segment offers satellites, spacecraft systems, subsystems, sensors, and payloads; ground systems; missile defense systems and interceptors; and launch vehicles and related propulsion systems. The company was founded in 1939 and is based in Falls Church, Virginia.",
+  "fullTimeEmployees": 95000,
+  "marketCap": 74922622976,
+  "enterpriseValue": 89667616768,
+  "trailingPE": 16.747856,
+  "enterpriseToEbitda": 12.359,
+  "enterpriseToRevenue": 2.091,
+  "dividendYield": 1.87,
+  "trailingAnnualDividendYield": 0.01793893,
+  "dividendRate": 9.88,
+  "currentPrice": 527.39,
+  "regularMarketPrice": 527.39,
+  "lastFiscalYearEnd": 1767139200,
+  "mostRecentQuarter": 1782777600,
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "heldPercentInsiders": 0.00266,
+  "heldPercentInstitutions": 0.84486
+ },
+ "income_stmt": {
+  "2025-12-31": {
+   "Total Revenue": 41954000000.0,
+   "EBITDA": 7205000000.0,
+   "EBIT": 5733000000.0,
+   "Net Income": 4182000000.0,
+   "Gross Profit": 8313000000.0,
+   "Diluted EPS": 29.08
+  },
+  "2024-12-31": {
+   "Total Revenue": 41033000000.0,
+   "EBITDA": 7007000000.0,
+   "EBIT": 5637000000.0,
+   "Net Income": 4174000000.0,
+   "Gross Profit": 8362000000.0,
+   "Diluted EPS": 28.34
+  },
+  "2023-12-31": {
+   "Total Revenue": 39290000000.0,
+   "EBITDA": 4229000000.0,
+   "EBIT": 2891000000.0,
+   "Net Income": 2056000000.0,
+   "Gross Profit": 6551000000.0,
+   "Diluted EPS": 13.53
+  },
+  "2022-12-31": {
+   "Total Revenue": 36602000000.0,
+   "EBITDA": 7684000000.0,
+   "EBIT": 6342000000.0,
+   "Net Income": 4896000000.0,
+   "Gross Profit": 7474000000.0,
+   "Diluted EPS": 31.47
+  }
+ },
+ "balance_sheet": {
+  "2025-12-31": {
+   "Total Debt": 17019000000.0,
+   "Net Debt": 10759000000.0,
+   "Cash And Cash Equivalents": 4403000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 4403000000.0
+  },
+  "2024-12-31": {
+   "Total Debt": 16490000000.0,
+   "Net Debt": 10339000000.0,
+   "Cash And Cash Equivalents": 4353000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 4353000000.0
+  },
+  "2023-12-31": {
+   "Total Debt": 15678000000.0,
+   "Net Debt": 10677000000.0,
+   "Cash And Cash Equivalents": 3109000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 3109000000.0
+  },
+  "2022-12-31": {
+   "Total Debt": 13629000000.0,
+   "Net Debt": 9228000000.0,
+   "Cash And Cash Equivalents": 2577000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 2577000000.0
+  },
+  "2021-12-31": {
+   "Total Debt": null,
+   "Net Debt": null,
+   "Cash And Cash Equivalents": null,
+   "Cash Cash Equivalents And Short Term Investments": null
+  }
+ },
+ "cashflow": {
+  "2025-12-31": {
+   "Capital Expenditure": -1450000000.0,
+   "Free Cash Flow": 3307000000.0,
+   "Operating Cash Flow": 4757000000.0
+  },
+  "2024-12-31": {
+   "Capital Expenditure": -1767000000.0,
+   "Free Cash Flow": 2621000000.0,
+   "Operating Cash Flow": 4388000000.0
+  },
+  "2023-12-31": {
+   "Capital Expenditure": -1775000000.0,
+   "Free Cash Flow": 2100000000.0,
+   "Operating Cash Flow": 3875000000.0
+  },
+  "2022-12-31": {
+   "Capital Expenditure": -1435000000.0,
+   "Free Cash Flow": 1466000000.0,
+   "Operating Cash Flow": 2901000000.0
+  },
+  "2021-12-31": {
+   "Capital Expenditure": null,
+   "Free Cash Flow": null,
+   "Operating Cash Flow": null
+  }
+ },
+ "news": [
+  {
+   "title": "Why You Should Avoid Palantir and Buy These 2 Defense Stocks Instead",
+   "publisher": "Motley Fool",
+   "published": "2026-09-20T12:42:00Z",
+   "url": "https://www.fool.com/investing/2026/09/20/why-you-should-avoid-palantir-and-buy-these-2-defe/"
+  },
+  {
+   "title": "Laser Weapons Are Real Now -- and You Can Invest in Them With AeroVironment Stock",
+   "publisher": "Motley Fool",
+   "published": "2026-09-19T10:20:00Z",
+   "url": "https://www.fool.com/investing/2026/09/19/laser-weapons-are-real-and-you-can-invest-in-them/"
+  },
+  {
+   "title": "U.S. approves potential $2.7 billion air defense sale to Ukraine",
+   "publisher": "Investing.com",
+   "published": "2026-09-19T04:03:51Z",
+   "url": "https://www.yahoo.com/news/politics/articles/u-approves-potential-2-7-040351365.html"
+  },
+  {
+   "title": "Can A Faster Factory Lift Boeing Stock?",
+   "publisher": "Trefis",
+   "published": "2026-09-18T21:58:15Z",
+   "url": "https://www.trefis.com/articles/615836/can-a-faster-factory-lift-boeing-stock/2026-09-18"
+  },
+  {
+   "title": "Is RKLB Stock Paying You Enough For The Swings?",
+   "publisher": "Trefis",
+   "published": "2026-09-18T20:49:50Z",
+   "url": "https://www.trefis.com/articles/615858/is-rklb-stock-paying-you-enough-for-the-swings/2026-09-18"
+  },
+  {
+   "title": "Defense ETFs Stand to Gain as Trump Administration Signs JATM Deal",
+   "publisher": "Zacks",
+   "published": "2026-09-18T19:17:00Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/defense-etfs-stand-gain-trump-191700914.html"
+  },
+  {
+   "title": "Can Faster JATM Production Strengthen Lockheed Martin's Growth?",
+   "publisher": "Zacks",
+   "published": "2026-09-18T11:18:00Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/faster-jatm-production-strengthen-lockheed-111800813.html"
+  },
+  {
+   "title": "3 Dividend Stocks With Steady Cash Flow As Rates Stay Higher",
+   "publisher": "Simply Wall St.",
+   "published": "2026-09-18T07:16:08Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/3-dividend-stocks-steady-cash-071608503.html"
+  },
+  {
+   "title": "How General Motors Could Win Big in the US Defense Missile Push",
+   "publisher": "Barrons.com",
+   "published": "2026-09-18T01:53:00Z",
+   "url": "https://www.barrons.com/articles/gm-stock-defense-industry-missile-production-b380d553?siteid=yhoof2&yptr=yahoo"
+  },
+  {
+   "title": "Northrop Grumman Sees Record Backlog, B-21 and Space Growth Fueling Demand",
+   "publisher": "MarketBeat",
+   "published": "2026-09-17T20:02:02Z",
+   "url": "https://www.marketbeat.com/instant-alerts/event-northrop-grumman-sees-record-backlog-b-21-and-space-growth-fueling-demand-2026-09-17/?utm_source=yahoofinance&utm_medium=yahoofinance"
+  }
+ ]
+}

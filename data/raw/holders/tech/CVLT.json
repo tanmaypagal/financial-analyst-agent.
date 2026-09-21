@@ -1,0 +1,38 @@
+{
+ "ticker": "CVLT",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/CVLT/holders",
+ "major_holders": {
+  "insidersPercentHeld": 0.00883,
+  "institutionsPercentHeld": 1.10962,
+  "institutionsFloatPercentHeld": 1.1195099,
+  "institutionsCount": 594.0
+ },
+ "top_institutional": [
+  {
+   "holder": "Blackrock Inc.",
+   "pct": 0.1456,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Vanguard Portfolio Management LLC",
+   "pct": 0.0877,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Vanguard Capital Management LLC",
+   "pct": 0.045,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "AQR Capital Management, LLC",
+   "pct": 0.044299997,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Ameriprise Financial, Inc.",
+   "pct": 0.042,
+   "reported": "2026-06-30"
+  }
+ ]
+}

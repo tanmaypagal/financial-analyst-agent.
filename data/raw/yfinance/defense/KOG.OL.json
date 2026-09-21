@@ -1,0 +1,190 @@
+{
+ "ticker": "KOG.OL",
+ "sector": "defense",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/KOG.OL",
+ "info": {
+  "longName": "Kongsberg Gruppen ASA",
+  "currency": "NOK",
+  "financialCurrency": "NOK",
+  "exchange": "OSL",
+  "fullExchangeName": "Oslo",
+  "country": "Norway",
+  "longBusinessSummary": "Kongsberg Gruppen ASA, together with its subsidiaries, provides high-tech systems and solutions primarily to customers in the defense markets. It operates through Kongsberg Defence & Aerospace, Kongsberg Discovery, and Other segments. The Kongsberg Defence & Aerospace segment provides various systems and services to the defence industry. It provides air defence and combat systems, sonars, and navigation for marine vessels and submarines, as well as integrated command and control systems; remote control weapon stations for land-based vehicles and marine vessels; remote tower solutions for airports; products for military tactical communication; naval strike and air-to-surface missiles; and components and services to the space industry, as well as port monitoring systems. This segment also offers lightweight composite and titanium components for F-35 combat aircraft, as well as maintenance and lifecycle services for military and civil capabilities. The Kongsberg Discovery segment offers subsea positioning and communication technologies; sustainable management technologies; and technologies that provide its customers with information about position, speed, acceleration, and heading, as well as uncrewed platforms that deliver autonomous underwater and surface vessels for research, defence, and commercial use. The Other segment focuses on digitalization within the oil and gas, and renewable energy markets. It operates primarily in Norway, Europe, North America, South America, Asia, Australia, and Africa. The company's distribution channels, including direct sales, partnerships and alliances, online platforms, marketing advanced technology. Kongsberg Gruppen ASA was founded in 1814 and is headquartered in Kongsberg, Norway.",
+  "fullTimeEmployees": 7586,
+  "marketCap": 283234172928,
+  "enterpriseValue": 282585497600,
+  "trailingPE": 53.666668,
+  "enterpriseToEbitda": 42.108,
+  "enterpriseToRevenue": 7.91,
+  "dividendYield": 0.68,
+  "trailingAnnualDividendYield": 0.0068217055,
+  "dividendRate": 2.2,
+  "currentPrice": 322.0,
+  "regularMarketPrice": 322.0,
+  "lastFiscalYearEnd": 1767139200,
+  "mostRecentQuarter": 1782777600,
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "heldPercentInsiders": 0.5417,
+  "heldPercentInstitutions": 0.30306998
+ },
+ "income_stmt": {
+  "2025-12-31": {
+   "Total Revenue": 31562000000.0,
+   "EBITDA": 7812000000.0,
+   "EBIT": 6084000000.0,
+   "Net Income": 7953000000.0,
+   "Gross Profit": 18689000000.0,
+   "Diluted EPS": 9.04
+  },
+  "2024-12-31": {
+   "Total Revenue": 24648000000.0,
+   "EBITDA": 5375000000.0,
+   "EBIT": 3854000000.0,
+   "Net Income": 5126000000.0,
+   "Gross Profit": 15519000000.0,
+   "Diluted EPS": 5.82
+  },
+  "2023-12-31": {
+   "Total Revenue": 40617000000.0,
+   "EBITDA": 6451000000.0,
+   "EBIT": 5014000000.0,
+   "Net Income": 3712000000.0,
+   "Gross Profit": 25283000000.0,
+   "Diluted EPS": 4.216
+  },
+  "2022-12-31": {
+   "Total Revenue": 31803000000.0,
+   "EBITDA": 5090000000.0,
+   "EBIT": 3798000000.0,
+   "Net Income": 2773000000.0,
+   "Gross Profit": 20593000000.0,
+   "Diluted EPS": 3.128
+  },
+  "2021-12-31": {
+   "Total Revenue": null,
+   "EBITDA": null,
+   "EBIT": null,
+   "Net Income": null,
+   "Gross Profit": null,
+   "Diluted EPS": null
+  }
+ },
+ "balance_sheet": {
+  "2025-12-31": {
+   "Total Debt": 5359000000.0,
+   "Cash And Cash Equivalents": 20189000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 20189000000.0
+  },
+  "2024-12-31": {
+   "Total Debt": 4689000000.0,
+   "Cash And Cash Equivalents": 14293000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 14293000000.0
+  },
+  "2023-12-31": {
+   "Total Debt": 4890000000.0,
+   "Cash And Cash Equivalents": 5975000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 5975000000.0
+  },
+  "2022-12-31": {
+   "Total Debt": 4398000000.0,
+   "Cash And Cash Equivalents": 3932000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 3932000000.0
+  },
+  "2021-12-31": {
+   "Total Debt": null,
+   "Cash And Cash Equivalents": null,
+   "Cash Cash Equivalents And Short Term Investments": null
+  }
+ },
+ "cashflow": {
+  "2025-12-31": {
+   "Capital Expenditure": -2932000000.0,
+   "Free Cash Flow": 9800000000.0,
+   "Operating Cash Flow": 12732000000.0
+  },
+  "2024-12-31": {
+   "Capital Expenditure": -2246000000.0,
+   "Free Cash Flow": 11498000000.0,
+   "Operating Cash Flow": 13744000000.0
+  },
+  "2023-12-31": {
+   "Capital Expenditure": -2383000000.0,
+   "Free Cash Flow": 3444000000.0,
+   "Operating Cash Flow": 5827000000.0
+  },
+  "2022-12-31": {
+   "Capital Expenditure": -1078000000.0,
+   "Free Cash Flow": 28000000.0,
+   "Operating Cash Flow": 1106000000.0
+  },
+  "2021-12-31": {
+   "Capital Expenditure": null,
+   "Free Cash Flow": null,
+   "Operating Cash Flow": null
+  }
+ },
+ "news": [
+  {
+   "title": "Oceaneering International (OII) Joins Kongsberg On U.S. Navy XLUUV Program",
+   "publisher": "Simply Wall St.",
+   "published": "2026-07-26T14:07:30Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/oceaneering-international-oii-joins-kongsberg-140730670.html"
+  },
+  {
+   "title": "Kongsberg Gruppen ASA (NSKFF) Q2 2026 Earnings Call Highlights: Record Revenue and Strategic ...",
+   "publisher": "GuruFocus.com",
+   "published": "2026-07-13T15:00:22Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/kongsberg-gruppen-asa-nskff-q2-150022479.html"
+  },
+  {
+   "title": "Malaysia seeks $251 million from Kongsberg after Norway scuttles missile deal",
+   "publisher": "Associated Press",
+   "published": "2026-05-19T11:58:07Z",
+   "url": "https://finance.yahoo.com/economy/policy/articles/malaysia-seeks-251-million-kongsberg-115807191.html"
+  },
+  {
+   "title": "JWF receives contract awards from Kongsberg",
+   "publisher": "The Tribune-Democrat, Johnstown, Pa.",
+   "published": "2026-05-16T03:59:00Z",
+   "url": "https://www.tribdem.com/news/business/jwf-receives-contract-awards-from-kongsberg/article_d97f51ab-b77b-46eb-b518-8626fc994140.html"
+  },
+  {
+   "title": "European Stocks Priced Below Estimated Intrinsic Value",
+   "publisher": "Simply Wall St.",
+   "published": "2026-05-08T10:38:03Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/european-stocks-priced-below-estimated-103803519.html"
+  },
+  {
+   "title": "3 Global Stocks Estimated To Be Up To 48.9% Below Intrinsic Value",
+   "publisher": "Simply Wall St.",
+   "published": "2026-05-08T09:37:58Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/3-global-stocks-estimated-48-093758015.html"
+  },
+  {
+   "title": "European Market's Hidden Value: Indra Sistemas And 2 Other Stocks With Estimated Undervaluation",
+   "publisher": "Simply Wall St.",
+   "published": "2026-05-08T05:37:43Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/european-markets-hidden-value-indra-053743674.html"
+  },
+  {
+   "title": "EU assumes primary funding burden as conflict in Ukraine intensifies",
+   "publisher": "Investing.com",
+   "published": "2026-04-25T06:47:46Z",
+   "url": "https://finance.yahoo.com/economy/policy/articles/eu-assumes-primary-funding-burden-064746234.html"
+  },
+  {
+   "title": "Kongsberg Gruppen (OB:KOG) Valuation In Focus After Strong Multi Year Shareholder Returns",
+   "publisher": "Simply Wall St.",
+   "published": "2026-04-01T05:09:39Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/kongsberg-gruppen-ob-kog-valuation-050939301.html"
+  },
+  {
+   "title": "VISION 2026 | Manufacturers grow with defense contracts",
+   "publisher": "The Tribune-Democrat, Johnstown, Pa.",
+   "published": "2026-03-01T23:31:00Z",
+   "url": "https://www.tribdem.com/news/business/vision-2026-manufacturers-grow-with-defense-contracts/article_13522075-3146-458b-b946-f277a49a7d68.html"
+  }
+ ]
+}

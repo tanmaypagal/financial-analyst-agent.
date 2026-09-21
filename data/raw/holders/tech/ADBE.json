@@ -1,0 +1,38 @@
+{
+ "ticker": "ADBE",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/ADBE/holders",
+ "major_holders": {
+  "insidersPercentHeld": 0.00223,
+  "institutionsPercentHeld": 0.87154996,
+  "institutionsFloatPercentHeld": 0.8735,
+  "institutionsCount": 2967.0
+ },
+ "top_institutional": [
+  {
+   "holder": "Blackrock Inc.",
+   "pct": 0.1035,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Vanguard Capital Management LLC",
+   "pct": 0.0664,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "State Street Corporation",
+   "pct": 0.051599998,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Invesco Ltd.",
+   "pct": 0.0369,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Geode Capital Management, LLC",
+   "pct": 0.0292,
+   "reported": "2026-06-30"
+  }
+ ]
+}

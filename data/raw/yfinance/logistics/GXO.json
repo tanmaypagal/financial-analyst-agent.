@@ -1,0 +1,195 @@
+{
+ "ticker": "GXO",
+ "sector": "logistics",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/GXO",
+ "info": {
+  "longName": "GXO Logistics, Inc.",
+  "currency": "USD",
+  "financialCurrency": "USD",
+  "exchange": "NYQ",
+  "fullExchangeName": "NYSE",
+  "country": "United States",
+  "longBusinessSummary": "GXO Logistics, Inc., together with its subsidiaries, provides logistics services worldwide. It provides warehousing and distribution, order fulfilment, e-commerce, reverse logistics, and other supply chain services. As of December 31, 2025, it operated in 1,043 facilities. The company serves a range of customers in the e-commerce, omnichannel retail, technology and consumer electronics, food and beverage, industrial and manufacturing, consumer packaged goods, and other industries. GXO Logistics, Inc. was incorporated in 2021 and is headquartered in Greenwich, Connecticut.",
+  "fullTimeEmployees": 150000,
+  "marketCap": 5266315264,
+  "enterpriseValue": 10651316224,
+  "trailingPE": 40.637165,
+  "enterpriseToEbitda": 11.319,
+  "enterpriseToRevenue": 0.781,
+  "dividendYield": null,
+  "trailingAnnualDividendYield": 0.0,
+  "dividendRate": null,
+  "currentPrice": 45.92,
+  "regularMarketPrice": 45.92,
+  "lastFiscalYearEnd": 1767139200,
+  "mostRecentQuarter": 1782777600,
+  "sector": "Industrials",
+  "industry": "Integrated Freight & Logistics",
+  "heldPercentInsiders": 0.01031,
+  "heldPercentInstitutions": 1.0832499
+ },
+ "income_stmt": {
+  "2025-12-31": {
+   "Total Revenue": 13178000000.0,
+   "EBITDA": 694000000.0,
+   "EBIT": 237000000.0,
+   "Net Income": 32000000.0,
+   "Gross Profit": 1531000000.0,
+   "Diluted EPS": 0.28
+  },
+  "2024-12-31": {
+   "Total Revenue": 11709000000.0,
+   "EBITDA": 664000000.0,
+   "EBIT": 249000000.0,
+   "Net Income": 134000000.0,
+   "Gross Profit": 1441000000.0,
+   "Diluted EPS": 1.12
+  },
+  "2023-12-31": {
+   "Total Revenue": 9778000000.0,
+   "EBITDA": 680000000.0,
+   "EBIT": 319000000.0,
+   "Net Income": 229000000.0,
+   "Gross Profit": 1382000000.0,
+   "Diluted EPS": 1.92
+  },
+  "2022-12-31": {
+   "Total Revenue": 8993000000.0,
+   "EBITDA": 622000000.0,
+   "EBIT": 293000000.0,
+   "Net Income": 197000000.0,
+   "Gross Profit": 1221000000.0,
+   "Diluted EPS": 1.67
+  },
+  "2021-12-31": {
+   "Total Revenue": null,
+   "EBITDA": null,
+   "EBIT": null,
+   "Net Income": null,
+   "Gross Profit": null,
+   "Diluted EPS": null
+  }
+ },
+ "balance_sheet": {
+  "2025-12-31": {
+   "Total Debt": 5854000000.0,
+   "Net Debt": 2211000000.0,
+   "Cash And Cash Equivalents": 854000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 854000000.0
+  },
+  "2024-12-31": {
+   "Total Debt": 5176000000.0,
+   "Net Debt": 2218000000.0,
+   "Cash And Cash Equivalents": 413000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 413000000.0
+  },
+  "2023-12-31": {
+   "Total Debt": 4086000000.0,
+   "Net Debt": 1179000000.0,
+   "Cash And Cash Equivalents": 468000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 468000000.0
+  },
+  "2022-12-31": {
+   "Total Debt": 4219000000.0,
+   "Net Debt": 1311000000.0,
+   "Cash And Cash Equivalents": 495000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 495000000.0
+  },
+  "2021-12-31": {
+   "Total Debt": null,
+   "Net Debt": null,
+   "Cash And Cash Equivalents": null,
+   "Cash Cash Equivalents And Short Term Investments": null
+  }
+ },
+ "cashflow": {
+  "2025-12-31": {
+   "Capital Expenditure": -324000000.0,
+   "Free Cash Flow": 110000000.0,
+   "Operating Cash Flow": 434000000.0
+  },
+  "2024-12-31": {
+   "Capital Expenditure": -359000000.0,
+   "Free Cash Flow": 190000000.0,
+   "Operating Cash Flow": 549000000.0
+  },
+  "2023-12-31": {
+   "Capital Expenditure": -274000000.0,
+   "Free Cash Flow": 284000000.0,
+   "Operating Cash Flow": 558000000.0
+  },
+  "2022-12-31": {
+   "Capital Expenditure": -342000000.0,
+   "Free Cash Flow": 200000000.0,
+   "Operating Cash Flow": 542000000.0
+  },
+  "2021-12-31": {
+   "Capital Expenditure": null,
+   "Free Cash Flow": null,
+   "Operating Cash Flow": null
+  }
+ },
+ "news": [
+  {
+   "title": "Has GXO Logistics (GXO) Fallen Far Enough To Look Undervalued?",
+   "publisher": "Simply Wall St.",
+   "published": "2026-08-13T07:52:58Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/gxo-logistics-gxo-fallen-far-075258458.html"
+  },
+  {
+   "title": "Record New Business Wins and H1 Turnaround Could Be A Game Changer For GXO Logistics (GXO)",
+   "publisher": "Simply Wall St.",
+   "published": "2026-08-13T03:18:09Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/record-business-wins-h1-turnaround-031809585.html"
+  },
+  {
+   "title": "AI Data Center Demand to TRIPLE by 2030 | GXO CEO on Logistics Impact",
+   "publisher": "FreightWaves",
+   "published": "2026-08-12T19:39:33Z",
+   "url": "https://finance.yahoo.com/technology/ai/articles/ai-data-center-demand-triple-193933095.html"
+  },
+  {
+   "title": "GXO Logistics (GXO) Tightened Guidance Puts Its Valuation Back In Focus",
+   "publisher": "Simply Wall St.",
+   "published": "2026-08-12T17:08:47Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/gxo-logistics-gxo-tightened-guidance-170847897.html"
+  },
+  {
+   "title": "GXO (GXO) Q2 2026 Earnings Call Transcript",
+   "publisher": "Motley Fool",
+   "published": "2026-08-12T00:03:07Z",
+   "url": "https://www.fool.com/earnings/call-transcripts/2026/08/11/gxo-gxo-q2-2026-earnings-call-transcript/"
+  },
+  {
+   "title": "GXO Logistics Q2 Earnings Call Highlights",
+   "publisher": "MarketBeat",
+   "published": "2026-08-08T11:03:47Z",
+   "url": "https://www.marketbeat.com/instant-alerts/gxo-logistics-q2-earnings-call-highlights-2026-08-08/?utm_source=yahoofinance&utm_medium=yahoofinance"
+  },
+  {
+   "title": "Chinese Robot Maker To IPO At $9 Billion Valuation. How It Compares To Tesla's Optimus.",
+   "publisher": "Investor's Business Daily",
+   "published": "2026-08-06T20:00:46Z",
+   "url": "https://www.investors.com/news/tesla-optimus-unitree-humanoid-robot-ai-tech/?src=A00220&yptr=yahoo"
+  },
+  {
+   "title": "Here's Why Shares in GXO Logistics Crashed Today",
+   "publisher": "Motley Fool",
+   "published": "2026-08-05T22:16:47Z",
+   "url": "https://www.fool.com/investing/2026/08/05/heres-why-shares-in-gxo-logistics-crashed-today/"
+  },
+  {
+   "title": "GXO Logistics Inc (GXO) (Q2 2026) Earnings Call Highlights: Strongest Commercial Quarter in ...",
+   "publisher": "GuruFocus.com",
+   "published": "2026-08-05T21:03:34Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/gxo-logistics-inc-gxo-q2-210334905.html"
+  },
+  {
+   "title": "GXO Logistics Fell Sharply Today, But a Turnaround Could Be Coming",
+   "publisher": "Motley Fool",
+   "published": "2026-08-05T20:50:00Z",
+   "url": "https://www.fool.com/investing/2026/08/05/gxo-logistics-fell-sharply-today-but-a-turnaround/"
+  }
+ ]
+}

@@ -1,0 +1,195 @@
+{
+ "ticker": "KTOS",
+ "sector": "defense",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/KTOS",
+ "info": {
+  "longName": "Kratos Defense & Security Solutions, Inc.",
+  "currency": "USD",
+  "financialCurrency": "USD",
+  "exchange": "NMS",
+  "fullExchangeName": "NasdaqGS",
+  "country": "United States",
+  "longBusinessSummary": "Kratos Defense & Security Solutions, Inc., a technology company, provides technology, hardware, products, system, and software for the defense, national security, and commercial markets in the United States, other North America, the Asia Pacific, the Middle East, Europe, and Internationally. The company operates through Kratos Government Solutions and Unmanned Systems segments. It offers virtualized ground systems for satellites and space vehicles, including software for command and control, telemetry, and tracking and control; jet powered unmanned aerial drone systems and hypersonic vehicles and rocket systems; propulsion systems for drones, missiles, loitering munitions, supersonic systems, spacecraft and launch systems, command, control, communication, computing, combat, and intelligence surveillance and reconnaissance; and microwave electronic products for missile, radar, missile defense, space, and satellite; and counter unmanned aircraft systems, directed energy, communication and other systems, and virtual and augmented reality training systems for the warfighter. The company primarily serves national security-related agencies, the U.S. Department of Defense, intelligence and classified agencies, international government agencies, and domestic and international commercial customers. Kratos Defense & Security Solutions, Inc. was formerly known as Wireless Facilities, Inc. and changed its name to Kratos Defense & Security Solutions, Inc. in August 1999. Kratos Defense & Security Solutions, Inc. was incorporated in 1994 and is headquartered in San Diego, California.",
+  "fullTimeEmployees": 4300,
+  "marketCap": 8909253632,
+  "enterpriseValue": 7665254400,
+  "trailingPE": 279.17645,
+  "enterpriseToEbitda": 88.106,
+  "enterpriseToRevenue": 5.035,
+  "dividendYield": null,
+  "trailingAnnualDividendYield": 0.0,
+  "dividendRate": null,
+  "currentPrice": 47.46,
+  "regularMarketPrice": 47.46,
+  "lastFiscalYearEnd": 1766880000,
+  "mostRecentQuarter": 1782604800,
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "heldPercentInsiders": 0.01276,
+  "heldPercentInstitutions": 0.85377
+ },
+ "income_stmt": {
+  "2025-12-31": {
+   "Total Revenue": 1346800000.0,
+   "EBITDA": 102900000.0,
+   "EBIT": 43600000.0,
+   "Net Income": 22000000.0,
+   "Gross Profit": 307900000.0,
+   "Diluted EPS": 0.13
+  },
+  "2024-12-31": {
+   "Total Revenue": 1136300000.0,
+   "EBITDA": 93600000.0,
+   "EBIT": 41700000.0,
+   "Net Income": 16300000.0,
+   "Gross Profit": 287200000.0,
+   "Diluted EPS": 0.11
+  },
+  "2023-12-31": {
+   "Total Revenue": 1037100000.0,
+   "EBITDA": 77500000.0,
+   "EBIT": 32800000.0,
+   "Net Income": -8900000.0,
+   "Gross Profit": 268600000.0,
+   "Diluted EPS": -0.07
+  },
+  "2022-12-31": {
+   "Total Revenue": 898300000.0,
+   "EBITDA": 26200000.0,
+   "EBIT": -14700000.0,
+   "Net Income": -36900000.0,
+   "Gross Profit": 226000000.0,
+   "Diluted EPS": -0.29
+  },
+  "2021-12-31": {
+   "Total Revenue": null,
+   "EBITDA": null,
+   "EBIT": null,
+   "Net Income": null,
+   "Gross Profit": null,
+   "Diluted EPS": null
+  }
+ },
+ "balance_sheet": {
+  "2025-12-31": {
+   "Total Debt": 145800000.0,
+   "Net Debt": null,
+   "Cash And Cash Equivalents": 560600000.0,
+   "Cash Cash Equivalents And Short Term Investments": 560600000.0
+  },
+  "2024-12-31": {
+   "Total Debt": 282000000.0,
+   "Net Debt": null,
+   "Cash And Cash Equivalents": 329300000.0,
+   "Cash Cash Equivalents And Short Term Investments": 329300000.0
+  },
+  "2023-12-31": {
+   "Total Debt": 321400000.0,
+   "Net Debt": 146500000.0,
+   "Cash And Cash Equivalents": 72800000.0,
+   "Cash Cash Equivalents And Short Term Investments": 72800000.0
+  },
+  "2022-12-31": {
+   "Total Debt": 301800000.0,
+   "Net Debt": 168900000.0,
+   "Cash And Cash Equivalents": 81300000.0,
+   "Cash Cash Equivalents And Short Term Investments": 81300000.0
+  },
+  "2021-12-31": {
+   "Total Debt": null,
+   "Net Debt": null,
+   "Cash And Cash Equivalents": null,
+   "Cash Cash Equivalents And Short Term Investments": null
+  }
+ },
+ "cashflow": {
+  "2025-12-31": {
+   "Capital Expenditure": -95300000.0,
+   "Free Cash Flow": -137400000.0,
+   "Operating Cash Flow": -42100000.0
+  },
+  "2024-12-31": {
+   "Capital Expenditure": -58200000.0,
+   "Free Cash Flow": -8500000.0,
+   "Operating Cash Flow": 49700000.0
+  },
+  "2023-12-31": {
+   "Capital Expenditure": -52400000.0,
+   "Free Cash Flow": 12800000.0,
+   "Operating Cash Flow": 65200000.0
+  },
+  "2022-12-31": {
+   "Capital Expenditure": -45400000.0,
+   "Free Cash Flow": -71100000.0,
+   "Operating Cash Flow": -25700000.0
+  },
+  "2021-12-31": {
+   "Capital Expenditure": null,
+   "Free Cash Flow": null,
+   "Operating Cash Flow": null
+  }
+ },
+ "news": [
+  {
+   "title": "2 Profitable Stocks on Our Buy List and 1 We Avoid",
+   "publisher": "StockStory",
+   "published": "2026-09-18T11:20:40Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/2-profitable-stocks-buy-list-112040220.html"
+  },
+  {
+   "title": "Can Kratos' Manufacturing Expansion Support Affordable Defense Growth?",
+   "publisher": "Zacks",
+   "published": "2026-09-17T13:18:00Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/kratos-manufacturing-expansion-support-affordable-131800316.html"
+  },
+  {
+   "title": "Is AeroVironment Becoming a Broader Defense Technology Platform?",
+   "publisher": "Zacks",
+   "published": "2026-09-17T13:11:00Z",
+   "url": "https://finance.yahoo.com/technology/articles/aerovironment-becoming-broader-defense-technology-131100258.html"
+  },
+  {
+   "title": "Is Kratos Defense & Security Solutions (KTOS) Undervalued After Its Latest Missile Test Success?",
+   "publisher": "Simply Wall St.",
+   "published": "2026-09-17T05:14:25Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/kratos-defense-security-solutions-ktos-051425770.html"
+  },
+  {
+   "title": "This Stock Can Rise 150%, Plus 12 More Aerospace Buys",
+   "publisher": "Barrons.com",
+   "published": "2026-09-15T15:57:00Z",
+   "url": "https://www.barrons.com/articles/defense-stock-buys-guggenheim-northrop-grumman-8b568e43?siteid=yhoof2&yptr=yahoo"
+  },
+  {
+   "title": "Can ONDS' GATE & Bron Buyouts Fuel its Defense Growth Engine?",
+   "publisher": "Zacks",
+   "published": "2026-09-15T13:03:00Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/onds-gate-bron-buyouts-fuel-130300206.html"
+  },
+  {
+   "title": "3 Defense Stocks Riding the High-Energy Laser Boom",
+   "publisher": "MarketBeat",
+   "published": "2026-09-15T11:35:00Z",
+   "url": "https://www.marketbeat.com/articles/3-defense-stocks-riding-the-high-energy-laser-boom/?utm_source=yahoofinance&utm_medium=yahoofinance"
+  },
+  {
+   "title": "How Could Project Anaconda Expand Kratos' Role in Naval Radar?",
+   "publisher": "Zacks",
+   "published": "2026-09-11T13:57:00Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/could-project-anaconda-expand-kratos-135700256.html"
+  },
+  {
+   "title": "Price Prediction: Rocket Lab\u2019s Next Leg Higher Could Be Massive, 95% Upside Ahead",
+   "publisher": "24/7 Wall St.",
+   "published": "2026-09-11T13:30:42Z",
+   "url": "https://247wallst.com/investing/2026/09/11/price-prediction-rocket-labs-next-leg-higher-could-be-massive-95-upside-ahead/"
+  },
+  {
+   "title": "ONDS Stock Sinks 22% YTD: Is it Time to Hold Tight or Head for Exit?",
+   "publisher": "Zacks",
+   "published": "2026-09-07T14:45:00Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/onds-stock-sinks-22-ytd-144500134.html"
+  }
+ ]
+}

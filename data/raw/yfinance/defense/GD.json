@@ -1,0 +1,181 @@
+{
+ "ticker": "GD",
+ "sector": "defense",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/GD",
+ "info": {
+  "longName": "General Dynamics Corporation",
+  "currency": "USD",
+  "financialCurrency": "USD",
+  "exchange": "NYQ",
+  "fullExchangeName": "NYSE",
+  "country": "United States",
+  "longBusinessSummary": "General Dynamics Corporation operates as an aerospace and defense company worldwide. It operates through four segments: Aerospace, Marine Systems, Combat Systems, and Technologies. The Aerospace segment produces and sells business jets; and offers aircraft maintenance and repair, management, aircraft-on-ground support, customer support and custom completion services, modifications, upgrades, and lifecycle sustainment support services. The Marine Systems segment designs and builds nuclear-powered submarines, surface combatants, and auxiliary ships for the United States Navy and Jones Act ships for commercial customers, as well as provides maintenance, modernization, and lifecycle support services for navy ships; offers and program management, planning, engineering, and design support services for submarine construction programs. The Combat Systems segment manufactures land combat solutions, such as wheeled and tracked combat vehicles, Stryker wheeled combat vehicles, piranha vehicles, weapons systems, energetics and munitions, mobile bridge systems with payloads, tactical vehicles, main battle tanks, and armored vehicles; and offers modernization programs, support and sustainment services, and development programs. The Technologies segment provides information technology solutions and mission support services; mobile communication, computers, and command-and-control mission systems; intelligence, surveillance, and reconnaissance solutions to military, intelligence, and federal civilian customers; cloud services, cybersecurity, network modernization, artificial intelligence; machine learning; application development, high-performance computing, and 5G and advanced communications services; and unmanned undersea vehicle manufacturing and assembly services. The company was founded in 1899 and is headquartered in Reston, Virginia.",
+  "fullTimeEmployees": 117000,
+  "marketCap": 95520210944,
+  "enterpriseValue": 100522524672,
+  "trailingPE": 21.501217,
+  "enterpriseToEbitda": 15.155,
+  "enterpriseToRevenue": 1.832,
+  "dividendYield": 1.8,
+  "trailingAnnualDividendYield": 0.017361987,
+  "dividendRate": 6.36,
+  "currentPrice": 353.05,
+  "regularMarketPrice": 353.05,
+  "lastFiscalYearEnd": 1767139200,
+  "mostRecentQuarter": 1783209600,
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "heldPercentInsiders": 0.00557,
+  "heldPercentInstitutions": 0.87617
+ },
+ "income_stmt": {
+  "2025-12-31": {
+   "Total Revenue": 52550000000.0,
+   "EBITDA": 6429000000.0,
+   "EBIT": 5505000000.0,
+   "Net Income": 4210000000.0,
+   "Gross Profit": 7951000000.0,
+   "Diluted EPS": 15.45
+  },
+  "2024-12-31": {
+   "Total Revenue": 47716000000.0,
+   "EBITDA": 5819000000.0,
+   "EBIT": 4933000000.0,
+   "Net Income": 3782000000.0,
+   "Gross Profit": 7364000000.0,
+   "Diluted EPS": 13.63
+  },
+  "2023-12-31": {
+   "Total Revenue": 42272000000.0,
+   "EBITDA": 5246000000.0,
+   "EBIT": 4383000000.0,
+   "Net Income": 3315000000.0,
+   "Gross Profit": 6672000000.0,
+   "Diluted EPS": 12.02
+  },
+  "2022-12-31": {
+   "Total Revenue": 39407000000.0,
+   "EBITDA": 5311000000.0,
+   "EBIT": 4427000000.0,
+   "Net Income": 3390000000.0,
+   "Gross Profit": 6622000000.0,
+   "Diluted EPS": 12.19
+  }
+ },
+ "balance_sheet": {
+  "2025-12-31": {
+   "Total Debt": 9789000000.0,
+   "Net Debt": 5680000000.0,
+   "Cash And Cash Equivalents": 2333000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 2333000000.0
+  },
+  "2024-12-31": {
+   "Total Debt": 10676000000.0,
+   "Net Debt": 7065000000.0,
+   "Cash And Cash Equivalents": 1697000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 1697000000.0
+  },
+  "2023-12-31": {
+   "Total Debt": 11083000000.0,
+   "Net Debt": 7348000000.0,
+   "Cash And Cash Equivalents": 1913000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 1913000000.0
+  },
+  "2022-12-31": {
+   "Total Debt": 12114000000.0,
+   "Net Debt": 9254000000.0,
+   "Cash And Cash Equivalents": 1242000000.0,
+   "Cash Cash Equivalents And Short Term Investments": 1242000000.0
+  }
+ },
+ "cashflow": {
+  "2025-12-31": {
+   "Capital Expenditure": -1161000000.0,
+   "Free Cash Flow": 3959000000.0,
+   "Operating Cash Flow": 5120000000.0
+  },
+  "2024-12-31": {
+   "Capital Expenditure": -916000000.0,
+   "Free Cash Flow": 3196000000.0,
+   "Operating Cash Flow": 4112000000.0
+  },
+  "2023-12-31": {
+   "Capital Expenditure": -904000000.0,
+   "Free Cash Flow": 3806000000.0,
+   "Operating Cash Flow": 4710000000.0
+  },
+  "2022-12-31": {
+   "Capital Expenditure": -1114000000.0,
+   "Free Cash Flow": 3465000000.0,
+   "Operating Cash Flow": 4579000000.0
+  },
+  "2021-12-31": {
+   "Capital Expenditure": null,
+   "Free Cash Flow": null,
+   "Operating Cash Flow": null
+  }
+ },
+ "news": [
+  {
+   "title": "U.S. approves potential $2.7 billion air defense sale to Ukraine",
+   "publisher": "Investing.com",
+   "published": "2026-09-19T04:03:51Z",
+   "url": "https://www.yahoo.com/news/politics/articles/u-approves-potential-2-7-040351365.html"
+  },
+  {
+   "title": "Can A Faster Factory Lift Boeing Stock?",
+   "publisher": "Trefis",
+   "published": "2026-09-18T21:58:15Z",
+   "url": "https://www.trefis.com/articles/615836/can-a-faster-factory-lift-boeing-stock/2026-09-18"
+  },
+  {
+   "title": "Defense ETFs Stand to Gain as Trump Administration Signs JATM Deal",
+   "publisher": "Zacks",
+   "published": "2026-09-18T19:17:00Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/defense-etfs-stand-gain-trump-191700914.html"
+  },
+  {
+   "title": "Can L3Harris' Expanding Global Reach Support Future Growth?",
+   "publisher": "Zacks",
+   "published": "2026-09-18T14:11:00Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/l3harris-expanding-global-reach-support-141100323.html"
+  },
+  {
+   "title": "Wall Street Analysts See General Dynamics (GD) as a Buy: Should You Invest?",
+   "publisher": "Zacks",
+   "published": "2026-09-18T13:30:04Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-see-general-133004480.html"
+  },
+  {
+   "title": "Boeing Crashes Again: One Prominent Analyst Reiterated His Call for 55% Gains Within a Year",
+   "publisher": "24/7 Wall St.",
+   "published": "2026-09-18T11:37:43Z",
+   "url": "https://247wallst.com/investing/2026/09/18/boeing-crashes-again-one-prominent-analyst-reiterated-his-call-for-55-gains-within-a-year/"
+  },
+  {
+   "title": "General Dynamics (GD) Stock Falls Amid Market Uptick: What Investors Need to Know",
+   "publisher": "Zacks",
+   "published": "2026-09-17T22:15:02Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/general-dynamics-gd-stock-falls-221502779.html"
+  },
+  {
+   "title": "Does Analyst Upgrade and Earnings Revisions Change The Bull Case For General Dynamics (GD)?",
+   "publisher": "Simply Wall St.",
+   "published": "2026-09-17T18:14:25Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/does-analyst-upgrade-earnings-revisions-181425812.html"
+  },
+  {
+   "title": "General Dynamics (GD), Why Is The Latest Attention Building?",
+   "publisher": "Simply Wall St.",
+   "published": "2026-09-17T14:14:10Z",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/general-dynamics-gd-why-latest-141410405.html"
+  },
+  {
+   "title": "5 Elite Dividend Stocks Backed by America\u2019s Massive Defense Budget",
+   "publisher": "24/7 Wall St.",
+   "published": "2026-09-16T16:05:32Z",
+   "url": "https://247wallst.com/investing/2026/09/16/5-elite-dividend-stocks-backed-by-americas-massive-defense-budget/"
+  }
+ ]
+}

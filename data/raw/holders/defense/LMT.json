@@ -1,0 +1,38 @@
+{
+ "ticker": "LMT",
+ "retrieved_at": "2026-09-21",
+ "source_url": "https://finance.yahoo.com/quote/LMT/holders",
+ "major_holders": {
+  "insidersPercentHeld": 0.0011100001,
+  "institutionsPercentHeld": 0.76658,
+  "institutionsFloatPercentHeld": 0.76744,
+  "institutionsCount": 3305.0
+ },
+ "top_institutional": [
+  {
+   "holder": "State Street Corporation",
+   "pct": 0.1429,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Blackrock Inc.",
+   "pct": 0.08180001,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Vanguard Capital Management LLC",
+   "pct": 0.061300002,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Charles Schwab Investment Management, Inc.",
+   "pct": 0.033800002,
+   "reported": "2026-06-30"
+  },
+  {
+   "holder": "Morgan Stanley",
+   "pct": 0.0247,
+   "reported": "2026-06-30"
+  }
+ ]
+}

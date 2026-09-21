@@ -1,0 +1,74 @@
+{
+ "ticker": "LMT",
+ "retrieved_at": "2026-09-21",
+ "window": [
+  "2026-03-25",
+  "2026-09-21"
+ ],
+ "search_terms": [
+  "LOCKHEED MARTIN"
+ ],
+ "source": "USAspending.gov spending_by_award (date_signed)",
+ "awards": [
+  {
+   "internal_id": 360125933,
+   "Award ID": "W31P4Q26C0013",
+   "Recipient Name": "LOCKHEED MARTIN CORPORATION",
+   "Award Amount": 4761000000.0,
+   "Description": "EXECUTE PHASED ARRAY TRACKING RADAR TO INTERCEPT ON TARGET (PATRIOT) ADVANCED CAPABILITY-3 (PAC-3) MISSILE PRODUCTION BY PROVIDING INCIDENTAL SERVICES, HARDWARE, FACILITIES, EQUIPMENT, AND TECHNICAL, PLANNING, MANAGEMENT, AND MANUFACTURING EFFORTS.",
+   "Start Date": "2026-04-09",
+   "Awarding Agency": "Department of Defense",
+   "generated_internal_id": "CONT_AWD_W31P4Q26C0013_9700_-NONE-_-NONE-",
+   "awarding_agency_id": 1173,
+   "agency_slug": "department-of-defense"
+  },
+  {
+   "internal_id": 361329344,
+   "Award ID": "N0001926F0301",
+   "Recipient Name": "LOCKHEED MARTIN CORPORATION",
+   "Award Amount": 991127074.0,
+   "Description": "ECP-1942 BLOCK 4 CAPABILITY UPGRADE YEAR 2 AND YEAR 3 AWARD",
+   "Start Date": "2026-05-15",
+   "Awarding Agency": "Department of Defense",
+   "generated_internal_id": "CONT_AWD_N0001926F0301_9700_N0001924G0010_9700",
+   "awarding_agency_id": 1173,
+   "agency_slug": "department-of-defense"
+  },
+  {
+   "internal_id": 360967587,
+   "Award ID": "HQ085126FE030",
+   "Recipient Name": "LOCKHEED MARTIN CORPORATION",
+   "Award Amount": 968565148.0,
+   "Description": "NEXT GENERATION MISSILE DEFENSE RADAR",
+   "Start Date": "2026-05-01",
+   "Awarding Agency": "Department of Defense",
+   "generated_internal_id": "CONT_AWD_HQ085126FE030_9700_HQ085926DE002_9700",
+   "awarding_agency_id": 1173,
+   "agency_slug": "department-of-defense"
+  },
+  {
+   "internal_id": 361365076,
+   "Award ID": "N0001926F0233",
+   "Recipient Name": "LOCKHEED MARTIN CORPORATION",
+   "Award Amount": 879098831.89,
+   "Description": "LOT 18-19 AAE",
+   "Start Date": "2026-05-18",
+   "Awarding Agency": "Department of Defense",
+   "generated_internal_id": "CONT_AWD_N0001926F0233_9700_N0001924G0010_9700",
+   "awarding_agency_id": 1173,
+   "agency_slug": "department-of-defense"
+  },
+  {
+   "internal_id": 359787070,
+   "Award ID": "W31P4Q26F0023",
+   "Recipient Name": "LOCKHEED MARTIN CORPORATION",
+   "Award Amount": 538917525.52,
+   "Description": "PRECISION STRIKE MISSILE (PRSM) FOR FISCAL YEAR 2026, FULL RATE PRODUCTION LOT 1",
+   "Start Date": "2026-03-31",
+   "Awarding Agency": "Department of Defense",
+   "generated_internal_id": "CONT_AWD_W31P4Q26F0023_9700_W31P4Q25D0010_9700",
+   "awarding_agency_id": 1173,
+   "agency_slug": "department-of-defense"
+  }
+ ]
+}
