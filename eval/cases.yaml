@@ -1,0 +1,108 @@
+# Eval cases. `expect` keys (all optional; each becomes a programmatic check in eval/checks.py):
+#   must_call: [tools]            all must appear in tools_called
+#   must_call_any: [tools]        at least one (list every tool that supplies the needed data, e.g. get_financials OR get_company_snapshot)
+#   no_data_for: [names]          out-of-scope: answer must say NO DATA, confidence low, no numbers, a tool returned found=false
+#   expect_gap_terms: [regex]     answer/data_gaps must acknowledge the gap (missing-field cases)
+#   max_confidence: low|medium    confidence must not exceed this
+#   expect_stale_mention: true    answer/reasons/gaps must mention staleness / dated period
+#   must_reference: [names]       companies_referenced must include
+#   cite_headcount: true          the headcount value_num returned by a get_signals call must appear in the answer
+#   cite_tool_value: {tool, key}  a numeric field returned by that tool must appear in the answer
+# `group` links cases for the cross-persona divergence check.
+config:
+  grounding_min_rate: 0.85         # share of answer numbers that must appear in tool outputs (allowing rescaling)
+  divergence_max_rank_corr: 0.9    # a same-question group FAILS only if all personas share the top pick AND their mean per-company rank correlation exceeds this
+persona_forbidden_terms:           # regex (case-insensitive); a hit fails `forbidden_reasoning`
+  pe_analyst: ['price target', 'P/E[- ]based', '\bBUY\b rating', '\bSELL\b rating']
+  equity_analyst: ['LBO score', 'leveraged buyout', 'take[- ]private thesis']
+  mf_analyst: ['LBO (score|attractiveness)', 'leverage capacity', 'price target']   # the MF answer may legitimately say it does NOT do take-private analysis
+
+cases:
+  # ---- brief sample: PE / Logistics, and the same question for the other personas ------------------------
+  - {id: buyout_logistics_pe, persona: pe_analyst, sector: logistics, group: buyout_logistics, tags: [brief],
+     query: "Which companies in this sector look like attractive buyout targets based on the data you have?",
+     expect: {must_call_any: [get_financials, get_company_snapshot], must_call: [get_data_quality]}}
+  - {id: buyout_logistics_mf, persona: mf_analyst, sector: logistics, group: buyout_logistics, tags: [brief],
+     query: "Which companies in this sector look like attractive buyout targets based on the data you have?"}
+  - {id: buyout_logistics_eq, persona: equity_analyst, sector: logistics, group: buyout_logistics, tags: [brief],
+     query: "Which companies in this sector look like attractive buyout targets based on the data you have?"}
+
+  # ---- brief sample: cross-persona, same question, Tech --------------------------------------------------
+  - {id: money_tech_mf, persona: mf_analyst, sector: tech, group: money_tech, tags: [brief, cross_persona],
+     query: "Is this sector a good place to be putting money to work right now?"}
+  - {id: money_tech_eq, persona: equity_analyst, sector: tech, group: money_tech, tags: [brief, cross_persona],
+     query: "Is this sector a good place to be putting money to work right now?"}
+  - {id: money_tech_pe, persona: pe_analyst, sector: tech, group: money_tech, tags: [brief, cross_persona],
+     query: "Is this sector a good place to be putting money to work right now?"}
+  - {id: money_defense_mf, persona: mf_analyst, sector: defense, group: money_defense, tags: [cross_persona],
+     query: "Is this sector a good place to be putting money to work right now?"}
+  - {id: money_defense_eq, persona: equity_analyst, sector: defense, group: money_defense, tags: [cross_persona],
+     query: "Is this sector a good place to be putting money to work right now?"}
+  - {id: money_defense_pe, persona: pe_analyst, sector: defense, group: money_defense, tags: [cross_persona],
+     query: "Is this sector a good place to be putting money to work right now?"}
+
+  # ---- brief samples: MF core vs avoid, Equity margins, PE take-private -----------------------------------
+  - {id: core_vs_avoid_defense, persona: mf_analyst, sector: defense, tags: [brief],
+     query: "Which of these companies would fit a long-term core holding versus a name I should avoid?"}
+  - {id: core_vs_avoid_logistics, persona: mf_analyst, sector: logistics, tags: [brief],
+     query: "Which of these companies would fit a long-term core holding versus a name I should avoid?"}
+  - {id: margins_defense, persona: equity_analyst, sector: defense, tags: [brief],
+     query: "Walk me through the margin profile of the companies in your data - who's improving and who's under pressure?",
+     expect: {must_call_any: [get_sector_stats, get_financials]}}
+  - {id: margins_tech, persona: equity_analyst, sector: tech, tags: [brief],
+     query: "Walk me through the margin profile of the companies in your data - who's improving and who's under pressure?"}
+  - {id: take_private_tech, persona: pe_analyst, sector: tech, tags: [brief],
+     query: "If I had to pick one company here to take private, which would it be and what's the operational thesis?"}
+  - {id: take_private_defense, persona: pe_analyst, sector: defense, tags: [ownership],
+     query: "If I had to pick one company here to take private, which would it be and what's the operational thesis?",
+     expect: {must_call: [get_company_profile]}}
+
+  # ---- data-grounding: must reflect a real DB lookup -------------------------------------------------------
+  - {id: ground_headcount_lmt, persona: equity_analyst, sector: defense, tags: [grounding],
+     query: "What's the most recent headcount or hiring signal you have for Lockheed Martin?",
+     expect: {must_call: [get_signals], cite_headcount: true, must_reference: [Lockheed Martin]}}
+  - {id: ground_headcount_xpo, persona: pe_analyst, sector: logistics, tags: [grounding],
+     query: "What's the most recent headcount or hiring signal you have for XPO?",
+     expect: {must_call: [get_signals], cite_headcount: true}}
+  - {id: ground_hiring_dynatrace, persona: mf_analyst, sector: tech, tags: [grounding, missing],
+     query: "What's the latest hiring signal you have for Dynatrace?",
+     expect: {must_call: [get_signals], expect_gap_terms: ['hiring']}}
+  - {id: ground_backlog_rtx, persona: equity_analyst, sector: defense, tags: [grounding],
+     query: "What is RTX's order backlog and how has it trended?",
+     expect: {must_call: [get_defense_metrics]}}
+
+  # ---- out of scope: must say NO DATA (incl. a real, well-known company) ------------------------------------
+  - {id: oos_tesla_defense, persona: mf_analyst, sector: defense, tags: [out_of_scope],
+     query: "What do you think about Tesla?", expect: {no_data_for: [Tesla]}}
+  - {id: oos_boeing_defense, persona: pe_analyst, sector: defense, tags: [out_of_scope],
+     query: "Is Boeing a good LBO candidate?", expect: {no_data_for: [Boeing]}}
+  - {id: oos_microsoft_in_defense, persona: equity_analyst, sector: defense, tags: [out_of_scope, cross_sector],
+     query: "What do you think about Microsoft?", expect: {no_data_for: [Microsoft]}}
+  - {id: oos_nvidia_tech, persona: equity_analyst, sector: tech, tags: [out_of_scope],
+     query: "Give me your view on Nvidia.", expect: {no_data_for: [Nvidia]}}
+  - {id: oos_ups_logistics, persona: mf_analyst, sector: logistics, tags: [out_of_scope],
+     query: "Would UPS be a core holding?", expect: {no_data_for: [UPS]}}
+  - {id: oos_fictional_tech, persona: pe_analyst, sector: tech, tags: [out_of_scope],
+     query: "What's the leverage capacity of Acme Quantum Holdings?", expect: {no_data_for: [Acme Quantum Holdings]}}
+
+  # ---- missing-field (NULL in DB): must state the gap, not estimate -------------------------------------------
+  - {id: missing_pe_rxo, persona: equity_analyst, sector: logistics, tags: [missing],
+     query: "What is RXO's P/E ratio?",
+     expect: {must_call_any: [get_valuation, get_company_snapshot], expect_gap_terms: ['P/E|price[- ]to[- ]earnings|pe ratio', 'not (available|reported|provided)|unavailable|null|missing|no (value|data)|n/?a|not meaningful|negative']}}
+  - {id: missing_dividend_ktos, persona: mf_analyst, sector: defense, tags: [missing],
+     query: "What is Kratos's dividend yield?",
+     expect: {expect_gap_terms: ['dividend', 'not (available|reported|provided)|unavailable|null|missing|no (value|data|dividend)|n/?a|does not pay|none']}}
+  - {id: missing_book_to_bill_lmt, persona: equity_analyst, sector: defense, tags: [missing],
+     query: "What is Lockheed Martin's book-to-bill ratio?",
+     expect: {must_call: [get_defense_metrics], expect_gap_terms: ['book[- ]to[- ]bill', 'not (available|reported|provided|disclosed)|unavailable|null|missing|no (value|data)|gap|n/?a']}}
+  - {id: missing_ownership_bae, persona: pe_analyst, sector: defense, tags: [missing, ownership],
+     query: "Who are BAE Systems' largest shareholders, and could that block a take-private?",
+     expect: {expect_gap_terms: ['sharehold|owner|stake|voting', 'not (available|sourced|provided|established|confirmed)|unavailable|null|missing|no (value|data|information)|gap|unknown|cannot confirm|not known']}}
+
+  # ---- stale data: must flag age and not claim high confidence -------------------------------------------------
+  - {id: stale_hubg_financials, persona: equity_analyst, sector: logistics, tags: [stale],
+     query: "What are Hub Group's latest annual financials, and how current is that data?",
+     expect: {must_call_any: [get_financials, get_company_snapshot], expect_stale_mention: true, max_confidence: medium}}
+  - {id: stale_headcount_saab, persona: mf_analyst, sector: defense, tags: [stale],
+     query: "How many employees does Saab have and how recent is that figure?",
+     expect: {must_call: [get_signals], expect_stale_mention: true, max_confidence: medium}}
